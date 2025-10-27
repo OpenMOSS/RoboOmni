@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>RoboOmni: Proactive Robot Manipulation in Omni-modal Context</title>
+  <meta name="description" content="RoboOmni: Proactive Robot Manipulation in Omni-modal Context">
+  <meta name="keywords" content="RoboOmni">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="RoboOmni: Proactive Robot Manipulation in Omni-modal Context">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="RoboOmni: Proactive Robot Manipulation in Omni-modal Context">
+  <meta property="og:image" content="https://openvla.github.io/static/images/teaser.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1939" />
+  <meta property="og:image:height" content="772" />
+  <meta property="og:url" content="https://openvla.github.io/" />
+  <meta property="og:description" content="RoboOmni: Proactive Robot Manipulation in Omni-modal Context" />
+  <meta name="twitter:title" content="RoboOmni: Proactive Robot Manipulation in Omni-modal Context" />
+  <meta name="twitter:description" content="RoboOmni: Proactive Robot Manipulation in Omni-modal Context" />
+  <meta name="twitter:image" content="https://openvla.github.io/static/images/teaser.png" />
+  
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/icon.png">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+  
+</head>
+
+<body>
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">RoboOmni:<br><span style="font-size:2.4rem;">Proactive Robot Manipulation in Omni-modal Context</span></h1>
+            <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://sinwang20.github.io/" style="text-decoration: none; color: inherit;">Siyin Wang<sup style="color:#3058dc;">1,</sup><sup style="color:#1c853c;">2</sup></a>
+              ,
+            </span>
+            <span class="author-block">
+              <a href="https://jinlanfu.github.io/" style="text-decoration: none; color: inherit;">Jinlan Fu<sup style="color:#ed4b82;">3,†</sup></a>
+              ,
+            </span>
+            <span class="author-block">Feihong Liu<sup style="color:#3058dc;">1</sup>,</span>
+            <span class="author-block">Xinzhe He<sup style="color:#3058dc;">1</sup>,</span>
+            <span class="author-block">Huangxuan Wu<sup style="color:#3058dc;">1</sup>,</span><br>
+            <span class="author-block">Junhao Shi<sup style="color:#3058dc;">1,</sup><sup style="color:#1c853c;">2</sup>,</span>
+            <span class="author-block">Kexin Huang<sup style="color:#3058dc;">1</sup>,</span>
+            <span class="author-block">Zhaoye Fei<sup style="color:#3058dc;">1</sup>,</span><br>
+            <span class="author-block"><a href="https://scholar.google.com/citations?user=IlNreT4AAAAJ&hl=en" style="text-decoration: none; color: inherit;">Jingjing Gong<sup style="color:#1c853c;">2</sup></a>,</span>
+            <span class="author-block"><a href="https://zxwu.azurewebsites.net/" style="text-decoration: none; color: inherit;">Zuxuan Wu<sup style="color:#3058dc;">1,</sup><sup style="color:#1c853c;">2</sup></a>,</span>
+            <span class="author-block"><a href="https://teai.fudan.edu.cn/" style="text-decoration: none; color: inherit;">Yugang Jiang<sup style="color:#3058dc;">1</sup>,</a></span>
+            <span class="author-block"><a href="https://www.comp.nus.edu.sg/~ngsk/" style="text-decoration: none; color: inherit;">See-Kiong Ng<sup style="color:#ed4b82;">3</sup>,</a></span>
+            <span class="author-block"><a href="https://www.chuatatseng.com/" style="text-decoration: none; color: inherit;">Tat-Seng Chua<sup style="color:#ed4b82;">3</sup>,</a></span>
+            
+            <!-- <span class="author-block">Jinlan Fu<sup style="color:#ed4b82;">2</sup>,</span>
+            <span class="author-block">Xipeng Qiu<sup style="color:#3058dc;">1</sup>,</span>
+            <span class="author-block">Xuanjing Huang<sup style="color:#3058dc;">1/sup>,</span> -->
+            <span class="author-block">
+              <a href="https://xpqiu.github.io/en.html" style="text-decoration: none; color: inherit;">Xipeng Qiu<sup style="color:#3058dc;">1,</sup><sup style="color:#1c853c;">2,†</sup></a>
+              ,
+          </span>
+          <!-- <span class="author-block">
+              <a href="https://wenhuchen.github.io/" style="text-decoration: none; color: inherit;">Wenhu Chen*<sup style="color:#3058dc;">†,2</sup></a>
+          </span> -->
+          </div>
+            
+
+            
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup><font size="-0.4">†</sup>Corresponding Author</font></span><br>
+              <span class="author-block"><sup style="color:#3058dc;">1</sup>Fudan University,</span>
+              <span class="author-block"><sup style="color:#1c853c;">2</sup>Shanghai Innovation Institute,</span>
+            <span class="author-block"><sup style="color:#ed4b82;">3</sup>National University of Singapore</span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <!-- PDF Link. -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2406.09246"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+                <!-- Video Link. -->
+                <!-- <span class="link-block">
+                  <a href="https://www.youtube.com/watch?v=SIcPxapIgBI" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                    </span>
+                    <span>Video</span>
+                  </a>
+                </span> -->
+                <!-- Code Link. -->
+                <span class="link-block">
+                  <a href="https://github.com/sinwang20/RoboOmni"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <!-- Model Link. -->
+                <span class="link-block">
+                  <a href="https://huggingface.co/openvla"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <img src="static/images/hf_icon.svg" />
+                    </span>
+                    <span>Models</span>
+                  </a>
+                </span>
+                <!-- Dataset Link. -->
+                <span class="link-block">
+                  <a href="https://huggingface.co/openvla"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <img src="static/images/hf_icon.svg" />
+                    </span>
+                    <span>Dataset</span>
+                  </a>
+                </span>
+                <!-- CoLab Link. -->
+                <!-- <span class="link-block">
+                  <a href="https://colab.research.google.com/github/openvla/openvla/blob/main/examples/openvla.ipynb"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <img src="static/images/colab_icon.png" />
+                    </span>
+                    <span>Let's try it!</span>
+                  </a>
+                </span> -->
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero teaser teaser-video">
+    <div class="container is-max-desktop has-text-centered">
+      <div class="hero-body">
+        <video id="teaser" autoplay muted loop playsinline width="80%">
+          <source src="assets/demo.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <!-- <video id="teaser" autoplay muted loop playsinline height="100%">
+        <source src=""
+                type="video/mp4">
+      </video> -->
+        <h2 class="title is-3">What are Contextual Instructions?</h2>
+
+        <div class="content has-text-justified has-text-centered">
+            <img src="assets/intro.jpg" />
+            <p>
+              Traditional robot manipulation models often rely on explicit commands to perform tasks. However, in real-life human-robot interactions, instructions are not always clear-cut. For example, a person might say "I’m thirsty" without explicitly requesting a drink. Instead, this statement, when combined with environmental sounds (like the noise of a juicer) and visual cues (like seeing a Coke can), implies a latent intent that the robot must infer.
+            </p>
+            <p>
+              In RoboOmni, we introduce contextual instructions, where robots derive intent from a combination of speech, environmental sounds, and visual cues, rather than waiting for direct commands. This is a step beyond traditional approaches that rely on straightforward verbal or written instructions. RoboOmni's ability to infer context from overlapping dialogues, non-verbal sounds, and sentiment allows it to proactively ask clarifying questions, making it more intuitive and responsive in complex scenarios.
+            </p>
+          </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">OmniAction</h2>
+          <div class="content has-text-justified has-text-centered">
+            <img src="assets/data.jpg" />
+            <p>
+              Proactive robots must infer implicit intent from audio and visual observations, yet existing datasets lack such a combination of modalities (most of them lack audio modality) and inferential instructions needed for intent reasoning. To address this gap, we introduce OmniAction, a large-scale corpus comprising 140k episodes with 5k+ speakers, 2.4k event sounds, 640 backgrounds, and six contextual instruction types, along with OmniAction-LIBERO for simulation-based evaluation.
+            </p>
+            <p>
+              The OmniAction dataset is constructed through a three-stage pipeline: textual scripting, auditory realization, and verification. First, tasks are sampled from the Open-X Embodiment dataset and transformed into contextual instructions using GPT-4o. This involves filtering trivial samples, synthesizing multi-turn dialogues, extending interactions to simulate natural conversations, and validating the consistency of intent. For auditory realization, the dialogues are converted into audio using high-fidelity TTS engines like MOSS-TTSD, CosyVoice, and Gemini-TTS, with additional multi-speaker simulation and non-verbal event insertion. Environmental sounds are also added to reflect household conditions. Finally, the data quality is verified through manual evaluation, confirming that the task intent is recoverable with 98.7% agreement.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">RoboOmni</h2>
+          <div class="content has-text-justified has-text-centered">
+            <img src="assets/model.jpg" />
+            <p>
+              At the heart of RoboOmni lies the Perceiver-Thinker-Talker-Executor architecture, which unifies multiple modalities (vision, speech, environmental sounds) into a single, seamless framework for robot action execution.
+            </p>
+            <!-- Architecture Breakdown -->
+          <ul>
+            <li><strong>Perceiver: </strong> The Perceiver handles the encoding of heterogeneous input modalities (vision, speech, environmental sounds) into a unified embedding space, enabling RoboOmni to process these modalities together.</li>
+            <li><strong>Thinker: </strong> The Thinker processes the unified multimodal representations and generates contextually appropriate outputs. It ensures RoboOmni understands and reasons across different input modalities to determine the best action.</li>
+            <li><strong>Talker: </strong> The Talker converts the high-level representations into natural speech, enabling RoboOmni to communicate and interact through verbal responses.</li>
+            <li><strong>Executor: </strong> - The Executor decodes the action tokens from the Thinker and translates them into executable robot actions, enabling RoboOmni to perform tasks based on the given context.</li>
+          </ul>
+          
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+      <section class="section">
+        <div class="container is-max-desktop">
+          <div class="columns is-centered">
+            <div class="column is-full-width">
+                <h2 class="title is-3">Experiments</h2>
+
+                <h3 class="title is-4">Performance on OmniAction-LIBERO Benchmark</h3>
+                <img src="assets/exp1.png" />
+                <div class="content has-text-justified">
+
+                  <table width="80%" align="center" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <p>
+                        We evaluated RoboOmni's performance across four task suites—Spatial, Goal, Object, and Long-Horizon—using the OmniAction-LIBERO benchmark. RoboOmni outperformed all other baseline models, including NORA, OpenVLA, and π0, across every task type, demonstrating superior intent recognition, task execution, and speed.
+                      </p>
+                    </tr>
+                    <!-- <tr>
+                      <td width="50%">
+                        <p>
+                          We test OpenVLA across a wide range of generalization tasks, such as 
+                          <strong>visual</strong> (unseen backgrounds, distractor objects, colors/appearances of objects); 
+                          <strong>motion</strong> (unseen object positions/orientations); 
+                          <strong>physical</strong> (unseen object sizes/shapes); 
+                          and <strong>semantic</strong> (unseen target objects, instructions, and concepts from the Internet) generalization. 
+                          Qualitatively, we find that both RT-2-X and OpenVLA exhibit markedly more robust behaviors than the other tested model, 
+                          such as approaching the correct object when distractor objects are present, properly orienting the robot's end-effector
+                          to align with the orientation of the target object, and even recovering from mistakes such as insecurely grasping objects
+                        </p>
+                      </td>
+                      <td width="50%">
+                        <img src="static/images/rt1_results.jpg">
+                      </td>
+                    </tr> -->
+                  </table>
+                </div>
+
+                <br>
+                <h3 class="title is-4">Evaluation of Proactive Assistance Capabilities</h3>
+                
+                <div class="content has-text-justified">
+                  <img src="assets/exp2.png" />
+                  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <p><strong>Intent Recognition</strong> - RoboOmni excels at recognizing user intent under contextual instructions. In evaluations comparing RoboOmni to baseline models (like Qwen2.5-Omni-3B and ASR-based systems), RoboOmni achieved the highest accuracy at <b>88.9%</b>. This demonstrates the power of end-to-end multimodal processing that preserves paralinguistic cues, unlike traditional models that rely on speech-to-text or ASR systems, which often lose critical information in noisy environments.</p>
+          
+                      <p><strong>Qualitative Analysis</strong> - RoboOmni also stands out in its ability to interact proactively. During tests, it effectively integrated speech, environmental sounds, and visual cues to ask clarifying questions, ensuring task completion aligned with user intent. For example, when faced with ambiguous or incomplete instructions like "egg dumplings," RoboOmni would ask, "Would you like me to put the egg dumpling into the hot pot?"—a behavior not seen in baseline models. This proactive clarification approach ensures that RoboOmni doesn’t make assumptions and executes tasks more accurately based on user feedback.</p>
+
+                    </tr>
+                  </table>
+                  
+                </div>
+                
+                <!-- <br>
+                <h3 class="title is-4">Parameter-Efficient Fine-Tuning</h3>
+                <div class="content has-text-justified">
+                  <img src="static/images/lora_table.png">
+                  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <p>
+                        We test various approaches for parameter-efficient fine-tuning of OpenVLA policies across multiple Franka-Tabletop tasks.
+                        We find that only fine-tuning the network’s last layer or freezing the vision encoder leads to poor performance.
+                        LoRA achieves the best trade-off between performance and training memory consumption, matching
+                        full fine-tuning performance while fine-tuning only 1.4% of the parameters. 
+                      </p>
+                    </tr>
+                  </table>
+                </div>
+
+
+              <br> -->
+
+             
+
+      <section class="section" id="BibTeX">
+        <div class="container is-max-desktop content">
+          <h2 class="title">BibTeX</h2>
+          <pre><code>@article{wang25roboomni,
+    title={RoboOmni: roactive Robot Manipulation in Omni-modal Context},
+    author={Siyin wang and Jinlan Fu and Feihong Liu and Xinzhe He and Huangxuan Wu and Junhao Shi and Kexin Huang and Zhaoye Fei and Jingjing Gong and Zuxuan Wu and Yugang Jiang and See-Kiong Ng and Tat-Seng Chua and Xipeng Qiu},
+    <!-- journal = {arXiv preprint arXiv:2406.09246}, -->
+    year={2025},
+} </code></pre>
+        </div>
+      </section>
+
+
+      <footer class="footer">
+        <div class="container">
+          <!-- <div class="content has-text-centered">
+            <a class="icon-link" href="https://arxiv.org/pdf/2210.05714.pdf">
+              <i class="fas fa-file-pdf"></i>
+            </a>
+            <a class="icon-link" href="" class="external-link" disabled>
+              <i class="fab fa-github"></i>
+            </a>
+          </div> -->
+          <div class="columns is-centered">
+            <div class="column is-8">
+              <div class="content">
+                <p> Website borrowed from <a href="https://github.com/nerfies/nerfies.github.io">NeRFies</a> under a <a
+                    href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0
+                    International</a>
+                </p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+</body>
+
+</html>
