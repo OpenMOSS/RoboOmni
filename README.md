@@ -6,11 +6,11 @@
 
 
 <p align="center">
-  📖 <a href="https://arxiv.org/abs/xxxxxxxxxx"><strong>arXiv Paper</strong></a> |   
-  🌐 <a href="https://sinwang20.github.io/RoboOmni"><strong>Website</strong></a> | 
-  🤗 <a href="https://huggingface.co/sinwang20/"><strong>Model</strong></a> | 
-  🤗 <a href="https://huggingface.co/sinwang20/"><strong>Dataset</strong></a> | 
-  🛠️ <a href="https://github.com/sinwang20/RoboOmni"><strong>Github</strong></a> | 
+  📖 <a href="https://arxiv.org/abs/xxxx"><strong>arXiv Paper</strong></a> |   
+  🌐 <a href="https://OpenMOSS.github.io/RoboOmni"><strong>Website</strong></a> | 
+  🤗 <a href="https://huggingface.co/fnlp/"><strong>Model</strong></a> | 
+  🤗 <a href="https://huggingface.co/fnlp/"><strong>Dataset</strong></a> | 
+  🛠️ <a href="https://github.com/OpenMOSS/RoboOmni"><strong>Github</strong></a> | 
 </p>
 
 ![logo](./assets/logo.png)
@@ -41,19 +41,19 @@ At the heart of RoboOmni lies the Perceiver-Thinker-Talker-Executor architecture
 ![Omni Logo](./assets/model.jpg)
 
 
-## 🤗 Model & Datasets Zoo
+<!-- ## 🤗 Model & Datasets Zoo
 
 
 | Models               | Checkpoint                                                     | Description                                                | 
 |----------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| RoboOmni Base     | [🤗 sinwang20/RoboOmni](https://huggingface.co/sinwang20/RoboOmni)   | Base model of the RoboOmni               | 
-| RoboOmni-LIBERO     | [🤗 sinwang20/RoboOmni-LIBERO](https://huggingface.co/sinwang20/RoboOmni-LIBERO)   | Finetuned model on OmniAction-LIBERO based on RoboOmni Base                 | 
+| RoboOmni Base     | [🤗 fnlp/RoboOmni](https://huggingface.co/fnlp/RoboOmni)   | Base model of the RoboOmni               | 
+| RoboOmni-LIBERO     | [🤗 fnlp/RoboOmni-LIBERO](https://huggingface.co/fnlp/RoboOmni-LIBERO)   | Finetuned model on OmniAction-LIBERO based on RoboOmni Base                 | 
 
 
 | Dataset               | Checkpoint                                                     | Description                                                | 
 |----------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| OmniAction     | [🤗 sinwang20/OmniAction](https://huggingface.co/sinwang20/OmniAction)   | 140k trajectory               | 
-| OmniAction-LIBERO     | [🤗 sinwang20/OmniAction-LIBERO](https://huggingface.co/sinwang20/OmniAction-LIBERO)   | Training and evaluation data on  OmniAction-LIBERO benchmark                | 
+| OmniAction     | [🤗 fnlp/OmniAction](https://huggingface.co/fnlp/OmniAction)   | 140k trajectory               | 
+| OmniAction-LIBERO     | [🤗 fnlp/OmniAction-LIBERO](https://huggingface.co/fnlp/OmniAction-LIBERO)   | Training and evaluation data on  OmniAction-LIBERO benchmark                |  -->
 
 
 ## 📍 Getting Started
@@ -145,11 +145,8 @@ python experiments/libero/run_libero_eval.py \
 @article{wang2025roboomni,
   title={RoboOmni: Proactive Robot Manipulation in Omni-modal Context},
   author={Siyin Wang and Jinlan Fu and Feihong Liu and Xinzhe He and Huangxuan Wu and Junhao Shi and Kexin Huang and Zhaoye Fei and Jingjing Gong and Zuxuan Wu and Yugang Jiang and See-Kiong Ng and Tat-Seng Chua and Xipeng Qiu},
-  journal={arXiv preprint arXiv:2510.xxxx},
   year={2025},
-  url={https://arxiv.org/abs/2410.xxxx},
   archivePrefix={arXiv},
-  eprint={2510.xxxx},
   primaryClass={cs.RO},
 }
 ```
