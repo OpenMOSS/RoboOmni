@@ -41,19 +41,22 @@ At the heart of RoboOmni lies the Perceiver-Thinker-Talker-Executor architecture
 ![Omni Logo](./assets/model.jpg)
 
 
-<!-- ## 🤗 Model & Datasets Zoo
+## 🤗 Model & Datasets Zoo
 
 
 | Models               | Checkpoint                                                     | Description                                                | 
 |----------------------|----------------------------------------------------------------|------------------------------------------------------------|
 | RoboOmni Base     | [🤗 fnlp/RoboOmni](https://huggingface.co/fnlp/RoboOmni)   | Base model of the RoboOmni               | 
-| RoboOmni-LIBERO     | [🤗 fnlp/RoboOmni-LIBERO](https://huggingface.co/fnlp/RoboOmni-LIBERO)   | Finetuned model on OmniAction-LIBERO based on RoboOmni Base                 | 
+| RoboOmni-LIBERO-Spatial     | [🤗 fnlp/RoboOmni-LIBERO-Spatial](https://huggingface.co/fnlp/RoboOmni-LIBERO-Spatial)   | Finetuned model on OmniAction-LIBERO-Spatial based on RoboOmni Base                 | 
+| RoboOmni-LIBERO-Goal     | [🤗 fnlp/RoboOmni-LIBERO-Goal](https://huggingface.co/fnlp/RoboOmni-LIBERO)   | Finetuned model on OmniAction-LIBERO-Goal based on RoboOmni Base                 | 
+| RoboOmni-LIBERO-Object     | [🤗 fnlp/RoboOmni-LIBERO-Object](https://huggingface.co/fnlp/RoboOmni-LIBERO)   | Finetuned model on OmniAction-LIBERO-Object based on RoboOmni Base                 | 
+| RoboOmni-LIBERO-Long     | [🤗 fnlp/RoboOmni-LIBERO-Long](https://huggingface.co/fnlp/RoboOmni-LIBERO)   | Finetuned model on OmniAction-LIBERO-Long based on RoboOmni Base                 | 
 
 
 | Dataset               | Checkpoint                                                     | Description                                                | 
 |----------------------|----------------------------------------------------------------|------------------------------------------------------------|
 | OmniAction     | [🤗 fnlp/OmniAction](https://huggingface.co/fnlp/OmniAction)   | 140k trajectory               | 
-| OmniAction-LIBERO     | [🤗 fnlp/OmniAction-LIBERO](https://huggingface.co/fnlp/OmniAction-LIBERO)   | Training and evaluation data on  OmniAction-LIBERO benchmark                |  -->
+| OmniAction-LIBERO     | [🤗 fnlp/OmniAction-LIBERO](https://huggingface.co/fnlp/OmniAction-LIBERO)   | Training and evaluation data on  OmniAction-LIBERO benchmark                | 
 
 
 ## 📍 Getting Started
