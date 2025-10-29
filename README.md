@@ -6,10 +6,10 @@
 
 
 <p align="center">
-  📖 <a href="https://arxiv.org/abs/xxxx"><strong>arXiv Paper</strong></a> |   
+  📖 <a href="https://arxiv.org/abs/2510.23763"><strong>arXiv Paper</strong></a> |   
   🌐 <a href="https://OpenMOSS.github.io/RoboOmni"><strong>Website</strong></a> | 
-  🤗 <a href="https://huggingface.co/fnlp/"><strong>Model</strong></a> | 
-  🤗 <a href="https://huggingface.co/fnlp/"><strong>Dataset</strong></a> | 
+  🤗 <a href="https://huggingface.co/fnlp/RoboOmni"><strong>Model</strong></a> | 
+  🤗 <a href="https://huggingface.co/datasets/fnlp/OmniAction"><strong>Dataset</strong></a> | 
   🛠️ <a href="https://github.com/OpenMOSS/RoboOmni"><strong>Github</strong></a> | 
 </p>
 
@@ -55,8 +55,8 @@ At the heart of RoboOmni lies the Perceiver-Thinker-Talker-Executor architecture
 
 | Dataset               | Checkpoint                                                     | Description                                                | 
 |----------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| OmniAction     | [🤗 fnlp/OmniAction](https://huggingface.co/fnlp/OmniAction)   | 140k trajectory               | 
-| OmniAction-LIBERO     | [🤗 fnlp/OmniAction-LIBERO](https://huggingface.co/fnlp/OmniAction-LIBERO)   | Training and evaluation data on  OmniAction-LIBERO benchmark                | 
+| OmniAction     | [🤗 fnlp/OmniAction](https://huggingface.co/datasets/fnlp/OmniAction)   | 140k trajectory               | 
+| OmniAction-LIBERO     | [🤗 fnlp/OmniAction-LIBERO](https://huggingface.co/datasets/fnlp/OmniAction-LIBERO)   | Training and evaluation data on  OmniAction-LIBERO benchmark                | 
 
 
 ## 📍 Getting Started
@@ -148,7 +148,9 @@ python experiments/libero/run_libero_eval.py \
 @article{wang2025roboomni,
   title={RoboOmni: Proactive Robot Manipulation in Omni-modal Context},
   author={Siyin Wang and Jinlan Fu and Feihong Liu and Xinzhe He and Huangxuan Wu and Junhao Shi and Kexin Huang and Zhaoye Fei and Jingjing Gong and Zuxuan Wu and Yugang Jiang and See-Kiong Ng and Tat-Seng Chua and Xipeng Qiu},
+  journal={arXiv preprint arXiv:2510.23763},
   year={2025},
+  url={https://arxiv.org/abs/2510.23763},
   archivePrefix={arXiv},
   primaryClass={cs.RO},
 }
