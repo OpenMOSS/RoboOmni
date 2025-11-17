@@ -129,7 +129,18 @@ The following variants should be set:
 
 ### Evaluation on OmniAction-LIBERO
 
+#### Setup
 
+Since omniaction-LIBERO uses the same simulation engine as LIBERO, you need to configure the LIBERO environment dependencies.
+
+Clone and install the [LIBERO repo](https://github.com/Lifelong-Robot-Learning/LIBERO) and required packages:
+```
+git clone https://github.com/Lifelong-Robot-Learning/LIBERO.git
+pip install -e LIBERO
+pip install -r experiments/robot/libero/libero_requirements.txt # From RoboOmni base dir
+```
+
+#### Evaluation
 ```
 python experiments/libero/run_libero_eval.py \
   --pretrained_checkpoint MODEL_PATH \
