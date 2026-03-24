@@ -144,7 +144,7 @@ pip install -r experiments/robot/libero/libero_requirements.txt # From RoboOmni 
 
 Before running evaluation:
 
-1. Download the LIBERO evaluation audio data from Hugging Face [🤗 OpenMOSS-Team/OmniAction-LIBERO-eval](https://huggingface.co/OpenMOSS-Team/OmniAction-LIBERO-eval):
+1. Download the LIBERO evaluation audio data from Hugging Face [🤗 OmniAction-LIBERO-eval](https://huggingface.co/datasets/OpenMOSS-Team/OmniAction-LIBERO-eval):
    ```
    hf download OpenMOSS-Team/OmniAction-LIBERO-eval \
      --repo-type dataset \
