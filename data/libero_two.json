@@ -1,0 +1,1142 @@
+[
+  {
+    "conversation": [
+      {
+        "user": "[S1]Hmm, Sarah, can you tell me if this is the tomato sauce? [S2]Let me see, Dad... Yep, that's the one. [S1]I was thinking it’d be perfect for the pasta tonight. [S2]Alright, just put it in the basket. We’ll grab the rest of the stuff later.",
+        "response": "[Robot]Madam, would you like me to pick the tomato sauce and place it in the basket?"
+      },
+      {
+        "user": "[S2]Oh, yes, that’d be great. Uh, it’s a bit heavy for me.",
+        "response": "[Robot]Understood. I will pick the tomato sauce and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "female_adult",
+    "instruction": "pick up the tomato sauce and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 14,
+    "image-path": "./first_frames/libero_object/episode_0014.jpg",
+    "id": 69,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_69/user_turn_0.wav",
+      "./libero_audio/two/dialogue_69/user_turn_1.wav"
+    ],
+    "duration": 33.535,
+    "meta": "object",
+    "asr_text": " Sarah, can you tell me if this is the tomato sauce? I remember the clock striking. Let me see, Dad. Yep. I was thinking it would be perfect for the pasta tonight. I just put it in the basket. You'd grab the rest of the stuff later."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Mum, do we really need all this stuff for the picnic? [S1]Yes, Emma, we do. And we’re definitely not forgetting the ketchup this time. [S2]Oh, you mean the one right there? [S1]Exactly, could you pop it in the basket for me, sweetheart?",
+        "response": "[Robot]Miss, do you want me to pick up the can and place it in the basket?"
+      },
+      {
+        "user": "[S1]Uh, no, that's not what we need right now.",
+        "response": "[Robot]Understood. Should I pick the ketchup and place it in the basket instead?"
+      },
+      {
+        "user": "[S1]Yeah, that's perfect. Thanks!",
+        "response": "[Robot]Alright, I will pick the ketchup and place it in the basket for you. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_adult",
+    "speaker2_info": "female_child",
+    "instruction": "pick up the ketchup and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 1,
+    "image-path": "./first_frames/libero_object/episode_0001.jpg",
+    "id": 25,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_25/user_turn_0.wav",
+      "./libero_audio/two/dialogue_25/user_turn_1.wav",
+      "./libero_audio/two/dialogue_25/user_turn_2.wav"
+    ],
+    "duration": 23.367,
+    "meta": "object",
+    "asr_text": " Mom, do we really need all this stuff for the picnic? Yes, Emma, we do. And we're definitely not forgetting the ketchup this time. Oh, you mean the one right there? Exactly. Could you pop it in the basket for me, sweetheart?"
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Dad, do you think we should grab the cream cheese for the sandwiches? [S1]Hmm, good idea, Lisa. It's right there on the floor. [S2]Oh, let me grab it and toss it in the basket. [S1]Perfect, we’ll be all set for lunch then.",
+        "response": "[Robot]Madam, would you like me to pick the cream cheese and place it in the basket?"
+      },
+      {
+        "user": "[S2]Oh, yes, please. That would make things so much easier.",
+        "response": "[Robot]Understood. I will pick the cream cheese and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "female_adult",
+    "instruction": "pick up the cream cheese and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 3,
+    "image-path": "./first_frames/libero_object/episode_0003.jpg",
+    "id": 64,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_64/user_turn_0.wav",
+      "./libero_audio/two/dialogue_64/user_turn_1.wav"
+    ],
+    "duration": 21.36,
+    "meta": "object",
+    "asr_text": " dad do you think we should grab the cream cheese for the sandwiches hum good idea lisa it's right there on the floor oh let me grab it and toss it in the basket perfect we'd be all set for lunch then"
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Grandma, can we get some dessert for later? [S1]Hmm, I think the chocolate pudding will be perfect. [S2]Oh, that one? It's my favorite! [S1]Alright, let's put it in the basket then.",
+        "response": "[Robot]Do you need me to pick the chocolate pudding and place it in the basket?"
+      },
+      {
+        "user": "[S2]Oh, um, yes! That would be great, dear. My hands are a bit shaky today.",
+        "response": "[Robot]Understood. I will pick the chocolate pudding and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_senior",
+    "speaker2_info": "female_child",
+    "instruction": "pick up the chocolate pudding and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 16,
+    "image-path": "./first_frames/libero_object/episode_0016.jpg",
+    "id": 63,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_63/user_turn_0.wav",
+      "./libero_audio/two/dialogue_63/user_turn_1.wav"
+    ],
+    "duration": 23.953000000000003,
+    "meta": "object",
+    "asr_text": " Grandma, can we get some dessert for later? Hmm. I think the chocolate pudding will be perfect. Oh, that one. It's my favorite. All right, let's put it in the basket then."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Hmm, Harold, do you think this salad dressing is the one we used last time? [S2]Let me see, Margaret. Oh, yeah, that's the one with the tangy kick, isn’t it? [S1]It is! Should we grab it for dinner tonight? [S2]Absolutely. Toss it in the basket, dear.",
+        "response": "[Robot]Madam, do you need me to pick the salad dressing and place it in the basket?"
+      },
+      {
+        "user": "[S2]Oh, yes, please. My hands aren't as steady as they used to be.",
+        "response": "[Robot]Understood. I will pick the salad dressing and place it in the basket for you. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_senior",
+    "speaker2_info": "male_senior",
+    "instruction": "pick up the salad dressing and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 9,
+    "image-path": "./first_frames/libero_object/episode_0009.jpg",
+    "id": 68,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_68/user_turn_0.wav",
+      "./libero_audio/two/dialogue_68/user_turn_1.wav"
+    ],
+    "duration": 28.352,
+    "meta": "object",
+    "asr_text": " Hmm, Harold, do you think this cellar dressing is the one we used last time? Let me see, Margaret. Oh, yeah, that's the one with the tangy kick. Is? It is. Should we grab it for dinner tonight? Absolutely. Toss it in the basket, dear."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Grandpa, why is the milk just sitting there? [S1]Oh, Tim, I forgot to put it in the basket. [S2]You always forget stuff, huh? Want me to do it? [S1]Heh, sure, but be careful! We don’t want milk everywhere like last time.",
+        "response": "[Robot]Sir, do you want me to pick up the orange juice carton?"
+      },
+      {
+        "user": "[S1]No, no, that's not what we're doing. The milk is what we need.",
+        "response": "[Robot]Understood. Should I pick the milk and place it in the basket?"
+      },
+      {
+        "user": "[S1]Yeah, that's exactly it. Go ahead.",
+        "response": "[Robot]OK, I will pick the milk and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "male_child",
+    "instruction": "pick up the milk and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 7,
+    "image-path": "./first_frames/libero_object/episode_0007.jpg",
+    "id": 26,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_26/user_turn_0.wav",
+      "./libero_audio/two/dialogue_26/user_turn_1.wav",
+      "./libero_audio/two/dialogue_26/user_turn_2.wav"
+    ],
+    "duration": 29.537,
+    "meta": "object",
+    "asr_text": " Grandpa, why is the milk just sitting there? Oh, Tim, I forgot to put it in the basket. You always forget stuff, huh? Want me to do it? Hey, sure, but be careful. We don't want milk everywhere like last time."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Dad, do you see the butter over there? [S1]Yeah, it’s right next to those cans. Why? [S2]I’m trying to gather the stuff we need for dinner. [S1]Alright, I’ll grab the butter and toss it in the basket for you.",
+        "response": "[Robot]Sir, would you like me to pick the butter and place it in the basket?"
+      },
+      {
+        "user": "[S2]Oh, uh, yeah, that’d be great. My back’s not what it used to be.",
+        "response": "[Robot]Understood. I will pick the butter and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "male_adult",
+    "instruction": "pick up the butter and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 12,
+    "image-path": "./first_frames/libero_object/episode_0012.jpg",
+    "id": 62,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_62/user_turn_0.wav",
+      "./libero_audio/two/dialogue_62/user_turn_1.wav"
+    ],
+    "duration": 20.924,
+    "meta": "object",
+    "asr_text": " Dad, do you see the butter over there? Yeah, it's right next to those cans. Why? I'm trying to gather the stuff we need for dinner. All right, grab the butter and toss it in the basket for you."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Dad, do you see the orange juice there? [S2]Yeah, I see it. Why? [S1]I thought it would be nice to take it along for the picnic. [S2]Alright, I'll pop it in the basket for you.",
+        "response": "[Robot]Sir, would you like me to pick the orange juice and place it in the basket?"
+      },
+      {
+        "user": "[S2]Oh, yes, that’d be great. My hands aren’t as steady as they used to be.",
+        "response": "[Robot]Understood. I will pick the orange juice and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_adult",
+    "speaker2_info": "male_senior",
+    "instruction": "pick up the orange juice and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 0,
+    "image-path": "./first_frames/libero_object/episode_0000.jpg",
+    "id": 67,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_67/user_turn_0.wav",
+      "./libero_audio/two/dialogue_67/user_turn_1.wav"
+    ],
+    "duration": 21.04,
+    "meta": "object",
+    "asr_text": " Dad, do you see the orange juice there? Yeah, I see it. Why? I thought it would be nice to take it along for the picnic. Alright, I'll pop it in the basket for you."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Grandpa, look at this alphabet soup can! It’s got all the letters. [S2]Oh, Danny, you and your fascination with letters. What are you planning to do with it? [S1]I was thinking of making a secret message in the soup. But first, let’s put it in the basket! [S2]Alright, troublemaker, let’s get it in there before your imagination runs wild again.",
+        "response": "[Robot]Do you want me to pick the alphabet soup and place it in the basket?"
+      },
+      {
+        "user": "[S1]Uh, yeah, that’d be great! Thanks, I was just about to ask.",
+        "response": "[Robot]OK, I will pick the alphabet soup and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "male_senior",
+    "instruction": "pick up the alphabet soup and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 6,
+    "image-path": "./first_frames/libero_object/episode_0006.jpg",
+    "id": 60,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_60/user_turn_0.wav",
+      "./libero_audio/two/dialogue_60/user_turn_1.wav"
+    ],
+    "duration": 31.32,
+    "meta": "object",
+    "asr_text": " Grandpa, look at this alphabet, soup can. It got all the letters. Oh, Danny, you and your fascination with letters. What are you planning to do with it? I was thinking of making a secret message in the soup. But first, let's put it in the basket. All right, troublemaker, let's get it in there before your imagination runs wild again."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Eli, are you making a sauce tower again? [S2]Um, no, Mia! I just want to check which one smells the best. [S1]Well, maybe you should stop sniffing and just grab the BBQ sauce. [S2]Fine, fine. I'll toss it in the basket, but you're helping me taste-test later!",
+        "response": "[Robot]Do you want me to pick up the can and place it in the basket?"
+      },
+      {
+        "user": "[S1]Uh, no, that’s not what we need. The BBQ sauce, please.",
+        "response": "[Robot]Understood. Should I pick the BBQ sauce and place it in the basket?"
+      },
+      {
+        "user": "[S1]Yes, that’s it! Thanks for the help.",
+        "response": "[Robot]OK, I will pick the BBQ sauce and place it in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_child",
+    "speaker2_info": "male_child",
+    "instruction": "pick up the bbq sauce and place it in the basket",
+    "source": "libero_object_with_video.json",
+    "video-id": 4,
+    "image-path": "./first_frames/libero_object/episode_0004.jpg",
+    "id": 21,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_21/user_turn_0.wav",
+      "./libero_audio/two/dialogue_21/user_turn_1.wav",
+      "./libero_audio/two/dialogue_21/user_turn_2.wav"
+    ],
+    "duration": 31.069,
+    "meta": "object",
+    "asr_text": " Eli, are you making a sauce tower again? My. Oh, no. Mia, I just wanted to check which one smells the best. Well, maybe you should stop sniffing and just grab the BBQ sauce. Fine. Fine. I'll toss it in the basket. But you're helping me taste test later."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Edith, did you see this book here on the table? [S2]Oh, Harold, I was wondering where I left it. [S1]It’s been sitting here all day—should we keep it tidy? [S2]Yes, dear, could you pop it in the back compartment of the caddy? It’ll be out of the way there.",
+        "response": "[Robot]Do you need me to pick up the book and place it in the back compartment of the caddy?"
+      },
+      {
+        "user": "[S1]Oh, yes, that’d be helpful. My hands are a bit shaky today.",
+        "response": "[Robot]Understood. I will pick up the book and place it in the back compartment of the caddy now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "female_senior",
+    "instruction": "pick up the book and place it in the back compartment of the caddy",
+    "source": "libero_10_with_video.json",
+    "video-id": 27,
+    "image-path": "./first_frames/libero_10/episode_0027.jpg",
+    "id": 49,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_49/user_turn_0.wav",
+      "./libero_audio/two/dialogue_49/user_turn_1.wav"
+    ],
+    "duration": 29.279000000000003,
+    "meta": "10",
+    "asr_text": " Edith, did you see this book here on the table? Oh, Harold, I was wondering where I left it. It had been sitting here all day. Should we keep it tidy? Yes, dear. Could you pop it in the back compartment of the caddy? It will be out of the way there."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Mom, why do we always have alphabet soup in the pantry? [S2]Oh, Lisa, it’s for when your nephews visit. They love spelling out words with it. [S1]Well, it’s sitting here next to the tomato sauce. Should I just toss them both in the basket? [S2]Good idea! You’re always quick with these things—makes my life so much easier.",
+        "response": "[Robot]Ma'am, shall I put the tomato sauce in the basket?"
+      },
+      {
+        "user": "[S2]Oh no, honey, I need both the soup and sauce put away.",
+        "response": "[Robot]Understood, should I put both the alphabet soup and the tomato sauce in the basket?"
+      },
+      {
+        "user": "[S2]Yes, please, that would be great.",
+        "response": "[Robot]OK, I will perform operation and put both the alphabet soup and the tomato sauce in the basket. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_adult",
+    "speaker2_info": "female_senior",
+    "instruction": "put both the alphabet soup and the tomato sauce in the basket",
+    "source": "libero_10_with_video.json",
+    "video-id": 8,
+    "image-path": "./first_frames/libero_10/episode_0008.jpg",
+    "id": 5,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_5/user_turn_0.wav",
+      "./libero_audio/two/dialogue_5/user_turn_1.wav",
+      "./libero_audio/two/dialogue_5/user_turn_2.wav"
+    ],
+    "duration": 38.524,
+    "meta": "10",
+    "asr_text": " Mom, why do we always have alphabet soup in the pantry? Oh Lisa, it eat for when your nephews visit, they love spelling out words with it. Well, it in sitting here next to the tomato sauce. Should I just toss them both in the basket? Good idea. You're always quick with these things. Makes my life so much easier."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Grandpa, look! Alphabet soup! [S2]Ah, I see it, Sam. And what's that next to it? [S1]It's cream cheese, I think. Should we put them in the basket? [S2]Yes, let's do that. It'll make it easier to carry everything to the kitchen.",
+        "response": "[Robot]Do you want me to put the alphabet soup and cream cheese box in the basket?"
+      },
+      {
+        "user": "[S1]Oh, yeah, that’d be great! I was just about to do it, but uh, you can handle it.",
+        "response": "[Robot]OK, I will put both the alphabet soup and the cream cheese box in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "male_senior",
+    "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+    "source": "libero_10_with_video.json",
+    "video-id": 7,
+    "image-path": "./first_frames/libero_10/episode_0007.jpg",
+    "id": 44,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_44/user_turn_0.wav",
+      "./libero_audio/two/dialogue_44/user_turn_1.wav"
+    ],
+    "duration": 33.271,
+    "meta": "10",
+    "asr_text": " Grandpa, look. Alphabet soup. Ah, I see it, Sam. And what's that next to it? It's cream cheese. I think, should we put them in the basket? Yes. Let's do that. It'll make it easier to carry everything to the kitchen."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Hey Lily, why are there two moka pots here? [S2]I was trying to decide which one to use for coffee, but I couldn't pick. [S1]Uh, can't we just make coffee in both? [S2]Hmm, good idea, Max. Let's put them both on the stove!",
+        "response": "[Robot]Do you want me to put both moka pots on the stove?"
+      },
+      {
+        "user": "[S1]Uh, yeah, that’d be awesome. Thanks!",
+        "response": "[Robot]Alright, I will put both moka pots on the stove now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "female_child",
+    "instruction": "put both moka pots on the stove",
+    "source": "libero_10_with_video.json",
+    "video-id": 10,
+    "image-path": "./first_frames/libero_10/episode_0010.jpg",
+    "id": 43,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_43/user_turn_0.wav",
+      "./libero_audio/two/dialogue_43/user_turn_1.wav"
+    ],
+    "duration": 23.228,
+    "meta": "10",
+    "asr_text": " Hey Lily, why are there two mocha pots here? I was trying to decide which one to use for coffee, but I couldn't pick. Uh, can't we just make coffee in both? Good idea, Max. Let's put them both on the stove."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Hey Linda, do you think we should set the table properly? [S2]Hmm, yeah, the white mug is just sitting there awkwardly. [S1]Alright, I'll pop it on that plate. [S2]Oh, and maybe slide the chocolate pudding to the right of it. Looks neater that way.",
+        "response": "[Robot]Sir, would you like me to put the white mug on the plate and place the chocolate pudding to the right of the plate?"
+      },
+      {
+        "user": "[S1]Uh, yeah, that’d be helpful. Thanks for asking.",
+        "response": "[Robot]Alright, I will put the white mug on the plate and the chocolate pudding to its right now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_adult",
+    "speaker2_info": "female_adult",
+    "instruction": "put the white mug on the plate and put the chocolate pudding to the right of the plate",
+    "source": "libero_10_with_video.json",
+    "video-id": 1,
+    "image-path": "./first_frames/libero_10/episode_0001.jpg",
+    "id": 48,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_48/user_turn_0.wav",
+      "./libero_audio/two/dialogue_48/user_turn_1.wav"
+    ],
+    "duration": 22.855,
+    "meta": "10",
+    "asr_text": " Hey, Linda, do you think we should set the table properly? Hmm, yeah. The white mug is just sitting there, awkwardly. Alright, I'll pop it on my plate. Oh, and maybe slide the chocolate pudding to the right of it? Looks neater that way."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Dad, are you still sneaking butter on your toast? [S1]Oh, come on, Tom. It’s the weekend. [S2]Fine, but grab the cream cheese too. You know how Mom gets about variety. [S1]Alright, alright. I’ll toss both in the basket.",
+        "response": "[Robot]Sir, do you want me to move the milk carton into the basket?"
+      },
+      {
+        "user": "[S2]Uh, no, that’s not what we’re doing right now.",
+        "response": "[Robot]Understood. Should I put both the cream cheese box and the butter in the basket instead?"
+      },
+      {
+        "user": "[S2]Yeah, that’s right. Go ahead and do that.",
+        "response": "[Robot]OK, I will put both the cream cheese box and the butter in the basket now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "male_adult",
+    "instruction": "put both the cream cheese box and the butter in the basket",
+    "source": "libero_10_with_video.json",
+    "video-id": 12,
+    "image-path": "./first_frames/libero_10/episode_0012.jpg",
+    "id": 6,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_6/user_turn_0.wav",
+      "./libero_audio/two/dialogue_6/user_turn_1.wav",
+      "./libero_audio/two/dialogue_6/user_turn_2.wav"
+    ],
+    "duration": 28.0,
+    "meta": "10",
+    "asr_text": " Dad, are you still sneaking butter on your toast? Oh, come on, Tom. It's the weekend. Fried cheese! But grab the cream cheese, too. All right, all right. I'll toss both in the basket."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Dad, this yellow and white mug looks kinda cool, don’t you think? [S2]Yeah, it’s your mom’s favorite. Why? [S1]I was thinking it would be perfect for hot cocoa. [S2]Alright, let’s pop it in the microwave and get it ready.",
+        "response": "[Robot]Do you need me to put the yellow and white mug in the microwave and close it?"
+      },
+      {
+        "user": "[S1]Oh, yeah, that’d be great! I was just about to ask you.",
+        "response": "[Robot]OK, I will put the yellow and white mug in the microwave and close it now. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_child",
+    "speaker2_info": "male_adult",
+    "instruction": "put the yellow and white mug in the microwave and close it",
+    "source": "libero_10_with_video.json",
+    "video-id": 2,
+    "image-path": "./first_frames/libero_10/episode_0002.jpg",
+    "id": 42,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_42/user_turn_0.wav",
+      "./libero_audio/two/dialogue_42/user_turn_1.wav"
+    ],
+    "duration": 23.646,
+    "meta": "10",
+    "asr_text": " Dad. This yellow and white mug looks kinda cool, don't you think? Yeah, yeah. It's in your mom and favorite. Why? I was thinking it would be perfect for hot cocoa. Alright, let the poppet in the microwave and get it ready."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Mom, why is my favorite mug over there? [S2]Which one, Danny? The yellow and white one? [S1]Yeah! It should be on the right side with the red one. [S2]Alright, and the white mug can stay on the left plate. Makes sense, right? [S1]Totally! I'm fixing it now!",
+        "response": "[Robot]Do you need me to put the white mug on the left plate and the yellow and white mug on the right plate?"
+      },
+      {
+        "user": "[S1]Uh, yeah, that’d be great. Thanks for helping out!",
+        "response": "[Robot]OK, I will put the white mug on the left plate and the yellow and white mug on the right plate now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "female_adult",
+    "instruction": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+    "source": "libero_10_with_video.json",
+    "video-id": 0,
+    "image-path": "./first_frames/libero_10/episode_0000.jpg",
+    "id": 47,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_47/user_turn_0.wav",
+      "./libero_audio/two/dialogue_47/user_turn_1.wav"
+    ],
+    "duration": 28.358,
+    "meta": "10",
+    "asr_text": " Mom, why is my favorite mug over there? Which one? Danny, the yellow and white one? Yeah, it should be on the right side with the red one. Alright. And the white mug can stay on the left plate. Makes sense, right? Totally. I'm fixing it now."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Grandpa, why does this coffee pot look so funny? [S2]Haha, Alice, that's a moka pot, not just any coffee pot. [S1]Oh, so... does it make magic coffee or something? [S2]Well, it could if we turn on the stove and put it on. Want to try it out?",
+        "response": "[Robot]Do you need me to turn on the stove and put the moka pot on it?"
+      },
+      {
+        "user": "[S2]Oh, yes, that’d be great. My hands aren't steady today, uh, you know.",
+        "response": "[Robot]Understood. I will turn on the stove and place the moka pot on it now. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_child",
+    "speaker2_info": "male_senior",
+    "instruction": "turn on the stove and put the moka pot on it",
+    "source": "libero_10_with_video.json",
+    "video-id": 6,
+    "image-path": "./first_frames/libero_10/episode_0006.jpg",
+    "id": 40,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_40/user_turn_0.wav",
+      "./libero_audio/two/dialogue_40/user_turn_1.wav"
+    ],
+    "duration": 30.42,
+    "meta": "10",
+    "asr_text": " Hey, Grandpa. Why does this coffee pot look so funny? Ha ha, Alice. That's a mocha pot, not just any coffee pot. Really? Oh, so does it make magic coffee or something? Well, it could if we turn on the stove and put it on. Want to try it out?"
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Mom, should we keep this black bowl out or put it away? [S1]Hmm, Clara, it’s better to tuck it away. [S2]Where, though? The bottom drawer? [S1]Yes, dear. Just slide it in there and close the drawer. Thanks!",
+        "response": "[Robot]Ma'am, would you like me to place the black bowl on the top shelf?"
+      },
+      {
+        "user": "[S2]Oh, no dear, that's not where it belongs.",
+        "response": "[Robot]Understood. Should I put the black bowl in the bottom drawer of the cabinet and close it?"
+      },
+      {
+        "user": "[S2]Yes, please. That would be perfect!",
+        "response": "[Robot]OK, I will perform the operation to put the black bowl in the bottom drawer of the cabinet and close it. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_senior",
+    "speaker2_info": "female_adult",
+    "instruction": "put the black bowl in the bottom drawer of the cabinet and close it",
+    "source": "libero_10_with_video.json",
+    "video-id": 14,
+    "image-path": "./first_frames/libero_10/episode_0014.jpg",
+    "id": 1,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_1/user_turn_0.wav",
+      "./libero_audio/two/dialogue_1/user_turn_1.wav",
+      "./libero_audio/two/dialogue_1/user_turn_2.wav"
+    ],
+    "duration": 24.791,
+    "meta": "10",
+    "asr_text": " Mom, should we keep this black bowl out or put it away? Greer, it'd be better to tuck it away. Where, though? The bottom drawer. Yes, dear. Just slide it in there and close the drawer."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Dad, can you believe I still can’t get this stove to work? [S1]Oh, James, it’s not that complicated. You probably forgot the knob again. [S2]No, I swear I turned it, but nothing happened. [S1]Hand me that matchbox, I’ll show you how to get it going.",
+        "response": "[Robot]Sir, do you need me to turn on the stove for you?"
+      },
+      {
+        "user": "[S2]Uh, yeah, that’d be great. I was just about to do it myself but got distracted.",
+        "response": "[Robot]Alright, I will turn on the stove now for you. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "male_adult",
+    "instruction": "turn on the stove",
+    "source": "libero_goal_with_video.json",
+    "video-id": 9,
+    "image-path": "./first_frames/libero_goal/episode_0009.jpg",
+    "id": 59,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_59/user_turn_0.wav",
+      "./libero_audio/two/dialogue_59/user_turn_1.wav"
+    ],
+    "duration": 24.746,
+    "meta": "goal",
+    "asr_text": " dad can you believe i still can get this stove to work oh james it's not that complicated you probably forgot the knob again no i swear i turned it but nothing happened hand me that match-box i'll show you how to get it going"
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Dad, why is this bowl just sitting here? [S1]Hmm, I was going to use it for something, but I forgot. [S2]It looks like it's in the way. [S1]You're right, Tim. Let's just put it on top of the drawer for now.",
+        "response": "[Robot]Do you want me to put the bowl inside the drawer?"
+      },
+      {
+        "user": "[S1]Oh no, that’s not where it should go, just leave it out.",
+        "response": "[Robot]Alright, should I put the bowl on the top of the drawer instead?"
+      },
+      {
+        "user": "[S1]Yeah, that’s the right spot, thanks.",
+        "response": "[Robot]OK, I will put the bowl on the top of the drawer now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_adult",
+    "speaker2_info": "male_child",
+    "instruction": "put the bowl on top of the cabinet",
+    "source": "libero_goal_with_video.json",
+    "video-id": 17,
+    "image-path": "./first_frames/libero_goal/episode_0017.jpg",
+    "id": 15,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_15/user_turn_0.wav",
+      "./libero_audio/two/dialogue_15/user_turn_1.wav",
+      "./libero_audio/two/dialogue_15/user_turn_2.wav"
+    ],
+    "duration": 34.152,
+    "meta": "goal",
+    "asr_text": " Dad, why is this bowl just sitting here? It looks like it's in the way. You're right, Tim. Let's just put it on top of the drawer for now."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Grandpa, why is this bowl just sitting here? [S1]Well, Emma, I was going to heat up some soup, but my hands felt a bit stiff. [S2]Oh, so you need the bowl on the stove? [S1]Exactly, sweetheart. Could you help me with that? You're quicker than I am these days.",
+        "response": "[Robot]Sir, do you need me to put the bowl on the stove?"
+      },
+      {
+        "user": "[S1]Oh yes, could you help with that? My hands are a bit shaky today.",
+        "response": "[Robot]Understood. I will put the bowl on the stove now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "female_child",
+    "instruction": "put the bowl on the stove",
+    "source": "libero_goal_with_video.json",
+    "video-id": 13,
+    "image-path": "./first_frames/libero_goal/episode_0013.jpg",
+    "id": 54,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_54/user_turn_0.wav",
+      "./libero_audio/two/dialogue_54/user_turn_1.wav"
+    ],
+    "duration": 29.880000000000003,
+    "meta": "goal",
+    "asr_text": " Grandpa, why is this bowl just sitting here? Well, Emma, I was going to heat up some soup, but my hands felt a bit stiff. Oh, so you need the bowl on the stove? Exactly. Sweetheart, could you help me with that? You're quicker than I am these days."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Mom, why is the bowl just sitting there like it’s lonely? [S2]Oh, Sam, it’s not lonely. It’s just waiting for its friend, the plate. [S1]Haha, they should totally hang out! [S2]Alright, why don't you put the bowl on the plate? It'll cheer them up.",
+        "response": "[Robot]Excuse me, do you need help to put the bowl on the plate?"
+      },
+      {
+        "user": "[S1]Uh, yeah, that’d be helpful. It’s a bit tricky to do it myself.",
+        "response": "[Robot]Understood, I will put the bowl on the plate now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "female_adult",
+    "instruction": "put the bowl on the plate",
+    "source": "libero_goal_with_video.json",
+    "video-id": 0,
+    "image-path": "./first_frames/libero_goal/episode_0000.jpg",
+    "id": 53,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_53/user_turn_0.wav",
+      "./libero_audio/two/dialogue_53/user_turn_1.wav"
+    ],
+    "duration": 27.654,
+    "meta": "goal",
+    "asr_text": " Mom, why is the bowl just sitting there like it's the moonly? Oh, Sam, it did not lonely. It just waiting for its friend, the plate. Ha ha. They should totally hang out. All right. Why don't you put the bowl on the plate? It'll cheer them up."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Grandpa, why is this wine bottle just sitting here? [S1]Ah, Emily, I was planning to put it away, but my back's been acting up. [S2]Oh, you want me to help? [S1]If you could just put it on top of the drawer, that’d be perfect. Thanks, my little helper!",
+        "response": "[Robot]Do you need me to put the wine bottle on the top of the drawer?"
+      },
+      {
+        "user": "[S2]Oh, uh, yeah! That would be super helpful, thanks.",
+        "response": "[Robot]Alright, I will put the wine bottle on the top of the drawer now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "female_child",
+    "instruction": "put the wine bottle on top of the cabinet",
+    "source": "libero_goal_with_video.json",
+    "video-id": 6,
+    "image-path": "./first_frames/libero_goal/episode_0006.jpg",
+    "id": 58,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_58/user_turn_0.wav",
+      "./libero_audio/two/dialogue_58/user_turn_1.wav"
+    ],
+    "duration": 22.958,
+    "meta": "goal",
+    "asr_text": " Grandpa, why is this wine bottle just sitting here? Ah, Emily, I was planning to put it away, but my back's been acting up. You want me to help? If you could just put her on top of the drawer, that could be perfect. Thanks, my little helper."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Dad, how do you always manage to spread cream cheese so unevenly? [S1]Oh, come on, Emma. It’s an art, not a science. [S2]An art? It's more like you’re sculpting lumps. Just put it in the bowl, and I'll handle it. [S1]Fine, fine. You’re the cream cheese expert, apparently.",
+        "response": "[Robot]Sir, do you need me to put the cream cheese on the plate?"
+      },
+      {
+        "user": "[S1]No, no, that's not right. It should go in the bowl.",
+        "response": "[Robot]Understood. Should I put the cream cheese in the bowl then?"
+      },
+      {
+        "user": "[S1]Yes, that's exactly what I was asking for.",
+        "response": "[Robot]OK, I will put the cream cheese in the bowl now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "female_adult",
+    "instruction": "put the cream cheese in the bowl",
+    "source": "libero_goal_with_video.json",
+    "video-id": 5,
+    "image-path": "./first_frames/libero_goal/episode_0005.jpg",
+    "id": 16,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_16/user_turn_0.wav",
+      "./libero_audio/two/dialogue_16/user_turn_1.wav",
+      "./libero_audio/two/dialogue_16/user_turn_2.wav"
+    ],
+    "duration": 34.12,
+    "meta": "goal",
+    "asr_text": " dad how do you always manage to spread cream cheese so unevenly oh come on emma it in an art not a science an art it's more like or sculpting lumps just put it in the bowl and i'll handle it fine fine you're the cream cheese expert apparently"
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Grandma, why is this plate just sitting here? [S2]Oh, I was going to use it for cooking, but my hands are a bit shaky today. [S1]You want me to move it closer to the stove for you? [S2]That would be perfect, dear. You're always so helpful!",
+        "response": "[Robot]Do you need me to push the plate to the front of the stove?"
+      },
+      {
+        "user": "[S2]Oh yes, that’d be great. My hands aren’t steady today.",
+        "response": "[Robot]Alright, I will push the plate to the front of the stove now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "female_senior",
+    "instruction": "push the plate to the front of the stove",
+    "source": "libero_goal_with_video.json",
+    "video-id": 7,
+    "image-path": "./first_frames/libero_goal/episode_0007.jpg",
+    "id": 52,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_52/user_turn_0.wav",
+      "./libero_audio/two/dialogue_52/user_turn_1.wav"
+    ],
+    "duration": 26.201999999999998,
+    "meta": "goal",
+    "asr_text": " Grandma, why is this plate just sitting here? Oh, I was going to use it for cooking, but my hands are a bit shaky today. You want me to move it closer to the stove for you? That would be perfect, dear. You're always so helpful."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Grandpa, why is this bottle just sitting here? [S2]Oh, I was about to put it away, but then I got distracted. [S1]Distracted by what? Your detective shows again? [S2]Ha, you got me. Could you help me put it on the rack? My knees aren't what they used to be.",
+        "response": "[Robot]Do you need assistance putting the wine bottle on the rack?"
+      },
+      {
+        "user": "[S2]Oh, yes, that would be great. My hands are a bit shaky today.",
+        "response": "[Robot]Understood. I will put the wine bottle on the rack now. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_child",
+    "speaker2_info": "male_senior",
+    "instruction": "put the wine bottle on the rack",
+    "source": "libero_goal_with_video.json",
+    "video-id": 1,
+    "image-path": "./first_frames/libero_goal/episode_0001.jpg",
+    "id": 57,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_57/user_turn_0.wav",
+      "./libero_audio/two/dialogue_57/user_turn_1.wav"
+    ],
+    "duration": 25.197000000000003,
+    "meta": "goal",
+    "asr_text": " Grandpa, why is this bottle just sitting here? Oh, I was about to put it away, but then I got distracted. Distracted by what? Your detective shows again. Ah, you got me. Could you help me put it on the rack? My knees aren't what they used to be."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Mom, where’s that recipe card we used last week? [S2]Oh, I think I left it near the drawer. Why? [S1]I just remembered we kept it in the middle layer for safekeeping. [S2]Ah, clever idea! Go check there, it should still be inside.",
+        "response": "[Robot]Sir, would you like me to open the middle layer of the drawer for you?"
+      },
+      {
+        "user": "[S1]Yeah, that’d be helpful. My hands are a bit full right now.",
+        "response": "[Robot]Understood. I will open the middle layer of the drawer now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_adult",
+    "speaker2_info": "female_senior",
+    "instruction": "open the middle drawer of the cabinet",
+    "source": "libero_goal_with_video.json",
+    "video-id": 31,
+    "image-path": "./first_frames/libero_goal/episode_0031.jpg",
+    "id": 50,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_50/user_turn_0.wav",
+      "./libero_audio/two/dialogue_50/user_turn_1.wav"
+    ],
+    "duration": 26.622,
+    "meta": "goal",
+    "asr_text": " Mom, where is that recipe card we used last week? Oh, I think I left it near the drawer. Why? I just remembered we kept it in the middle layer for safekeeping. Ah, clever idea. Go check there. It should still be inside."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Mom, where should I put this bowl? [S2]Oh, David, just put it in the drawer. [S1]Which drawer, uh, the top one? [S2]Yes, the top one. Be careful not to make noise, the plates are delicate!",
+        "response": "[Robot]Sir, do you want me to close the drawer?"
+      },
+      {
+        "user": "[S2]Oh no, leave it open. I need to grab something first.",
+        "response": "[Robot]Understood. Should I open the top layer of the drawer and put the bowl inside?"
+      },
+      {
+        "user": "[S2]Yes, that’s exactly what I need. Thanks for asking.",
+        "response": "[Robot]OK, I will open the top layer of the drawer and put the bowl inside now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_adult",
+    "speaker2_info": "female_senior",
+    "instruction": "open the top drawer and put the bowl inside",
+    "source": "libero_goal_with_video.json",
+    "video-id": 3,
+    "image-path": "./first_frames/libero_goal/episode_0003.jpg",
+    "id": 11,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_11/user_turn_0.wav",
+      "./libero_audio/two/dialogue_11/user_turn_1.wav",
+      "./libero_audio/two/dialogue_11/user_turn_2.wav"
+    ],
+    "duration": 21.281,
+    "meta": "goal",
+    "asr_text": " Mom, where should I put this bowl? Oh, David, just put it in the drawer. Which drawer? Uh, the top one. Yes, the top one. Be careful not to make noise. The plates are delicate. Cut."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Grandpa, why's the black bowl over there? [S1]Oh, Timmy, I left it on the cabinet after cleaning. [S2]It looks lonely! Should we put it on the plate with the others? [S1]Sure, buddy, go ahead and grab it. It'll look better there.",
+        "response": "[Robot]Do you need me to place the akita black bowl on the plate?"
+      },
+      {
+        "user": "[S2]Yeah, that would be great, thanks!",
+        "response": "[Robot]OK, I will pick the akita black bowl on the wooden cabinet and place it on the plate. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "male_child",
+    "instruction": "pick up the black bowl on the wooden cabinet and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 17,
+    "image-path": "./first_frames/libero_spatial/episode_0017.jpg",
+    "id": 79,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_79/user_turn_0.wav",
+      "./libero_audio/two/dialogue_79/user_turn_1.wav"
+    ],
+    "duration": 22.064999999999998,
+    "meta": "spatial",
+    "asr_text": " grandpa why is the black bowl over there oh timmy i left it on the cabinet after peening it looks lonely should we put it on the plate with the others sure buddy go ahead and grab it it'll look better there"
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Mom, are you planning to bake something? [S2]Oh, just thinking about it. Why? [S1]Well, the black bowl is sitting awkwardly next to that ramekin. [S2]Hmm, you're right. Could you put it on that plate to make some space for me?",
+        "response": "[Robot]Madam, would you like me to pick up the ramekin?"
+      },
+      {
+        "user": "[S2]Oh no, dear. That’s not what I need.",
+        "response": "[Robot]Understood. Shall I pick the akita black bowl next to the ramekin and place it on the plate instead?"
+      },
+      {
+        "user": "[S2]Yes, that’s exactly what I meant. Thank you.",
+        "response": "[Robot]OK, I will perform operation: Pick the akita black bowl next to the ramekin and place it on the plate. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_adult",
+    "speaker2_info": "female_senior",
+    "instruction": "pick up the black bowl next to the ramekin and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 31,
+    "image-path": "./first_frames/libero_spatial/episode_0031.jpg",
+    "id": 35,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_35/user_turn_0.wav",
+      "./libero_audio/two/dialogue_35/user_turn_1.wav",
+      "./libero_audio/two/dialogue_35/user_turn_2.wav"
+    ],
+    "duration": 26.800000000000004,
+    "meta": "spatial",
+    "asr_text": " mom are you planning to bake something oh just thinking about it why well the black bowl is sitting awkwardly next to that ramekin you're right could you put it on that plate to make some space for me"
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Grandma, look! That black bowl next to the plate looks so cool. [S1]Oh, Liam, you always notice the funniest things. [S2]Do you think it would look good if we put it on the plate? Like, you know, fancy chefs do! [S1]Ha! Alright, let’s do it your way, Mr. Chef. Go ahead and place it there.",
+        "response": "[Robot]Hey, do you need help putting the akita black bowl on the plate?"
+      },
+      {
+        "user": "[S2]Oh, yes please! That would be great, thanks!",
+        "response": "[Robot]OK, I will perform the operation: Pick the akita black bowl next to the plate and place it on the plate. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_senior",
+    "speaker2_info": "male_child",
+    "instruction": "pick up the black bowl next to the plate and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 30,
+    "image-path": "./first_frames/libero_spatial/episode_0030.jpg",
+    "id": 74,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_74/user_turn_0.wav",
+      "./libero_audio/two/dialogue_74/user_turn_1.wav"
+    ],
+    "duration": 25.845,
+    "meta": "spatial",
+    "asr_text": " Grandma, look, that black bowl next to the plate looks so cool. Oh, Liam, you always notice the funniest things. Do you think it would look good if we put it on the plate like? You know fancy chefs do. Ha! All right, let her do it your way, Mr. Chef. Go ahead and place it there."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Mom, is that the Akita bowl? [S1]Yes, the black one, next to the cookies box. Why? [S2]I want to use it for my little pancake creation. [S1]Alright, just place it on the plate next to you, so you don't spill everywhere.",
+        "response": "[Robot]Do you need any assistance with moving the bowl?"
+      },
+      {
+        "user": "[S2]Yeah, that'd be awesome! I'm not tall enough to reach it.",
+        "response": "[Robot]OK, I will pick the akita black bowl next to the cookies box and place it on the plate for you. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_adult",
+    "speaker2_info": "male_child",
+    "instruction": "pick up the black bowl next to the cookie box and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 0,
+    "image-path": "./first_frames/libero_spatial/episode_0000.jpg",
+    "id": 73,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_73/user_turn_0.wav",
+      "./libero_audio/two/dialogue_73/user_turn_1.wav"
+    ],
+    "duration": 21.68,
+    "meta": "spatial",
+    "asr_text": " Mom, is that the Akita bowl? Yes. The black one next to the cookies box. What? I want to use it for my little pancake creation. Right. Just place it on the plate next to you so you don't spill everywhere."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Grandpa, is that black bowl for soup? [S2]Yes, Timmy, but it's not ready yet. [S1]Oh, it looks lonely up there on the stove. Should we move it? [S2]You're right, little one. Let's put it on that plate over there. It'll look much better.",
+        "response": "[Robot]Do you need help with the bowl, sir?"
+      },
+      {
+        "user": "[S2]Uh, yes, please. It'd be great if you could do that.",
+        "response": "[Robot]OK, I will pick the akita black bowl on the stove and place it on the plate for you. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "male_senior",
+    "instruction": "pick up the black bowl on the stove and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 6,
+    "image-path": "./first_frames/libero_spatial/episode_0006.jpg",
+    "id": 78,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_78/user_turn_0.wav",
+      "./libero_audio/two/dialogue_78/user_turn_1.wav"
+    ],
+    "duration": 30.738,
+    "meta": "spatial",
+    "asr_text": " Grandpa, is that black bowl for soup? Yes, Timmy. But it's not ready yet. Oh, it looks lonely up there on the stove. Should we move it? You're right, little one. Let's put it on that plate over there. It'll look much better."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Grandpa, why is the black bowl sitting on top of the cookie box? Did you leave it there? [S2]Oh, that’s where I put it after cleaning. Why, does it look funny there? [S1]Yeah, it looks like the box is wearing a hat! [S2]Haha, alright, young comedian. Can you move it to the plate for me? It’ll look less silly there.",
+        "response": "[Robot]Hey there, do you want me to pick up the plate first?"
+      },
+      {
+        "user": "[S1]Uh, no, that’s not what we’re doing. I can handle it.",
+        "response": "[Robot]Okay, should I pick the akita black bowl on the cookies box and place it on the plate instead?"
+      },
+      {
+        "user": "[S1]Yeah, that’s the plan. Thanks!",
+        "response": "[Robot]Understood. I will pick the akita black bowl on the cookies box and place it on the plate now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_child",
+    "speaker2_info": "male_senior",
+    "instruction": "pick up the black bowl on the cookie box and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 21,
+    "image-path": "./first_frames/libero_spatial/episode_0021.jpg",
+    "id": 36,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_36/user_turn_0.wav",
+      "./libero_audio/two/dialogue_36/user_turn_1.wav",
+      "./libero_audio/two/dialogue_36/user_turn_2.wav"
+    ],
+    "duration": 32.242,
+    "meta": "spatial",
+    "asr_text": " Grandpa, why is the black bowl sitting on top of the cookie box? Did you leave it there? Oh, that and where I put it, after cleaning. Why? Does it look funny there? It looks like the box is wearing a hat. Ha-ha. All right. Young comedian, can you move it to the plate for me? It will look less silly there."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Billy, could you grab that black bowl from the top of the cabinet for me? [S2]The black one? Oh, you mean the one up there? [S1]Yes, that’s the one. I need to set it on this plate for dinner. [S2]Got it, Grandma! I'll be careful not to drop it.",
+        "response": "[Robot]Do you need me to pick the black bowl from the top layer of the cabinet and put it on the plate?"
+      },
+      {
+        "user": "[S2]Uh, yes please! That'd be great, thanks!",
+        "response": "[Robot]OK, I will perform the operation now. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_senior",
+    "speaker2_info": "male_child",
+    "instruction": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 1,
+    "image-path": "./first_frames/libero_spatial/episode_0001.jpg",
+    "id": 72,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_72/user_turn_0.wav",
+      "./libero_audio/two/dialogue_72/user_turn_1.wav"
+    ],
+    "duration": 21.732,
+    "meta": "spatial",
+    "asr_text": " Billy, could you grab that black bowl from the top of the cabinet for me? The black one? Oh, you mean the one up there? Yes. That and the one. I need to set it on this plate for dinner. Got it, Grandma. I'll be careful not to drop it."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Grandma, why does this bowl look so fancy? [S1]Oh, that’s an Akita black bowl. I got it years ago. [S2]It looks cool! Can I use it for my snacks later? [S1]Sure, but put it on the plate first. It'll be easier to carry.",
+        "response": "[Robot]Do you want me to pick up the akita black bowl and place it on the plate?"
+      },
+      {
+        "user": "[S2]Uh, yeah, that’d be great! Thanks!",
+        "response": "[Robot]OK, I will perform the operation: Pick the akita black bowl on the ramekin and place it on the plate. [ACT]"
+      }
+    ],
+    "speaker1_info": "female_senior",
+    "speaker2_info": "male_child",
+    "instruction": "pick up the black bowl on the ramekin and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 3,
+    "image-path": "./first_frames/libero_spatial/episode_0003.jpg",
+    "id": 77,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_77/user_turn_0.wav",
+      "./libero_audio/two/dialogue_77/user_turn_1.wav"
+    ],
+    "duration": 20.116,
+    "meta": "spatial",
+    "asr_text": " Grandma, why does this bowl look so fancy? Oh, that and an Akita black bowl. I got it years ago. It looks cool. Can I use it for my snacks later? Sure, but put it on the plate first. It'll be easier to carry."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S1]Hey, Lisa, can you tell me why the black bowl is just sitting there? [S2]Oh, probably because I didn't know where to put it. [S1]Hmm, it looks like it's trapped between the plate and that little ramekin. [S2]Well, if you're so concerned, just pop it onto the plate, it'll look better there.",
+        "response": "[Robot]Sir, would you like me to pick the black Akita bowl between the plate and the ramekin and place it on the plate?"
+      },
+      {
+        "user": "[S1]Uh, yeah, that’d be great. It’s kinda tricky to grab it without bumping things over.",
+        "response": "[Robot]Understood. I will pick the Akita black bowl between the plate and the ramekin and place it on the plate now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_adult",
+    "speaker2_info": "female_adult",
+    "instruction": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 11,
+    "image-path": "./first_frames/libero_spatial/episode_0011.jpg",
+    "id": 70,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_70/user_turn_0.wav",
+      "./libero_audio/two/dialogue_70/user_turn_1.wav"
+    ],
+    "duration": 25.834,
+    "meta": "spatial",
+    "asr_text": " Hey, Lisa, can you tell me why the black bowl is just sitting there? Oh, probably, because I didn't know where to put it. It looks like it's trapped between the plate and that little ramekin. Well, if you're so concerned, just pop it onto the plate. It'll look better there."
+  },
+  {
+    "conversation": [
+      {
+        "user": "[S2]Dad, do you see that black bowl in the middle of the table? [S1]Yeah, the one near the plates? What about it, Lily? [S2]Could you pass it over and set it on the plate? I need it for the snacks I'm prepping. [S1]Sure thing. Just don't let me eat them all before you're done!",
+        "response": "[Robot]Sir, do you need me to pick up the silver bowl instead?"
+      },
+      {
+        "user": "[S1]No, no, that's not the one. We need the black bowl, it's in the center.",
+        "response": "[Robot]Understood. Should I pick the akita black bowl and place it on the plate?"
+      },
+      {
+        "user": "[S1]Yes, that's what we need. Thanks for the help.",
+        "response": "[Robot]OK, I will pick the akita black bowl from the table center and place it on the plate now. [ACT]"
+      }
+    ],
+    "speaker1_info": "male_senior",
+    "speaker2_info": "female_adult",
+    "instruction": "pick up the black bowl from table center and place it on the plate",
+    "source": "libero_spatial_with_video.json",
+    "video-id": 33,
+    "image-path": "./first_frames/libero_spatial/episode_0033.jpg",
+    "id": 31,
+    "type": "Two",
+    "speech_conv": [
+      "./libero_audio/two/dialogue_31/user_turn_0.wav",
+      "./libero_audio/two/dialogue_31/user_turn_1.wav",
+      "./libero_audio/two/dialogue_31/user_turn_2.wav"
+    ],
+    "duration": 29.090000000000003,
+    "meta": "spatial",
+    "asr_text": " Dad, do you see that black bowl in the middle of the table? Yeah, the one near the plates. What about it, Lily? Could you pass it over and set it on the plate? I need it for the snacks I'm prepping. Sure thing. Just don't let me eat them all before you're done."
+  }
+]

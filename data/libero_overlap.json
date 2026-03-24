@@ -1,0 +1,1192 @@
+[
+  {
+    "id": 4,
+    "meta": "object",
+    "instruction": "pick up the ketchup and place it in the basket",
+    "video_frame": "Video 4",
+    "speech_conv": [
+      "./libero_audio/overlap/4-1.wav",
+      "./libero_audio/overlap/4-2.wav",
+      "./libero_audio/overlap/4-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me organize these groceries? [S2] Sure, where should we start? [S1] Let’s put the condiments in the basket first. [S2] Oh, like the green bottle? [S1] Yeah, and the ketchup too—[Overlap]the orange one? [Overlap_S2] YES, the orange one! [S1] Alright, let me grab it and place it in the basket.",
+        "response": "Should I start with the ketchup?"
+      },
+      {
+        "user": "[S1] Yes, place the orange ketchup in the basket first.",
+        "response": "Got it. Should I handle anything else after that?"
+      },
+      {
+        "user": "[S1] No, just focus on the ketchup for now.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 4,
+    "duration": 21.6085,
+    "asr_text": " Hey, can you help me organize these groceries? Sure. Where should we start? Let's put the condiments in the basket first. Oh, like the green bottle. Yay, and the ketchup too. Less the orange one. All right, let me grab it and place it in the basket.",
+    "image-path": "./first_frames/libero_object/episode_0001.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9663
+  },
+  {
+    "id": 8,
+    "meta": "object",
+    "instruction": "pick up the butter and place it in the basket",
+    "video_frame": "Video 8",
+    "speech_conv": [
+      "./libero_audio/overlap/8-1.wav",
+      "./libero_audio/overlap/8-2.wav",
+      "./libero_audio/overlap/8-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, let's pack the basket. [S2] Sure, what do you want to start with? [S1] The butter first or [Overlap] the jam? [Overlap_S2] Butter first! [S1] Alright, butter it is. [S2] Got it, placing the butter in the basket.",
+        "response": "I can do that. Should I start with the butter?"
+      },
+      {
+        "user": "[S1] Yes, start with the butter first, then we’ll decide on the rest.",
+        "response": "OK, I’ll place the butter in the basket. Anything else after that?"
+      },
+      {
+        "user": "[S1] Not yet, let’s wait until this is done first.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 8,
+    "duration": 17.940625,
+    "asr_text": " Hey, let's pack the basket. Sure, what do you want to start with? The butter first or the jam? Butter first. All right, butter it is. Got it. Placing the butter in the basket.",
+    "image-path": "./first_frames/libero_object/episode_0012.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9655
+  },
+  {
+    "id": 11,
+    "meta": "object",
+    "instruction": "pick up the tomato sauce and place it in the basket",
+    "video_frame": "Video 11",
+    "speech_conv": [
+      "./libero_audio/overlap/11-1.wav",
+      "./libero_audio/overlap/11-2.wav",
+      "./libero_audio/overlap/11-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Let's organize the groceries. [S2] Okay, what first? [S1] Sauces or [Overlap] cans? [Overlap_S2] Tomato can first! [S1] Perfect, tomato can goes in first. [S2] Got it, placing the tomato can in the basket.",
+        "response": "Got it! Should I start now?"
+      },
+      {
+        "user": "[S1] Yes, please start with the tomato can.",
+        "response": "OK, should I place it directly in the basket?"
+      },
+      {
+        "user": "[S1] Yes, place it in the basket.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 11,
+    "duration": 17.551625,
+    "asr_text": " Let's organize the grocery. Okay. What first? Sources or can. Tomato can first. Perfect. Tomato can goes in first. Got it. Placing the tomato can in the basket.",
+    "image-path": "./first_frames/libero_object/episode_0014.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9697
+  },
+  {
+    "id": 12,
+    "meta": "object",
+    "instruction": "pick up the chocolate pudding and place it in the basket",
+    "video_frame": "Video 12",
+    "speech_conv": [
+      "./libero_audio/overlap/12-1.wav",
+      "./libero_audio/overlap/12-2.wav",
+      "./libero_audio/overlap/12-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hmm, we need to pack up these groceries. Should I start with the big bottles? [S2] No, no, let’s start with the snacks. Like that pudding cup over there. [S1] Which one? The one next to the green bottle? [S2] Yeah, the chocolate one… you see it, right? [S1] Oh, this one? [S2] YES, that one! Put it in the basket! [S1] Alright, I’ll grab it now. [S2] [Overlap] Don’t forget! [Overlap_S1] I know, the basket!",
+        "response": "Do you want me to pick up the chocolate pudding?"
+      },
+      {
+        "user": "[S1] Yes, please pick it up and place it in the basket.",
+        "response": "OK, should I proceed now?"
+      },
+      {
+        "user": "[S2] Yes, go ahead and do that.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "father",
+    "speaker2_info": "daughter",
+    "video_id": 12,
+    "duration": 18.698625,
+    "asr_text": " We need to pack snacks. Okay. Which one first? Oh, chocolate pudding or chips over there. All right. Pudding it is. Got it. Picking up the chocolate pudding now.",
+    "image-path": "./first_frames/libero_object/episode_0016.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9725
+  },
+  {
+    "id": 20,
+    "meta": "object",
+    "instruction": "pick up the cream cheese and place it in the basket",
+    "video_frame": "Video 20",
+    "speech_conv": [
+      "./libero_audio/overlap/20-1.wav",
+      "./libero_audio/overlap/20-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me sort these things out? [S2] Sure, what do you want to start with? [S1] Let’s put something creamy in the basket. Maybe the cream cheese? [S2] Oh, you mean the small rectangular one? [S1] No, the taller one, next to the [Overlap]orange box. [Overlap_S2] Oh, got it, the cream cheese! [S1] Exactly! Let’s put that in the basket.",
+        "response": "Do you need me to pick up the cream cheese and put it in the basket?"
+      },
+      {
+        "user": "[S1] Yes, that's the one. Please place it in the basket.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 20,
+    "duration": 22.378749999999997,
+    "asr_text": " Hey, can you help me sort these things out? Sure. What do you want to start with? Better put something creamy in the basket. Maybe the cream cheese. Oh, you mean the small rectangular one? No, the taller one, next to the orange box. Oh, got it. The cream cheese. Exactly. Let him put that in the basket.",
+    "image-path": "./first_frames/libero_object/episode_0003.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9697
+  },
+  {
+    "id": 25,
+    "meta": "object",
+    "instruction": "pick up the bbq sauce and place it in the basket",
+    "video_frame": "Video 25",
+    "speech_conv": [
+      "./libero_audio/overlap/25-1.wav",
+      "./libero_audio/overlap/25-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me decide what to do with these bottles? [S2] Sure, are we organizing them for dinner or cleaning up? [S1] Dinner, I think. Maybe the BBQ sauce goes into the basket? [S2] Hmm, which one? The brown one or the [Overlap]red one? [Overlap_S1] RED one! [S2] Got it, red BBQ sauce in the basket! [S1] Perfect, thanks for helping!",
+        "response": "Should I pick the red BBQ sauce and place it in the basket?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I meant!",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 25,
+    "duration": 22.93475,
+    "asr_text": " Hey, can you help me decide what to do with these bottles? Sure. Are we organising them for dinner or cleaning up? Dinner, I think. Maybe the BBQ sauce goes into the basket. Hmm. Which one, the brown one or the red one? Red one. Got it. Red BBQ sauce in the basket. Perfect. Thanks for helping.",
+    "image-path": "./first_frames/libero_object/episode_0004.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9677
+  },
+  {
+    "id": 28,
+    "meta": "object",
+    "instruction": "pick up the alphabet soup and place it in the basket",
+    "video_frame": "Video 28",
+    "speech_conv": [
+      "./libero_audio/overlap/28-1.wav",
+      "./libero_audio/overlap/28-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hmm, where should I start organizing these things? [S2] Let’s put the food items in the basket first. [S1] Like the soup can or the juice carton? [S2] Yeah, start with the soup. [S1] Oh, you mean this one? [Overlap] The alphabet soup? [Overlap_S2] YES, that one—it’s perfect! [S1] Got it, into the basket it goes.",
+        "response": "Do you need me to pick up the soup can?"
+      },
+      {
+        "user": "[S1] Yes, please pick up the alphabet soup and place it in the basket.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 28,
+    "duration": 20.34975,
+    "asr_text": " Hmm, where should I start organising these things? Let's put the food items in the basket first. Like the soup can or the juice carton? Yeah, start with the soup. Oh, you mean this one? Yes, that one, two, perfect. Got it. Into the basket it goes.",
+    "image-path": "./first_frames/libero_object/episode_0006.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9703
+  },
+  {
+    "id": 33,
+    "meta": "object",
+    "instruction": "pick up the milk and place it in the basket",
+    "video_frame": "Video 33",
+    "speech_conv": [
+      "./libero_audio/overlap/33-1.wav",
+      "./libero_audio/overlap/33-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help with putting things away? [S2] Sure, do you want me to start with the basket or— [S1] No, focus on the milk first. [S2] Milk? Where is it? [S1] It’s right there next to the juice, the one [Overlap]on the floor! [Overlap_S2] Oh, got it! [S1] Perfect. Then place it in the basket, okay? [S2] Alright, I’ll do that now.",
+        "response": "Should I pick up the milk and place it in the basket?"
+      },
+      {
+        "user": "[S1] Yes, please do that.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 33,
+    "duration": 19.681625,
+    "asr_text": " Hey, can you help with putting things away? Sure. Do you want me to start with the basket or... No, focus on the milk first. Milk? Where is it? It's right there next to the juice, the one. Oh, got it. Perfect. Then place it in the basket, okay? Alright, I am do that now.",
+    "image-path": "./first_frames/libero_object/episode_0007.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9639
+  },
+  {
+    "id": 36,
+    "meta": "object",
+    "instruction": "pick up the salad dressing and place it in the basket",
+    "video_frame": "Video 36",
+    "speech_conv": [
+      "./libero_audio/overlap/36-1.wav",
+      "./libero_audio/overlap/36-2.wav",
+      "./libero_audio/overlap/36-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey sweetie, which dressing should we use for the salad? [S2] Hm, the one with the green top? Or— [S1] Oh, you mean the [Overlap]salad dressing? [Overlap_S2] Yes! That one! [S1] Alright, I'll grab it and put it in the basket. [S2] Great, thanks! I'll get the plates ready.",
+        "response": "Should I pick the salad dressing with the green cap?"
+      },
+      {
+        "user": "[S1] Yes, please do that.",
+        "response": "Do you want me to place it in the basket?"
+      },
+      {
+        "user": "[S1] Exactly, put it in the basket.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 36,
+    "duration": 18.148625,
+    "asr_text": " Hey, sweetie, which dressing should we use for the salad? The one with the green top. Or... Oh, you mean the salad dressing? Yeah, that one. All right. I'll grab it and put it in the basket. Great, thanks. I'll get the plates ready.",
+    "image-path": "./first_frames/libero_object/episode_0009.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9709
+  },
+  {
+    "id": 39,
+    "meta": "object",
+    "instruction": "pick up the orange juice and place it in the basket",
+    "video_frame": "Video 39",
+    "speech_conv": [
+      "./libero_audio/overlap/39-1.wav",
+      "./libero_audio/overlap/39-2.wav",
+      "./libero_audio/overlap/39-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, should we put away the drinks now? [S2] Yeah, where should the orange juice go? [S1] Hmm, maybe we can [Overlap]put it in the basket? [Overlap_S2] Oh, definitely the basket! [S1] Great! I’ll grab it then. [S2] Perfect, let’s make it look nice.",
+        "response": "Should I place the orange juice in the basket?"
+      },
+      {
+        "user": "[S1] Yes, please do that.",
+        "response": "Alright, should I arrange it neatly in the basket?"
+      },
+      {
+        "user": "[S2] Yes, make sure it looks organized.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 39,
+    "duration": 17.735625,
+    "asr_text": " Hey, should we put away the drinks now? Yeah. Where should the orange juice go? Hmm, maybe we can. Put it in the basket. Oh, definitely. The basket. Great. I'll grab it then. Perfect. What to make it look nice?",
+    "image-path": "./first_frames/libero_object/episode_0000.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9697
+  },
+  {
+    "id": 1,
+    "meta": "10",
+    "instruction": "put both moka pots on the stove",
+    "video_frame": "Video 1",
+    "speech_conv": [
+      "./libero_audio/overlap/1-1.wav",
+      "./libero_audio/overlap/1-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, the moka pots are out here. [S2] Oh, are we making coffee? [S1] Yeah, but we need to put them on the burner. Should I just— [Overlap]use both of them?I like use both of them. [Overlap_S2] Yes, BOTH! It’s quicker! [S1] Alright, let’s place them on the stove then.",
+        "response": "Got it! Should I place both on the stove?"
+      },
+      {
+        "user": "[S1] Yes, go ahead and put both on the stove.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 1,
+    "duration": 13.935,
+    "asr_text": " Hey, the mocha pots are out here. Oh, are we making coffee? Yeah, but we need to put them on the burner. Should I use both of them? Yes, both. I like to use both of them. All right, let's place them on the stove then.",
+    "image-path": "./first_frames/libero_10/episode_0010.jpg"
+  },
+  {
+    "id": 2,
+    "meta": "10",
+    "instruction": "put the white mug on the plate and put the chocolate pudding to the right of the plate",
+    "video_frame": "Video 2",
+    "speech_conv": [
+      "./libero_audio/overlap/2-1.wav",
+      "./libero_audio/overlap/2-2.wav",
+      "./libero_audio/overlap/2-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, looks like we’re setting up for dessert here! [S2] Yeah, but can you help me with this white mug and plate arrangement? [S1] Hmm, should I put the mug ON the plate or nearby? [S2] On the plate, of course! [S1] Got it. And where does the chocolate pudding go? [S2] Right next to—[Overlap]the plate! [Overlap_S1] Oh, to the right of it? [S2] YES! Perfect, thanks!",
+        "response": "Do you need me to arrange the items as described?"
+      },
+      {
+        "user": "[S2] Yes, please make sure the mug is on the plate and the pudding is to its right.",
+        "response": "Should I confirm this setup now?"
+      },
+      {
+        "user": "[S2] Yes, go ahead.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "son",
+    "speaker2_info": "mother",
+    "video_id": 2,
+    "duration": 27.526375,
+    "asr_text": " Hey, looks like Webb's setting up for dessert here. Yeah, but can you help me with this white mug and plate arrangement? Hmm. Should I put the mug on the plate or nearby? On the plate, of course. Got it. And where does the chocolate pudding go? Right next to the plate. Oh, to the right of it. Wes, perfect. Thanks.",
+    "image-path": "./first_frames/libero_10/episode_0001.jpg"
+  },
+  {
+    "id": 7,
+    "meta": "10",
+    "instruction": "put both the cream cheese box and the butter in the basket",
+    "video_frame": "Video 7",
+    "speech_conv": [
+      "./libero_audio/overlap/7-1.wav",
+      "./libero_audio/overlap/7-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Oh wow, there’s a lot of food on the table! What are we doing with all of it? [S2] I think we’re organizing it. Should we start with the cream cheese? [S1] Sure, but what about the butter? Should we [Overlap]put them together? [Overlap_S2] Yes, put them BOTH in the basket! [S1] Got it. Cream cheese and butter, both going in the basket. [S2] Perfect! That’ll keep things tidy.",
+        "response": "Should I start putting the cream cheese and butter in the basket?"
+      },
+      {
+        "user": "[S1] Yes, please. Make sure both go in the basket.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "daughter",
+    "speaker2_info": "mother",
+    "video_id": 7,
+    "duration": 22.879875,
+    "asr_text": " Oh wow! Therian, a lot of food on the table. What are we doing with all of it? I think we're organising it. Should we start with the cream cheese? Sure. But what about the butter? Should we put them together? Yes, put them both in the basket. Got it. Cream cheese and butter both going in the basket. Perfect. That will keep things tidy.",
+    "image-path": "./first_frames/libero_10/episode_0012.jpg"
+  },
+  {
+    "id": 10,
+    "meta": "10",
+    "instruction": "put the black bowl in the bottom drawer of the cabinet and close it",
+    "video_frame": "Video 10",
+    "speech_conv": [
+      "./libero_audio/overlap/10-1.wav",
+      "./libero_audio/overlap/10-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hmm, we need space in the drawer. [S2] Right, where should the black bowl go? [S1] Bottom drawer or [Overlap] top shelf? [Overlap_S2] Bottom drawer! [S1] Okay, bottom drawer it is. [S2] Got it, I’ll place it there.",
+        "response": "Should I put the black bowl in the bottom drawer and close it?"
+      },
+      {
+        "user": "[S1] Yes, please do that.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 10,
+    "duration": 14.097875,
+    "asr_text": " Hmm, we need space in the drawer. Right. Where should the black bowl go? Bottom, drawer or mug. Bottom drawer. Okay, bottom drawer it is. Got it. Uh, place it there.",
+    "image-path": "./first_frames/libero_10/episode_0014.jpg"
+  },
+  {
+    "id": 15,
+    "meta": "10",
+    "instruction": "put the yellow and white mug in the microwave and close it",
+    "video_frame": "Video 15",
+    "speech_conv": [
+      "./libero_audio/overlap/15-1.wav",
+      "./libero_audio/overlap/15-2.wav",
+      "./libero_audio/overlap/15-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Need to heat a mug. [S2] Which one? [S1] Yellow and white or [Overlap] blue? [Overlap_S2] Yellow and white! [S1] Got it, that one it is. [S2] Okay, putting the yellow and white mug in the microwave.",
+        "response": "Should I put the yellow and white mug in the microwave and close the door?"
+      },
+      {
+        "user": "[S1] Yes, that's what I need.",
+        "response": "Alright, do you want me to heat it for you as well?"
+      },
+      {
+        "user": "[S1] No need, just place it and close the door.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 15,
+    "duration": 15.100624999999999,
+    "asr_text": " Need to heat a mug. Which one? Yellow and white or blue. Yellow and white. Got it, that one it is. Okay. Putting the yellow and white mug in the microwave.",
+    "image-path": "./first_frames/libero_10/episode_0002.jpg"
+  },
+  {
+    "id": 17,
+    "meta": "10",
+    "instruction": "pick up the book and place it in the back compartment of the caddy",
+    "video_frame": "Video 17",
+    "speech_conv": [
+      "./libero_audio/overlap/17-1.wav",
+      "./libero_audio/overlap/17-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] This desk needs organizing. [S2] Right, where should we put the book? [S1] Back of the caddy or [Overlap] on the shelf? [Overlap_S2] Back compartment! [S1] Good idea, back compartment it is. [S2] Got it, placing the book there.",
+        "response": "Should I pick up the book and put it in the back of the caddy?"
+      },
+      {
+        "user": "[S1] Yes, go ahead and do that.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 17,
+    "duration": 12.788875,
+    "asr_text": " This desk needs organizing. Right. Where should we put the book? Back of the caddy or in the shelf. Back compartment. Good idea. Back compartment it is. Got it. Placing the book there.",
+    "image-path": "./first_frames/libero_10/episode_0027.jpg"
+  },
+  {
+    "id": 27,
+    "meta": "10",
+    "instruction": "turn on the stove and put the moka pot on it",
+    "video_frame": "Video 27",
+    "speech_conv": [
+      "./libero_audio/overlap/27-1.wav",
+      "./libero_audio/overlap/27-2.wav",
+      "./libero_audio/overlap/27-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, should we make coffee now? [S2] Sure, but where’s the moka pot? [S1] It’s right here on the counter. Should I turn on the stove first? [S2] Yeah, and place the pot on it. [S1] Okay, I’ll turn it on and place the [Overlap]moka pot? [Overlap_S2] YES, the moka pot on the stove! [S1] Got it, coffee coming up soon!",
+        "response": "Do you want me to help with turning on the stove and placing the moka pot?"
+      },
+      {
+        "user": "[S1] Yes, can you make sure the pot is properly placed?",
+        "response": "Should I double-check the moka pot placement on the stove?"
+      },
+      {
+        "user": "[S1] Yes, please ensure it’s stable before turning the stove on.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 27,
+    "duration": 23.6715,
+    "asr_text": " Hey, should we make coffee now? Sure, but where are the mocha pots? Right here on the counter. Should I turn on the stove first? Yeah, and place the pot on. Okay, I'll turn it on and place the mocha pot. Last, the mocha pot on the stove. Got it. Coffee coming up soon.",
+    "image-path": "./first_frames/libero_10/episode_0006.jpg"
+  },
+  {
+    "id": 32,
+    "meta": "10",
+    "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+    "video_frame": "Video 32",
+    "speech_conv": [
+      "./libero_audio/overlap/32-1.wav",
+      "./libero_audio/overlap/32-2.wav",
+      "./libero_audio/overlap/32-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, do you think we should put this stuff away? [S2] Yeah, let’s start with the basket over there. [S1] Should I grab the yellow can first, or [Overlap]the cream cheese? [Overlap_S2] Cream cheese! It’s smaller, easier to fit. [S1] Okay, got it. Then, what about this blue can? [S2] No, no, take the other one first—the one with green and red. [S1] Oh, right. That one looks like soup. Let me add it in too. [S2] Perfect! It’s coming together nicely.",
+        "response": "Do you want me to start with the cream cheese and the soup?"
+      },
+      {
+        "user": "[S1] Yes, start with those. Can you fit them both in the basket properly?",
+        "response": "Should I arrange them carefully to save space?"
+      },
+      {
+        "user": "[S1] Yeah, make sure there’s room for everything else if possible.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "father",
+    "speaker2_info": "daughter",
+    "video_id": 32,
+    "duration": 37.133375,
+    "asr_text": " Hey, do you think we should put this stuff away? Yeah. Let's just start with the basket over there. Should I grab the yellow can first, or the cream cheese? Either smaller, easier to fit. Okay, got it then. What about this blue can? No, no. Take the other one first. Tea one with green and red. Oh, right. That one looks like soup. Let me add it in, too. Perfect. Coming together nicely.",
+    "image-path": "./first_frames/libero_10/episode_0007.jpg"
+  },
+  {
+    "id": 34,
+    "meta": "10",
+    "instruction": "put both the alphabet soup and the tomato sauce in the basket",
+    "video_frame": "Video 34",
+    "speech_conv": [
+      "./libero_audio/overlap/34-1.wav",
+      "./libero_audio/overlap/34-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Can you help me figure out what to pack? [S2] Sure, what do you want to put in the basket? [S1] I think the soup and [Overlap]the sauce— [Overlap_S2] The tomato sauce? [S1] Yes, the soup and the tomato sauce would be perfect for dinner prep. [S2] Got it! I'll grab them both right now.",
+        "response": "Should I put them in the basket?"
+      },
+      {
+        "user": "[S1] Yes, please put the soup and the tomato sauce in the basket.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 34,
+    "duration": 16.899875,
+    "asr_text": " Can you help me figure out what to pack? Sure. What do you want to put in the basket? I think the soup and the sauce. The tomato sauce. Yes, the soup and the tomato sauce would be perfect for dinner. Got it. I'll grab them both right now.",
+    "image-path": "./first_frames/libero_10/episode_0008.jpg"
+  },
+  {
+    "id": 37,
+    "meta": "10",
+    "instruction": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+    "video_frame": "Video 37",
+    "speech_conv": [
+      "./libero_audio/overlap/37-1.wav",
+      "./libero_audio/overlap/37-2.wav",
+      "./libero_audio/overlap/37-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] These mugs look so nice together, don’t they? [S2] Yeah, they do! But they’re all over the place. Should we organize them? [S1] Hmm, how about we put this one— [Overlap]the white mug— [Overlap_S2] on the left plate? [S1] Oh, yes, that works! And the yellow and white mug could go on the right plate, I think. [S2] Perfect! Let’s make it look balanced and tidy.",
+        "response": "Should I arrange them as you suggested?"
+      },
+      {
+        "user": "[S1] Yes, please go ahead and do it.",
+        "response": "OK, should I start with the white mug on the left plate?"
+      },
+      {
+        "user": "[S2] Yes, and then place the yellow and white mug on the right plate.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 37,
+    "duration": 26.269624999999998,
+    "asr_text": " These mugs look so nice together, don't they? Yeah, they do. But they are all over the place. Should we organize them? Hmm. How about we put this one on the left plate? Oh yes, that works. And the yellow and white mug could go on the right plate, I think. Perfect. Let's make it look balanced and tight.",
+    "image-path": "./first_frames/libero_10/episode_0000.jpg"
+  },
+  {
+    "id": 3,
+    "meta": "goal",
+    "instruction": "put the wine bottle on the rack",
+    "video_frame": "Video 3",
+    "speech_conv": [
+      "./libero_audio/overlap/3-1.wav",
+      "./libero_audio/overlap/3-2.wav",
+      "./libero_audio/overlap/3-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me tidy up this counter? [S2] Sure, what do you want to move first? [S1] I think the wine bottle should go on the rack. It looks cluttered here. [S2] You mean the wooden rack next to the toaster, right? [S1] Yeah, just pick it up and— [Overlap]careful! [Overlap_S2] CAREFUL? I’m always careful! [S1] Haha, okay okay, just make sure it’s placed securely.",
+        "response": "Do you want me to put the wine bottle on the rack?"
+      },
+      {
+        "user": "[S1] Yes, that's right. The wooden rack next to the toaster.",
+        "response": "Should I make sure it’s placed securely?"
+      },
+      {
+        "user": "[S1] Yes, please. Just be careful while handling it.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "father",
+    "speaker2_info": "daughter",
+    "video_id": 3,
+    "duration": 32.371500000000005,
+    "asr_text": " Hey, and you help me tidy up this counter. Sure. What do you want to move first? I think the wine bottle should go on the rack. It looks cluttered here. You mean the wooden rack next to the toaster? Right? Yeah. Just pick it up and be careful. I'm always careful. Aha. Okay. Okay, just make sure it's in place securely.",
+    "image-path": "./first_frames/libero_goal/episode_0001.jpg"
+  },
+  {
+    "id": 9,
+    "meta": "goal",
+    "instruction": "put the bowl on the stove",
+    "video_frame": "Video 9",
+    "speech_conv": [
+      "./libero_audio/overlap/9-1.wav",
+      "./libero_audio/overlap/9-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Looks like we’re prepping something. Where should this bowl go? [S2] Uh, maybe near the stove burner? [S1] Near it, or ON the burner? [S2] Oh, I was thinking— [Overlap]on the burner. [Overlap_S1] Got it, on the burner. [S2] Yeah, that makes sense! We’ll need it there for cooking.",
+        "response": "Should I place the bowl on the stove burner?"
+      },
+      {
+        "user": "[S1] Yes, put it on the burner.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "daughter",
+    "speaker2_info": "mother",
+    "video_id": 9,
+    "duration": 16.990875,
+    "asr_text": " Looks like when prepping something, where should this bowl go? Maybe near the stove burner. Near it. Or on the burner. Oh, I was thinking on the burner. Got it. On the burner. Yeah, that makes sense. We need it there for cooking.",
+    "image-path": "./first_frames/libero_goal/episode_0013.jpg"
+  },
+  {
+    "id": 13,
+    "meta": "goal",
+    "instruction": "put the bowl on top of the cabinet",
+    "video_frame": "Video 13",
+    "speech_conv": [
+      "./libero_audio/overlap/13-1.wav",
+      "./libero_audio/overlap/13-2.wav",
+      "./libero_audio/overlap/13-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, the table looks cluttered again. [S2] Yeah, especially around the plate and bowl. Should we move something? [S1] Maybe the bowl could go near the [Overlap]drawer? [Overlap_S2] On TOP of the drawer? [S1] EXACTLY! It’ll look tidier there. [S2] Alright, I’ll help lift it up. [S1] Thanks, let’s make sure it doesn’t slide off.",
+        "response": "Should I move the bowl to the top of the drawer?"
+      },
+      {
+        "user": "[S1] Yes, go ahead and place it carefully.",
+        "response": "Alright, I'll position it securely."
+      },
+      {
+        "user": "[S1] Great, just double-check it’s stable.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "father",
+    "speaker2_info": "daughter",
+    "video_id": 13,
+    "duration": 27.738500000000002,
+    "asr_text": " Hey. The table looks cluttered again. Yeah, especially around the plate and bowl. Should we move something? Maybe the bowl could go near the drawer. On top of the drawer? Exactly. It'll look tidier. There. Alright. I do help lift it up. Thanks. Let me make sure it doesn't slide off.",
+    "image-path": "./first_frames/libero_goal/episode_0017.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9444
+  },
+  {
+    "id": 19,
+    "meta": "goal",
+    "instruction": "open the top drawer and put the bowl inside",
+    "video_frame": "Video 19",
+    "speech_conv": [
+      "./libero_audio/overlap/19-1.wav",
+      "./libero_audio/overlap/19-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, this kitchen drawer is so cluttered. [S2] Yeah, but we need to clear space for the bowl. [S1] Should I open the bottom drawer or [Overlap]the top one? [Overlap_S2] The TOP one, definitely! [S1] Got it, let’s put the bowl inside then. [S2] Perfect, it’ll be less messy now.",
+        "response": "Should I open the top drawer and place the bowl inside?"
+      },
+      {
+        "user": "[S1] Yes, open the top drawer and place the bowl inside, please.",
+        "response": "OK, I will open the top drawer and place the bowl inside. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 19,
+    "duration": 17.616875,
+    "asr_text": " Hey, this kitchen drawer is so cluttered. Yeah, but we need to clear space for the bowl. Should I open the bottom drawer or the top one? The top one, definitely. Got it. Let's put the bowl inside then. Perfect. It'd be less messy now.",
+    "image-path": "./first_frames/libero_goal/episode_0003.jpg"
+  },
+  {
+    "id": 22,
+    "meta": "goal",
+    "instruction": "open the middle drawer of the cabinet",
+    "video_frame": "Video 22",
+    "speech_conv": [
+      "./libero_audio/overlap/22-1.wav",
+      "./libero_audio/overlap/22-2.wav",
+      "./libero_audio/overlap/22-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] I need something from the drawer. [S2] Top or middle? [S1] Middle or [Overlap] bottom? [Overlap_S2] Middle! [S1] Alright, middle it is. [S2] Got it, opening the middle drawer.",
+        "response": "Do you need me to open the middle drawer now?"
+      },
+      {
+        "user": "[S1] Yes, I need it opened to grab something.",
+        "response": "Should I open it right away?"
+      },
+      {
+        "user": "[S1] Yes, please go ahead.",
+        "response": "OK, I will open the middle drawer now. [ACT]"
+      }
+    ],
+    "speaker1_info": "daughter",
+    "speaker2_info": "mother",
+    "video_id": 22,
+    "duration": 15.424625,
+    "asr_text": " I need something from the drawer. Top or middle? Middle or bottom? Alright, middle it is. Got it? Opening the middle drawer.",
+    "image-path": "./first_frames/libero_goal/episode_0031.jpg"
+  },
+  {
+    "id": 26,
+    "meta": "goal",
+    "instruction": "put the cream cheese in the bowl",
+    "video_frame": "Video 26",
+    "speech_conv": [
+      "./libero_audio/overlap/26-1.wav",
+      "./libero_audio/overlap/26-2.wav",
+      "./libero_audio/overlap/26-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Where’s the cream cheese? [S2] Next to the blue item. [S1] On the plate or [Overlap] the bowl? [Overlap_S2] The bowl! [S1] Got it, bowl it is. [S2] Okay, placing the cream cheese on the bowl.",
+        "response": "Should I go ahead and put the cream cheese on the bowl?"
+      },
+      {
+        "user": "[S1] Yes, go ahead and put it there.",
+        "response": "Got it, would you like anything else arranged?"
+      },
+      {
+        "user": "[S1] No, that's all for now.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 26,
+    "duration": 14.786625,
+    "asr_text": " Where is the cream cheese? Next to the blue item. On the plate or the bowl? Got it. Bowl it is. Okay. Placing the cream cheese on the bowl.",
+    "image-path": "./first_frames/libero_goal/episode_0005.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9688
+  },
+  {
+    "id": 29,
+    "meta": "goal",
+    "instruction": "put the wine bottle on top of the cabinet",
+    "video_frame": "Video 29",
+    "speech_conv": [
+      "./libero_audio/overlap/29-1.wav",
+      "./libero_audio/overlap/29-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, did you notice the drawer looks empty? [S2] Hmm, yeah. What should we put there? [S1] Maybe the wine bottle? [S2] Oh, but it’s already on the table... [S1] Let’s move it to the drawer. [S2] Sure, but—[Overlap]top of the drawer? [Overlap_S1] Yes, on TOP! [S2] Oh, got it! That makes sense.",
+        "response": "Should I move the wine bottle to the top of the drawer?"
+      },
+      {
+        "user": "[S1] Yes, please do that.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 29,
+    "duration": 17.384625,
+    "asr_text": " Hey, did you notice the drawer looks empty? Yeah, what should we put there? Maybe the wine bottle. Oh, but itchy already on the table. I had to move it to the drawer. Sure, but on top of the drawer. Yes, on top. Oh, got it. That makes sense.",
+    "image-path": "./first_frames/libero_goal/episode_0006.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9535
+  },
+  {
+    "id": 31,
+    "meta": "goal",
+    "instruction": "push the plate to the front of the stove",
+    "video_frame": "Video 31",
+    "speech_conv": [
+      "./libero_audio/overlap/31-1.wav",
+      "./libero_audio/overlap/31-2.wav",
+      "./libero_audio/overlap/31-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, the stove looks a bit cramped. Should we move things around? [S2] Yeah, maybe clear up near the plate? [S1] Sure, do you mean the plate or the bowl? [S2] The plate! Push it closer to the stove— [Overlap]like, all the way to the edge. [Overlap_S1] Oh, to the front edge? [S2] Exactly, so it’s easier to reach when cooking.",
+        "response": "Should I move the plate to the front edge of the stove?"
+      },
+      {
+        "user": "[S1] Yes, please move it closer to the stove.",
+        "response": "Got it. Do you need me to adjust anything else near the stove?"
+      },
+      {
+        "user": "[S1] No, just the plate for now.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 31,
+    "duration": 22.014625000000002,
+    "asr_text": " Hey, the stove looks a bit cramped. Should we move things around? Yeah, maybe clear up near the plate. Sure. Do you mean the plate or the bowl? The plate. Push it closer to the stove. Oh, to the front edge. All the way to the edge. Exactly so it's easier to reach when cooking.",
+    "image-path": "./first_frames/libero_goal/episode_0007.jpg"
+  },
+  {
+    "id": 35,
+    "meta": "goal",
+    "instruction": "turn on the stove",
+    "video_frame": "Video 35",
+    "speech_conv": [
+      "./libero_audio/overlap/35-1.wav",
+      "./libero_audio/overlap/35-2.wav",
+      "./libero_audio/overlap/35-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, do you think we should start cooking now? [S2] Yeah, but the stove isn’t on yet. [S1] Oh, right. Should I light it with the matches or— [Overlap]wait, you mean the electric one? [Overlap_S2] Yes! The electric one, please. [S1] Got it, turning it on now.",
+        "response": "Do you need me to turn on the stove?"
+      },
+      {
+        "user": "[S1] Yes, can you turn it on now?",
+        "response": "Should I turn it on right away?"
+      },
+      {
+        "user": "[S1] Yes, please do it now.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "daughter",
+    "speaker2_info": "mother",
+    "video_id": 35,
+    "duration": 19.28275,
+    "asr_text": " Hey, do you think we should start cooking now? Yeah, but the stove isn't on yet. Oh, right. Should I light it with the matches or... Yes, the electric one. You mean the electric one? Got it. Turning it on now.",
+    "image-path": "./first_frames/libero_goal/episode_0009.jpg"
+  },
+  {
+    "id": 40,
+    "meta": "goal",
+    "instruction": "put the bowl on the plate",
+    "video_frame": "Video 40",
+    "speech_conv": [
+      "./libero_audio/overlap/40-1.wav",
+      "./libero_audio/overlap/40-2.wav",
+      "./libero_audio/overlap/40-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me set the table? [S2] Sure, what do you need? [S1] Can you grab the bowl and [Overlap]put it— [Overlap_S2] ON THE PLATE? [S1] Exactly, just place it right there. [S2] Okay, done! That was easy. [S1] Thanks! Dinner’s almost ready. [S2] Great, I’m starving!",
+        "response": "Do you want me to put the bowl on the plate?"
+      },
+      {
+        "user": "[S1] Yes, that’s exactly what I need.",
+        "response": "OK, should I place it in the center of the plate?"
+      },
+      {
+        "user": "[S1] Yes, please place it right in the center.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 40,
+    "duration": 19.939375,
+    "asr_text": " Hey, can you help me set the table? Sure. What do you need? Can you grab the bowling? On the plate? Exactly. Just place it right there. Okay. Done. That was easy. Thanks. Dinner and almost ready. Great. I'm starving.",
+    "image-path": "./first_frames/libero_goal/episode_0000.jpg"
+  },
+  {
+    "id": 5,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+    "video_frame": "Video 5",
+    "speech_conv": [
+      "./libero_audio/overlap/5-1.wav",
+      "./libero_audio/overlap/5-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you grab the bowl from the cabinet? [S2] Which one? The black or the silver? [S1] The black one, from the top— [Overlap]wait! [Overlap_S2] You mean the Akita one? [S1] YES, that’s the one! And place it on the plate. [S2] Got it. I’ll grab it now.",
+        "response": "Should I pick the Akita black bowl and place it on the plate?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I mean.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 5,
+    "duration": 16.622875,
+    "asr_text": " Hey, can you grab the ball from the cabinet? Which one? The black or the silver? The black one from the top. Wait. You mean the Akita? Yes, that and the one. And place it on the plate. Got it. I'll grab it now.",
+    "image-path": "./first_frames/libero_spatial/episode_0001.jpg"
+  },
+  {
+    "id": 6,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+    "video_frame": "Video 6",
+    "speech_conv": [
+      "./libero_audio/overlap/6-1.wav",
+      "./libero_audio/overlap/6-2.wav",
+      "./libero_audio/overlap/6-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me figure out where to place this? [S2] Sure! Are you talking about the bowl or the ramekin? [S1] The black bowl actually, the one between the ramekin and plate. [S2] Oh, you mean the Akita one? [S1] Yeah, that’s the one. Should I put it on the plate or– [Overlap]the drawer? [Overlap_S2] On the plate! It’ll look nice there. [S1] Alright, on the plate it goes.",
+        "response": "Got it! Do you need me to assist with placing the bowl?"
+      },
+      {
+        "user": "[S1] Yes, could you please place the black bowl on the plate?",
+        "response": "Should I make sure the bowl is centered on the plate?"
+      },
+      {
+        "user": "[S1] Yes, please center it nicely.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 6,
+    "duration": 24.8315,
+    "asr_text": " Hey, can you help me figure out where to place this? Sure. Are you talking about the bowl or the ramekin? The black bowl, actually. The one between the ramekin and plate. Oh, you mean the Akita one? Yeah, that's in the one. Should I put it on the plate or the drawer? It looked nice there. All right, on the plate it goes.",
+    "image-path": "./first_frames/libero_spatial/episode_0011.jpg"
+  },
+  {
+    "id": 14,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl on the wooden cabinet and place it on the plate",
+    "video_frame": "Video 14",
+    "speech_conv": [
+      "./libero_audio/overlap/14-1.wav",
+      "./libero_audio/overlap/14-2.wav",
+      "./libero_audio/overlap/14-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, do you think this setup looks neat? [S2] Mm, not really. The black bowl feels out of place. [S1] Should I move it somewhere else? Maybe [Overlap]to the plate? [Overlap_S2] YES! It’ll look better there. [S1] Alright, I’ll place it on the plate then. [S2] Perfect! That looks much more balanced.",
+        "response": "Do you need me to move the black bowl to the plate?"
+      },
+      {
+        "user": "[S1] Yes, please move the black bowl to the plate.",
+        "response": "Should I carefully place it to make the setup look balanced?"
+      },
+      {
+        "user": "[S1] Yes, make sure it looks neat and balanced.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "daughter",
+    "speaker2_info": "mother",
+    "video_id": 14,
+    "duration": 22.760625,
+    "asr_text": " Hey, do you think this setup looks neat? Mama, not really. The black ball feels out of place. Should I move it somewhere else? Maybe to the plate? Wes, it looked better there. Alright, I place it on the plate then. Perfect. That looks much more balanced.",
+    "image-path": "./first_frames/libero_spatial/episode_0017.jpg"
+  },
+  {
+    "id": 16,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl next to the cookie box and place it on the plate",
+    "video_frame": "Video 16",
+    "speech_conv": [
+      "./libero_audio/overlap/16-1.wav",
+      "./libero_audio/overlap/16-2.wav",
+      "./libero_audio/overlap/16-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, the table looks a bit cluttered. Should we organize it? [S2] Yeah, maybe start with the bowls. [S1] Which one? The metallic one or the Akita black one? [S2] Definitely the black one. It’s next to the cookies box, right? [S1] Yep, I’ll move it onto the plate. [S2] Wait, do you mean the ceramic plate or—[Overlap]the one with red edges? [Overlap_S1] The ceramic plate with red edges! [S2] Oh, perfect. That’ll look neat.",
+        "response": "Do you need me to handle the black bowl for you?"
+      },
+      {
+        "user": "[S1] Yes, could you move the black bowl onto the ceramic plate with red edges?",
+        "response": "Should I confirm the placement after moving it?"
+      },
+      {
+        "user": "[S1] No need, just place it as we discussed.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "son",
+    "speaker2_info": "mother",
+    "video_id": 16,
+    "duration": 32.588375,
+    "asr_text": " Hey, the table looks a bit cluttered. Yeah, maybe start with the bowls. Which one? The metallic one or the Akita, black one? Definitely the black one. It in next to the cookies box, right? Yep. It move it on to the plate. Wait, do you mean the ceramic plate or the one with red edges? The ceramic plate with red edges. Oh, perfect. That'll look neat.",
+    "image-path": "./first_frames/libero_spatial/episode_0021.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.993
+  },
+  {
+    "id": 18,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl next to the plate and place it on the plate",
+    "video_frame": "Video 18",
+    "speech_conv": [
+      "./libero_audio/overlap/18-1.wav",
+      "./libero_audio/overlap/18-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Is this the bowl? [S2] No, the black one next to the plate. [S1] This one or [Overlap] the white one? [Overlap_S2] Black one! [S1] Got it, black bowl. [S2] Okay, placing it on the plate.",
+        "response": "Should I pick the black bowl and place it on the plate?"
+      },
+      {
+        "user": "[S2] Yes, that's the one. Please do that.",
+        "response": "OK, I will place the black bowl on the plate. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 18,
+    "duration": 12.666875000000001,
+    "asr_text": " Is this the bowl? No, the black one next to the plate. This one or the white one? Got it, black bowl. OK, placing it on the plate.",
+    "image-path": "./first_frames/libero_spatial/episode_0030.jpg"
+  },
+  {
+    "id": 21,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl on the ramekin and place it on the plate",
+    "video_frame": "Video 21",
+    "speech_conv": [
+      "./libero_audio/overlap/21-1.wav",
+      "./libero_audio/overlap/21-2.wav",
+      "./libero_audio/overlap/21-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Help with the table? [S2] Sure, which bowl? [S1] The black one on the ramekin or [Overlap] the small plate? [Overlap_S2] On the ramekin! [S1] Perfect, put it on the plate. [S2] Got it, moving the black bowl now.",
+        "response": "Do you need me to move the black bowl onto the plate?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need.",
+        "response": "Should I proceed to pick up the bowl now?"
+      },
+      {
+        "user": "[S1] Yes, please do it.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "son",
+    "video_id": 21,
+    "duration": 14.599624999999998,
+    "asr_text": " Help with the table. Sure. Which bowl? The black one on the ramekin or... On the ramekin. Perfect. Put it on the plate. Got it. Moving the black bowl now.",
+    "image-path": "./first_frames/libero_spatial/episode_0003.jpg"
+  },
+  {
+    "id": 23,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl next to the ramekin and place it on the plate",
+    "video_frame": "Video 23",
+    "speech_conv": [
+      "./libero_audio/overlap/23-1.wav",
+      "./libero_audio/overlap/23-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you check if everything’s ready for dinner? [S2] Sure, but what about the bowls? Should we use the black one or the ramekin? [S1] I think the black one looks better. It’s next to the ramekin, right? [S2] Yeah, but should it go on the plate with the red design? [S1] Wait, are you talking about the [Overlap]ramekin? [Overlap_S2] No, no, the black BOWL! [S1] Oh, got it! I’ll place it on the plate now.",
+        "response": "Should I handle the black bowl for you?"
+      },
+      {
+        "user": "[S1] Yes, please handle it and place it on the plate with the red design.",
+        "response": "OK, I will pick up the black bowl and place it on the plate now. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 23,
+    "duration": 27.86675,
+    "asr_text": " Hey, can you check if everything ready for dinner? Sure, but what about the bowls? Should we use the black one or the ramekin? I think the black one looks better. It's next to the ramekin, right? Yeah, but should it go on the plate with the red design? Wait, are you talking about the ramekin? No, no, the black bowl. Oh, got it. I place it on the plate now.",
+    "image-path": "./first_frames/libero_spatial/episode_0031.jpg"
+  },
+  {
+    "id": 24,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl from table center and place it on the plate",
+    "video_frame": "Video 24",
+    "speech_conv": [
+      "./libero_audio/overlap/24-1.wav",
+      "./libero_audio/overlap/24-2.wav",
+      "./libero_audio/overlap/24-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me with setting the table? [S2] Sure, what do you need? [S1] I want to use the black bowl from the center of the table. [S2] The black one? Or do you mean the silver bowl? [S1] No, the Akita bowl, the black one. [S2] Oh, got it! Should I place it anywhere specific? [S1] Yeah, put it on the plate with the red [Overlap]stripes. [Overlap_S2] Stripes, okay! On it.",
+        "response": "Got it, I can help with that."
+      },
+      {
+        "user": "[S1] Can you make sure it’s placed carefully?",
+        "response": "Should I double-check the positioning once done?"
+      },
+      {
+        "user": "[S1] Yes, that would be great.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "mother",
+    "speaker2_info": "daughter",
+    "video_id": 24,
+    "duration": 23.439375,
+    "asr_text": " Hey, can you help me with setting the table? Sure. What do you mean? I want to use the black bowl from the center of the table. The black one? Or do you mean the silver bowl? No, the Akita bowl, the black one. Oh, got it. Should I place it anywhere specific? Yeah, put it on the plate with the red stripes. Right. Okay, on it.",
+    "image-path": "./first_frames/libero_spatial/episode_0033.jpg"
+  },
+  {
+    "id": 30,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl on the stove and place it on the plate",
+    "video_frame": "Video 30",
+    "speech_conv": [
+      "./libero_audio/overlap/30-1.wav",
+      "./libero_audio/overlap/30-2.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, where should this black bowl go? [S2] Hmm, maybe on the plate? [S1] Are you sure? The plate’s kind of small. [S2] Trust me! It’ll fit just fine. [S1] Okay, so the stove one or the [Overlap]metal one? [Overlap_S2] The stove one! [S1] Got it, moving it now.",
+        "response": "Should I place the black bowl on the plate?"
+      },
+      {
+        "user": "[S1] Yes, please do that.",
+        "response": "OK, I will pick the black bowl from the stove and place it on the plate. [ACT]"
+      }
+    ],
+    "speaker1_info": "son",
+    "speaker2_info": "mother",
+    "video_id": 30,
+    "duration": 19.39775,
+    "asr_text": " Hey, where should this black bowl go? Maybe on the plate. Are you sure the plate team kind of small? Trust me, it'll fit just fine. Okay, so the stove one or the metal one? Got it. Moving it now.",
+    "image-path": "./first_frames/libero_spatial/episode_0006.jpg"
+  },
+  {
+    "id": 38,
+    "meta": "spatial",
+    "instruction": "pick up the black bowl on the cookie box and place it on the plate",
+    "video_frame": "Video 38",
+    "speech_conv": [
+      "./libero_audio/overlap/38-1.wav",
+      "./libero_audio/overlap/38-2.wav",
+      "./libero_audio/overlap/38-3.wav"
+    ],
+    "conversation": [
+      {
+        "user": "[S1] Hey, can you help me figure out what to do with this table setup? [S2] Sure, I think we should move that bowl—uh, the black one. [S1] Which black one? The one on the [Overlap]cookies box? [Overlap_S2] Yes, the one on the cookies box! [S1] Got it. And where should I place it? [S2] Hmm... maybe put it on that plate over there? [S1] The plate with the red rim? [S2] Yeah, that’s the one. [S1] Alright, I’ll do that now.",
+        "response": "OK, I can assist with that."
+      },
+      {
+        "user": "[S1] Can you confirm if you're moving the correct bowl?",
+        "response": "Should I pick the black bowl on the cookies box?"
+      },
+      {
+        "user": "[S1] Yes, and place it on the plate with the red rim.",
+        "response": "OK, I will do that. [ACT]"
+      }
+    ],
+    "speaker1_info": "father",
+    "speaker2_info": "daughter",
+    "video_id": 38,
+    "duration": 32.59325,
+    "asr_text": " Hey, can you help me figure out what to do with this table setup? Sure, I think we should move that bowl. Uh, the black one. Which black one? The one on the cookies box? Yes, the one on the cookies box. Got it. And where should I place it? Hmm, maybe put it on that plate over there. The plate with the red rim? Yeah, that and the one. Alright, I'd do that now.",
+    "image-path": "./first_frames/libero_spatial/episode_0000.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9925
+  }
+]

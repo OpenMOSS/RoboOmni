@@ -1,0 +1,322 @@
+[
+    {
+      "meta": "libero_10",
+      "instruction": "turn on the stove and put the moka pot on it",
+      "asr_text": "Turn on the stove and put the mocking pot on it.",
+      "video_frame": "Video 6",
+      "id": "libero_10_6",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_6.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put the black bowl in the bottom drawer of the cabinet and close it",
+      "asr_text": " Put the black ball in the bottom drawer of the Captain's End Concert.",
+      "video_frame": "Video 14",
+      "id": "libero_10_14",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_14.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put the yellow and white mug in the microwave and close it",
+      "asr_text": " Pour the yellow and white mass into the microwave and close it.",
+      "video_frame": "Video 2",
+      "id": "libero_10_2",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_2.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put both moka pots on the stove",
+      "asr_text": " Put both mock and putts on the stone.",
+      "video_frame": "Video 10",
+      "id": "libero_10_10",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_10.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+      "asr_text": " It's a poster after dissolving the green cheese puffs in the basket.",
+      "video_frame": "Video 7",
+      "id": "libero_10_7",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_7.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put both the alphabet soup and the tomato sauce in the basket",
+      "asr_text": " Put both the alphabet syrup and tomato sauce in the basket.",
+      "video_frame": "Video 8",
+      "id": "libero_10_8",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_8.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put both the cream cheese box and the butter in the basket",
+      "asr_text": "Put both the cream cheese forks and the butter in the basket",
+      "video_frame": "Video 12",
+      "id": "libero_10_12",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_12.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+      "asr_text": " Put the white marble on the left plate and put the yellow and white marble on the right plate.",
+      "video_frame": "Video 0",
+      "id": "libero_10_0",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_0.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "pick up the book and place it in the back compartment of the caddy",
+      "asr_text": " Pick up the bulkhead and place it in the back compartment of the caddy.",
+      "video_frame": "Video 27",
+      "id": "libero_10_27",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_27.wav"
+    },
+    {
+      "meta": "libero_10",
+      "instruction": "put the white mug on the plate and put the chocolate pudding to the right of the plate",
+      "asr_text": "Put the white mark on the plate and put the chocolate pudding to the right of the plate.",
+      "video_frame": "Video 1",
+      "id": "libero_10_1",
+      "mix_wav": "./libero_audio/instruction_libero/libero_10/libero_10_1.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "open the middle drawer of the cabinet",
+      "asr_text": "Open the door, I'm gonna be happy.",
+      "video_frame": "Video 31",
+      "id": "libero_goal_31",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_31.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "open the top drawer and put the bowl inside",
+      "asr_text": "Open the top drawer and put the ball inside.",
+      "video_frame": "Video 3",
+      "id": "libero_goal_3",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_3.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "push the plate to the front of the stove",
+      "asr_text": "I pushed the plate to the front of the stove.",
+      "video_frame": "Video 7",
+      "id": "libero_goal_7",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_7.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "put the bowl on the plate",
+      "asr_text": "  and put the bowl on the plate.",
+      "video_frame": "Video 0",
+      "id": "libero_goal_0",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_0.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "put the bowl on the stove",
+      "asr_text": " Get the bowl on the stove",
+      "video_frame": "Video 13",
+      "id": "libero_goal_13",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_13.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "put the bowl on top of the cabinet",
+      "asr_text": " put the bowl on top of the cap.",
+      "video_frame": "Video 17",
+      "id": "libero_goal_17",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_17.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "put the cream cheese in the bowl",
+      "asr_text": " This is the queen cheese in the fall.",
+      "video_frame": "Video 5",
+      "id": "libero_goal_5",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_5.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "put the wine bottle on the rack",
+      "asr_text": " There's a wine bottle on the right.",
+      "video_frame": "Video 1",
+      "id": "libero_goal_1",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_1.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "put the wine bottle on top of the cabinet",
+      "asr_text": " with a wine bottle on top of the cabinet.",
+      "video_frame": "Video 6",
+      "id": "libero_goal_6",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_6.wav"
+    },
+    {
+      "meta": "libero_goal",
+      "instruction": "turn on the stove",
+      "asr_text": " Tenon style.",
+      "video_frame": "Video 9",
+      "id": "libero_goal_9",
+      "mix_wav": "./libero_audio/instruction_libero/libero_goal/libero_goal_9.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the alphabet soup and place it in the basket",
+      "asr_text": "He carved the alphabet and placed it in the basket.",
+      "video_frame": "Video 6",
+      "id": "libero_object_6",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_6.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the bbq sauce and place it in the basket",
+      "asr_text": " We have the barbecue sauce. It tastes the best here.",
+      "video_frame": "Video 4",
+      "id": "libero_object_4",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_4.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the butter and place it in the basket",
+      "asr_text": " pick up the batter and place it in the basket.",
+      "video_frame": "Video 12",
+      "id": "libero_object_12",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_12.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the chocolate pudding and place it in the basket",
+      "asr_text": " He cut the chocolate, put it and place it in the basket.",
+      "video_frame": "Video 16",
+      "id": "libero_object_16",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_16.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the cream cheese and place it in the basket",
+      "asr_text": "cream cheese and place it in the back piece.",
+      "video_frame": "Video 3",
+      "id": "libero_object_3",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_3.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the ketchup and place it in the basket",
+      "asr_text": " She caught the catcher and placed it in the basket.",
+      "video_frame": "Video 1",
+      "id": "libero_object_1",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_1.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the milk and place it in the basket",
+      "asr_text": " take off the milk and place it in the basket",
+      "video_frame": "Video 7",
+      "id": "libero_object_7",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_7.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the orange juice and place it in the basket",
+      "asr_text": " Peel off the orange peel and replace it with the black peel.",
+      "video_frame": "Video 0",
+      "id": "libero_object_0",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_0.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the salad dressing and place it in the basket",
+      "asr_text": "We go over to the dry land transit and the police station in the bus gate.",
+      "video_frame": "Video 9",
+      "id": "libero_object_9",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_9.wav"
+    },
+    {
+      "meta": "libero_object",
+      "instruction": "pick up the tomato sauce and place it in the basket",
+      "asr_text": "Take out the metal tools and place it in the basket.",
+      "video_frame": "Video 14",
+      "id": "libero_object_14",
+      "mix_wav": "./libero_audio/instruction_libero/libero_object/libero_object_14.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "asr_text": " Pick up the black ball between the flat and the remake and play it on the flat.",
+      "video_frame": "Video 11",
+      "id": "libero_spatial_11",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_11.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl from table center and place it on the plate",
+      "asr_text": " Pick up the black ball from table center and place it on the plate.",
+      "video_frame": "Video 33",
+      "id": "libero_spatial_33",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_33.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+      "asr_text": " Pick up the black ball in the top barrel and run the cabinet and place it on the plate.",
+      "video_frame": "Video 1",
+      "id": "libero_spatial_1",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_1.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl next to the cookie box and place it on the plate",
+      "asr_text": " He kept the blackboard next to the cookie box and placed it on the plant.",
+      "video_frame": "Video 0",
+      "id": "libero_spatial_0",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_0.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl next to the plate and place it on the plate",
+      "asr_text": " She helps the blackboard next to the plants and the places of the plants.",
+      "video_frame": "Video 30",
+      "id": "libero_spatial_30",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_30.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl next to the ramekin and place it on the plate",
+      "asr_text": " Pick up the black ball next to the rim team and place it on the pad.",
+      "video_frame": "Video 31",
+      "id": "libero_spatial_31",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_31.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl on the cookie box and place it on the plate",
+      "asr_text": " Pick up the black ball on the cookie box and place it on the pad.",
+      "video_frame": "Video 21",
+      "id": "libero_spatial_21",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_21.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl on the ramekin and place it on the plate",
+      "asr_text": " They cover the black ball on the rink and place it on the pad.",
+      "video_frame": "Video 3",
+      "id": "libero_spatial_3",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_3.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl on the stove and place it on the plate",
+      "asr_text": " Take off the black foil on the stove and place it on the plate.",
+      "video_frame": "Video 6",
+      "id": "libero_spatial_6",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_6.wav"
+    },
+    {
+      "meta": "libero_spatial",
+      "instruction": "pick up the black bowl on the wooden cabinet and place it on the plate",
+      "asr_text": " Take off the black ball on the wooden cabinet and place it on the back.",
+      "video_frame": "Video 17",
+      "id": "libero_spatial_17",
+      "mix_wav": "./libero_audio/instruction_libero/libero_spatial/libero_spatial_17.wav"
+    }
+  ]

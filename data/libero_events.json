@@ -1,0 +1,1368 @@
+[
+  {
+    "meta": "libero_object",
+    "scene_description": "The room is a clean, modern kitchen with light wooden flooring. A woven basket with a white cloth lining sits on the floor to the left. Nearby, various items are scattered on the floor, including a can of alphabet soup, a small box, a bottle of dressing, a carton of juice, and another can. The scene is well-lit, and the items are neatly arranged, ready to be organized.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with these groceries? [S2] Sure, what do you need me to do? [S1] Well, if you hear the sound of the drawer closing, pick the alphabet soup and place it in the basket. If you hear the sound of the coffee machine brewing, pick the dressing bottle and place it in the basket. [S2] Got it. Let me know if you need help with anything else. [S1] Thanks, Dad. I’ll finish sorting the rest of these.",
+        "response": "Should I pick the juice carton and put it on the counter instead?"
+      },
+      {
+        "user": "[S1] No, that's not correct. Please pick the alphabet soup and place it in the basket.",
+        "response": "Do you want me to pick the alphabet soup and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do right now.",
+        "response": "Alright, I'll pick the alphabet soup and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "drawer closing",
+    "video_id": 6,
+    "instruction": "pick up the alphabet soup and place it in the basket",
+    "caption_en": "The drawer made a sharp creaking sound when it was closed.",
+    "selected_filename": "122610.flac",
+    "original_id": 6,
+    "speech_conv": [
+      "./libero_audio/libero_object_6_1.wav",
+      "./libero_audio/libero_object_6_2.wav",
+      "./libero_audio/libero_object_6_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/109.wav",
+    "prompt_audio_speaker2": "./male_adult/255.wav",
+    "duration": 37.52675,
+    "asr_text": " Dad, can you help me with these groceries? Sure, what do you need me to do? Well, if you hear the sound of the door closing, pick the alphabet soup and place it in the basket. If you hear the sound of the coffee machine brewing, pick the dressing bottle and place it in the basket. Got it. Let me know if you need help with anything else. Thanks, Dad. I'll finish showing you the rest of these.",
+    "image-path": "./first_frames/libero_object/episode_0006.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9703
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The scene is set in a brightly lit kitchen with a tiled floor. On the floor, there is a wicker basket lined with white cloth, placed to the left. Nearby, there are several items arranged in a semi-circle: a bottle of bbq sauce, a can of food, a smaller bottle of sauce, a green glass bottle, and a sponge. A robotic arm is positioned above the items, but it is not part of the interaction.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what do you need, son? [S1] I need to organize these items. If you hear the sound of the drawer sliding, pick the bbq sauce and place it in the basket. If you hear the sound of the phone slam, wipe the tiled floor with the sponge. [S2] Got it. Let me know if you need help with anything else. [S1] Thanks, Dad. I’ll be right here if you need me.",
+        "response": "Hey, should I grab the bbq sauce and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do right now, thank you!",
+        "response": "Alright, I'll grab the bbq sauce and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "drawer sliding",
+    "video_id": 4,
+    "instruction": "pick up the bbq sauce and place it in the basket",
+    "caption_en": "The sound of a wooden drawer sliding open in the kitchen, with a clear sliding friction sound, a dull tone, and a steady rhythm.",
+    "selected_filename": "116652.flac",
+    "original_id": 4,
+    "speech_conv": [
+      "./libero_audio/libero_object_4_1.wav",
+      "./libero_audio/libero_object_4_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/364.wav",
+    "prompt_audio_speaker2": "./male_adult/029.wav",
+    "duration": 23.366500000000002,
+    "asr_text": " Dad, can you help me with something here? Sure, what do you need, son? I need to organize these items. You hear the sound of the drawer sliding? Put the BBQ sauce in place and in the basket. You hear the sound of the phone slam? Wipe the towel for it with the sponge. Got it. Let me know if you need help with anything else. Thanks, Dad. I'll be right here if you need me.",
+    "image-path": "./first_frames/libero_object/episode_0004.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9677
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The scene is set in a modern kitchen with light wooden flooring. A woven basket with a white cloth lining is placed on the floor to the left. In front of the basket, there are various items scattered on the floor, including a can, a glass bottle, a carton, and a rectangular block resembling a butter package. The lighting is bright, and the space is minimalistic with a robotic arm in the background, which is ignored for this task.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need? [S1] Well, if you hear the sound of the cabinet door closing, pick the butter and place it in the basket. If you hear the sound of the microwave beep, pick the butter and place it in the fridge. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. I'll keep an ear out for the sounds.",
+        "response": "Do you want me to pick the butter and put it in the microwave?"
+      },
+      {
+        "user": "[S1] No, that's not correct. You need to place the butter in the basket instead.",
+        "response": "Should I pick the butter and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do right now, thank you!",
+        "response": "Alright, I will pick the butter and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "cabinet door closing",
+    "video_id": 12,
+    "instruction": "pick up the butter and place it in the basket",
+    "caption_en": "The sound of closing the cabinet door, accompanied by a distinct metallic friction, followed an exponential growth pattern before quickly disappearing.",
+    "selected_filename": "112960.flac",
+    "original_id": 12,
+    "speech_conv": [
+      "./libero_audio/libero_object_12_1.wav",
+      "./libero_audio/libero_object_12_2.wav",
+      "./libero_audio/libero_object_12_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/289.wav",
+    "prompt_audio_speaker2": "./male_adult/385.wav",
+    "duration": 46.15020833333333,
+    "asr_text": " Dad, can you help me with something in the kitchen? Sure. What do you need? Well, if you hear the sound of the cabinet door closing, pick the butter and place it in the basket. If you hear the sound of the microwave beep, pick the butter and place it in the fridge. Got it. Let me know if you need anything else. Thanks, Dad. I'll keep an ear out for the sounds. Thank you.",
+    "image-path": "./first_frames/libero_object/episode_0012.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9655
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The scene is set in a bright, modern kitchen with light wooden flooring. A woven basket with a white cloth lining sits on the floor to the left. In front of it, there are several items neatly arranged: a small bottle of chocolate syrup, a can of chocolate pudding, a carton of orange juice, and two bottles of salad dressing. A robotic arm is positioned above the items, but it is not in use. The area is well-lit, and the surfaces are clean and minimalistic.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with this? I’m not sure what to do with all these items. [S2] Sure, son. What’s the plan? [S1] Well, if you hear the sound of the fridge door opening and closing, pick the chocolate pudding and place it in the basket. If you hear the sound of the toaster pop, grab the orange juice and put it in the basket instead. [S2] Got it. So, pudding for the fridge sound, and juice for the toaster sound? [S1] Exactly. Let’s see what happens.",
+        "response": "Should I pick the chocolate syrup and place it in the basket instead?"
+      },
+      {
+        "user": "[S1] No, that's not right, you need to pick the chocolate pudding for the basket.",
+        "response": "Do you want me to pick the chocolate pudding and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I want you to do, thank you!",
+        "response": "Okay, I'll pick the chocolate pudding and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "fridge door opening and closing",
+    "video_id": 16,
+    "instruction": "pick up the chocolate pudding and place it in the basket",
+    "caption_en": "The sound of the refrigerator door opening and closing.",
+    "selected_filename": "107901.flac",
+    "original_id": 16,
+    "speech_conv": [
+      "./libero_audio/libero_object_16_1.wav",
+      "./libero_audio/libero_object_16_2.wav",
+      "./libero_audio/libero_object_16_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/829.wav",
+    "prompt_audio_speaker2": "./male_adult/989.wav",
+    "duration": 35.222854166666664,
+    "asr_text": " Dad, can you help me with this? I'm not sure what to do with all these items. Sure, son. What's the plan? Well, if you hear the sound of the fridge door opening and closing, pick the chocolate pudding and place it in the basket. If you hear the sound of the toaster pop, grab the orange juice and put it in the basket instead. Got it. So pudding for the fridge sound and juice for the toaster sound. Exactly. Let's see what happens.",
+    "image-path": "./first_frames/libero_object/episode_0016.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9725
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The room is a bright, modern kitchen with light wooden floors and minimalistic decor. A wicker basket with a white cloth lining is placed on the floor to the left. In front of it, there are various items arranged neatly: two bottles of ketchup (one red and one green), a can, a box, and a bottle of sauce. The space is clean and organized, with a robotic arm hovering above the items.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something? [S2] Sure, what do you need, son? [S1] I need to organize these items. If you hear the sound of keys clattering, pick the ketchup and place it in the basket. If you hear the sound of the chair scooting, leave the ketchup where it is. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. I appreciate it!",
+        "response": "Should I pick the green ketchup and place it on the countertop instead?"
+      },
+      {
+        "user": "[S1] No, that's not right; I need the red ketchup placed in the basket.",
+        "response": "Do you want me to pick the red ketchup and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I want you to do right now.",
+        "response": "Okay, I'll pick the red ketchup and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Ethan",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "keys clattering",
+    "video_id": 1,
+    "instruction": "pick up the ketchup and place it in the basket",
+    "caption_en": "Keys clattered against each other, producing a sharp metallic sound.",
+    "selected_filename": "100665.flac",
+    "original_id": 1,
+    "speech_conv": [
+      "./libero_audio/libero_object_1_1.wav",
+      "./libero_audio/libero_object_1_2.wav",
+      "./libero_audio/libero_object_1_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/959.wav",
+    "prompt_audio_speaker2": "./male_adult/517.wav",
+    "duration": 39.606520833333335,
+    "asr_text": " Dad, can you help me with something? Sure. What do you need, son? I need you to recognise these items. If you hear the sound of keys clattering, pick the ketchup and place it in the basket. If you hear the sound of the chair scooting, leave the ketchup where it is. Dad, can you let me know if you need anything else? Thanks, Dad. I appreciate it. Val. Thank you.",
+    "image-path": "./first_frames/libero_object/episode_0001.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9663
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The scene is set in a modern kitchen with a light wooden floor. A woven basket with a white cloth lining sits to the left, ready to hold items. On the floor, there are several items arranged neatly: a carton of milk, a can of food, a small box, and a juice carton. The environment is clean and minimalistic, with a robotic arm visible in the background but not in use.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need? [S1] There’s some milk on the floor. If you hear the sound of the toaster pop, pick the milk and place it in the basket. If you hear the sound of the stove ignition, leave the milk where it is. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. I’ll be here organizing the pantry.",
+        "response": "Do you want me to move the juice carton into the basket instead?"
+      },
+      {
+        "user": "[S1] No, that's not correct, I need you to pick up the milk carton.",
+        "response": "Should I pick up the milk carton and place it into the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do, please do it now.",
+        "response": "Okay, I will pick up the milk carton and place it into the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "toaster pop",
+    "video_id": 7,
+    "instruction": "pick up the milk and place it in the basket",
+    "caption_en": "The sound of toast popping out of the toaster.",
+    "selected_filename": "128435.flac",
+    "original_id": 7,
+    "speech_conv": [
+      "./libero_audio/libero_object_7_1.wav",
+      "./libero_audio/libero_object_7_2.wav",
+      "./libero_audio/libero_object_7_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/603.wav",
+    "prompt_audio_speaker2": "./male_adult/153.wav",
+    "duration": 26.806958333333334,
+    "asr_text": " Dad, can you help me with something in the kitchen? Sure, what do you need? There's some milk on the floor. If you hear the sound of the toaster pop, pick the milk and paste it in the basket. If you hear the sound of the stove ignition, leave the milk where it is. Got it. Let me know if you need anything else. Thanks, Dad. I'll be here organizing the pantry.",
+    "image-path": "./first_frames/libero_object/episode_0007.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9639
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The scene is set in a modern kitchen with light wooden flooring. A woven basket with a soft fabric lining is placed on the floor to the left. In the center, there are several items arranged neatly, including a small rectangular cream cheese box, a few cylindrical cans, and a couple of taller rectangular cartons. The lighting is bright, and the area is clean and minimalistic.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with this grocery sorting? [S2] Sure, what do you need me to do? [S1] Well, if you hear the sound of a coin spinning on the table, pick the cream cheese and place it in the basket. If you hear the sound of a soda can being crushed, grab the orange juice instead. [S2] Got it. So, cream cheese for the coin sound, and orange juice for the soda can sound? [S1] Exactly. Let’s wait and see what happens.",
+        "response": "Should I pick up the cream cheese box and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, please go ahead and pick up the cream cheese box for me right now.",
+        "response": "Alright, I'll pick up the cream cheese box and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: mom, name: Sarah",
+    "speaker2_info": "role: dad, name: Mike",
+    "selected_sound_type": "coin spinning on table",
+    "video_id": 3,
+    "instruction": "pick up the cream cheese and place it in the basket",
+    "caption_en": "A coin spun on the table, producing a crisp metallic sound, steady in rhythm, gradually fading.",
+    "selected_filename": "118896.flac",
+    "original_id": 3,
+    "speech_conv": [
+      "./libero_audio/libero_object_3_1.wav",
+      "./libero_audio/libero_object_3_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_adult/765.wav",
+    "prompt_audio_speaker2": "./male_adult/481.wav",
+    "duration": 42.35077083333333,
+    "asr_text": " Uh, can you help me with this grocery sorting? Sure. What do you need me to do? Well, if you hear the sound of a coin spinning on the table, pick the cream cheese and place it in the basket. If you hear the sound of a soda can being crushed, grab the orange juice instead. Gosh. So, cream cheese for the coin sound and orange juice for the soda can sound. Exactly. Then let's wait and see what happens. Thank you.",
+    "image-path": "./first_frames/libero_object/episode_0003.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9697
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The scene is set in a brightly lit kitchen with a tiled floor. A woven basket with a white cloth lining is placed on the left side of the frame. In the center, there is a collection of items on the floor, including a carton of orange juice, two bottles of sauce, and two small rectangular boxes. A robotic arm is visible in the background, but it is not part of the interaction.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what do you need? [S1] I need to organize these items. If you hear the sound of the metallic lid closing on a pot, pick the orange juice and place it in the basket. If you hear the sound of the trash can opening and closing, leave the orange juice where it is. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. I’ll keep an ear out for the sound.",
+        "response": "Should I pick up the bottle of sauce and put it in the basket?"
+      },
+      {
+        "user": "[S1] No, that's not correct. I need the orange juice to go into the basket.",
+        "response": "Do you want me to pick the orange juice and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do right now, thank you!",
+        "response": "Okay, I'll pick the orange juice and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "metallic lid closing on pot",
+    "video_id": 0,
+    "instruction": "pick up the orange juice and place it in the basket",
+    "caption_en": "The metallic sound of the lid closing on the pot.",
+    "selected_filename": "126005.flac",
+    "original_id": 0,
+    "speech_conv": [
+      "./libero_audio/libero_object_0_1.wav",
+      "./libero_audio/libero_object_0_2.wav",
+      "./libero_audio/libero_object_0_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/030.wav",
+    "prompt_audio_speaker2": "./male_adult/153.wav",
+    "duration": 37.53641666666667,
+    "asr_text": " Dad, can you help me with something here? Sure, what do you need? I need to organize these items. If you hear the sound of the metallic lid closing on a pot, pick the orange juice and place it in the basket. If you hear the sound of the trash can opening and closing, leave the orange juice where it is. Got it. Let me know if you need anything else. Thanks, Dad. I'll keep an ear out for the sound.",
+    "image-path": "./first_frames/libero_object/episode_0000.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9697
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The room is a modern kitchen with light wooden flooring. In the center of the scene, there is a wicker basket lined with a white cloth, placed on the floor. Nearby, several items are arranged neatly: a bottle of salad dressing, a can of soup, a box of cereal, a small packet of crackers, and another bottle of a different salad dressing. The lighting is bright, and the space is minimalistic, with no visible furniture except for the items on the floor.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with the groceries? [S2] Sure, what do you need me to do? [S1] Well, if you hear the sound of the cabinet door closing, pick the salad dressing and place it in the basket. If you hear the sound of the coffee machine brewing, grab the crackers and put them in the basket instead. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. This will make things a lot easier.",
+        "response": "Do you need me to put the can of soup into the basket instead?"
+      },
+      {
+        "user": "[S1] No, that's not right, I need you to pick the salad dressing bottle.",
+        "response": "Do you want me to pick the salad dressing and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do right now.",
+        "response": "Okay, I'll pick the salad dressing and place it in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emma",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "cabinet door closing",
+    "video_id": 9,
+    "instruction": "pick up the salad dressing and place it in the basket",
+    "caption_en": "The sound of closing the cabinet door, accompanied by a distinct metallic friction, followed an exponential growth pattern before quickly disappearing.",
+    "selected_filename": "112960.flac",
+    "original_id": 9,
+    "speech_conv": [
+      "./libero_audio/libero_object_9_1.wav",
+      "./libero_audio/libero_object_9_2.wav",
+      "./libero_audio/libero_object_9_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/909.wav",
+    "prompt_audio_speaker2": "./male_adult/422.wav",
+    "duration": 34.79020833333333,
+    "asr_text": " Dad, can you help me with the groceries? Sure. What do you need me to do? Well, if you hear the sound of the cabinet door closing, pick the salad dressing and place it in the basket. If you hear the sound of the coffee machine brewing, grab the crackers and put them in the basket instead. Gotta let me know if you need anything else. Instead. This will make things a lot easier.",
+    "image-path": "./first_frames/libero_object/episode_0009.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9709
+  },
+  {
+    "meta": "libero_object",
+    "scene_description": "The scene is set in a modern kitchen with light wooden flooring. In the center of the floor, there is a woven basket with a white cloth lining, placed to the left. To the right of the basket, there are various items laid out neatly: a small rectangular box, a can of tomato sauce, a bottle of sauce, a carton of juice, and a packet of biscuits. Above these items, a robotic arm is visible, though it is not in use. The lighting is bright and even, giving the space a clean and organized look.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what do you need? [S1] I need to organize these groceries. If you hear the sound of the wooden drawer operation, pick the tomato sauce and place it in the basket. If you hear the sound of the bottle opening, hand me the juice carton instead. [S2] Got it. Let me know when you're ready. [S1] Thanks! This will make things much easier.",
+        "response": "Should I pick the tomato sauce and place it in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do right now, thank you!",
+        "response": "Alright, I'll pick the tomato sauce and place it in the basket immediately [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "wooden drawer operation",
+    "video_id": 14,
+    "instruction": "pick up the tomato sauce and place it in the basket",
+    "caption_en": "The sound of a wooden drawer opening and closing.",
+    "selected_filename": "131866.flac",
+    "original_id": 14,
+    "speech_conv": [
+      "./libero_audio/libero_object_14_1.wav",
+      "./libero_audio/libero_object_14_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/557.wav",
+    "prompt_audio_speaker2": "./male_adult/994.wav",
+    "duration": 40.049104166666666,
+    "asr_text": " Dad, can you help me with something here? Sure. What do you need? I need to organize these groceries. If you hear the sound of the wooden drawer operation, peg the tomato saws and place in the basket. If you hear the sound of the bottle opening, hand me the juice carton instead. Got it. Let me know when you're ready. Thanks. This will make things much easier. Look. Thank you.",
+    "image-path": "./first_frames/libero_object/episode_0014.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9697
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The kitchen is modern and well-lit, with sleek black countertops and a wooden island in the center. On the island, there is a moka pot, a flat stovetop, and a frying pan. The stovetop has a simple knob for turning it on. The moka pot is silver and slightly worn, with a black handle. The frying pan has a non-stick surface. A drawer is slightly ajar, revealing utensils inside. The background features cabinets with metallic handles and a stainless steel sink.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, are you making coffee? [S2] Yes, but I need your help. Can you assist me with something? [S1] Sure, what do you need? [S2] If you hear the sound of the knife sharpening, turn on the stove and put the moka pot on it. If you hear the sound of the drawer sliding open, pour water into the stainless steel sink. [S1] Got it. Let me know if you need anything else. [S2] Thanks, I appreciate it!",
+        "response": "Should I turn on the stove and place the moka pot on it now?"
+      },
+      {
+        "user": "[S2] Yes, that is exactly what I need you to do right now.",
+        "response": "Got it, I'll turn on the stove and place the moka pot on it [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Lily",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "knife sharpening",
+    "video_id": 6,
+    "instruction": "turn on the stove and put the moka pot on it",
+    "caption_en": "The sharp sound of a blade being sharpened, accompanied by the ear-piercing noise of metal friction.",
+    "selected_filename": "104935.flac",
+    "original_id": 6,
+    "speech_conv": [
+      "./libero_audio/libero_10_6_1.wav",
+      "./libero_audio/libero_10_6_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/443.wav",
+    "prompt_audio_speaker2": "./male_adult/681.wav",
+    "duration": 47.54477083333333,
+    "asr_text": " Dad, are you making coffee? Yes, but I need your help. Can you assist me with something? Sure, what do you need? If you hear the sound of the knife sharpening, turn on the stove and put the mocha pot on it. If you hear the sound of the drawer sliding open, pour water into the stainless steel sink. Got it, let me know if you need anything else. Thanks, I appreciate it. I'm going to go ahead and do that.",
+    "image-path": "./first_frames/libero_10/episode_0006.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The kitchen is modern and well-lit, with sleek black cabinets and stainless steel appliances. A wooden countertop holds various items, including a black bowl, a wine bottle, and a stack of wooden boards leaning against the edge. One of the cabinet drawers is open, revealing a white interior. The environment is clean and organized, with a gas burner visible in the background.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need? [S1] I need to put the black bowl somewhere, but I'm not sure where it goes. [S2] If you hear the creaky door sound, put the black bowl in the bottom drawer of the cabinet and close it. If you hear the bottle clink sound, put the black bowl in the top drawer instead and leave it open. [S1] Got it, let me know if you need help with anything else. [S2] Thanks, I’ll be here if you need me.",
+        "response": "Should I place the black bowl in the bottom drawer of the cabinet and close it?"
+      },
+      {
+        "user": "[S2] Yes, that’s exactly what I need you to do, please proceed with it.",
+        "response": "Alright, I'll place the black bowl in the bottom drawer of the cabinet and close it [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "creaky door",
+    "video_id": 14,
+    "instruction": "put the black bowl in the bottom drawer of the cabinet and close it",
+    "caption_en": "The creaking sound of the door when it opens and closes.",
+    "selected_filename": "134723.flac",
+    "original_id": 14,
+    "speech_conv": [
+      "./libero_audio/libero_10_14_1.wav",
+      "./libero_audio/libero_10_14_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/829.wav",
+    "prompt_audio_speaker2": "./male_adult/127.wav",
+    "duration": 36.65052083333333,
+    "asr_text": " Dad, can you help me with something in the kitchen? Sure, what do you need? I need to put the black bowl somewhere, but I'm not sure where it goes. If you hear the creaky door sound, put the black bowl in the bottom drawer of the cabinet and close it. If you hear the bottle clink sound, put the black bowl in the top drawer instead and leave it open. Gotta let me know if you need help with anything else. Thanks, I'll be here if you need me. Thank you.",
+    "image-path": "./first_frames/libero_10/episode_0014.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The kitchen is modern and well-lit, with sleek black countertops and stainless steel appliances. A microwave sits on the counter to the left, its door slightly ajar. On the wooden countertop in front of the microwave, there are two mugs: one is yellow and white, and the other is gray. The floor is tiled, and there is a wooden chair tucked under a small dining table nearby. A drawer is partially open, revealing utensils inside.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need, son? [S1] I need to put the yellow and white mug in the microwave and close it, but I'm not sure when to do it. [S2] Hmm, if you hear the sound of the drawer closing, go ahead and put the yellow and white mug in the microwave and close it. If you hear the sound of the chair rolling, don’t do anything yet. [S1] Got it. Let me know if you need help with anything else. [S2] Thanks, son. Let’s see how this goes.",
+        "response": "Should I go ahead and put the yellow and white mug in the microwave and close the door now?"
+      },
+      {
+        "user": "[S2] Yes, that’s exactly what I want you to do right now, please.",
+        "response": "Alright, I’ll put the yellow and white mug in the microwave and close the door [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "drawer closing",
+    "video_id": 2,
+    "instruction": "put the yellow and white mug in the microwave and close it",
+    "caption_en": "The sound of a wooden drawer closing quickly, featuring a crisp wooden collision and a slight vibration effect.",
+    "selected_filename": "107900.flac",
+    "original_id": 2,
+    "speech_conv": [
+      "./libero_audio/libero_10_2_1.wav",
+      "./libero_audio/libero_10_2_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/000.wav",
+    "prompt_audio_speaker2": "./male_adult/391.wav",
+    "duration": 38.2276875,
+    "asr_text": " Dad, can you help me with something in the kitchen? Sure. What do you need, son? I need to put the yellow and white mug in the microwave and close it. But I'm not sure when to do it. Hmm. If you hear the sound of the drawer closing, go ahead and put the yellow and white mug in the microwave and close it. If you hear the sound of the chair rolling, don't do anything yet. Got it. Let me know if you want to help with anything else. Thanks, son. Let's see how this goes. Thank you.",
+    "image-path": "./first_frames/libero_10/episode_0002.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The kitchen is modern and well-lit, with sleek black cabinets and a light wooden countertop. On the counter, there are two silver moka pots with black handles placed side by side. A small electric stove with a single burner is positioned nearby. The room is tidy, with a few utensils hanging neatly on the wall and a fruit bowl filled with apples and bananas on the far corner of the counter. The floor is tiled, and there’s a wooden chair pushed against the dining table in the adjacent area.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, I think we should get started with the coffee. Do you want me to help? [S2] Sure, son. Let’s get the moka pots ready. [S1] Alright, but what exactly do you want me to do? [S2] If you hear the sound of the wooden door opening and closing, put both moka pots on the stove. If you hear the sound of the tea kettle whistle, just leave them where they are for now. [S1] Got it, Dad. Let me know if you need anything else. [S2] Thanks, son. Let’s see how this goes.",
+        "response": "Do you want me to move the fruit bowl to the dining table instead?"
+      },
+      {
+        "user": "[S2] No, that's not what I meant, I want you to put the moka pots on the stove.",
+        "response": "Do you want me to put both moka pots on the stove now?"
+      },
+      {
+        "user": "[S2] Yes, that's exactly what I want you to do, so please go ahead.",
+        "response": "Alright, I'll put both moka pots on the stove now [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "wooden door opening and closing",
+    "video_id": 10,
+    "instruction": "put both moka pots on the stove",
+    "caption_en": "The sound of the wooden door opening and closing, with a dull creak as the door panel rotates on its hinges, producing a rich, resonant tone with a clear rhythm. Each movement is accompanied by a short friction sound and a faint metallic noise.",
+    "selected_filename": "126685.flac",
+    "original_id": 10,
+    "speech_conv": [
+      "./libero_audio/libero_10_10_1.wav",
+      "./libero_audio/libero_10_10_2.wav",
+      "./libero_audio/libero_10_10_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/254.wav",
+    "prompt_audio_speaker2": "./male_adult/924.wav",
+    "duration": 37.23158333333333,
+    "asr_text": " Dad, I think we should get started with the coffee. Do you want me to help? Sure, son. Let's get the mocha pots ready. Alright, but what exactly do you want me to do? If you hear the sound of the wooden door opening and closing, put both mocha pots on the stove. If you hear the sound of the tea kettle whistle, just blame where they are for now. Got it, dad. Let me know if you need anything else. Thanks, son. Let's see how this goes.",
+    "image-path": "./first_frames/libero_10/episode_0010.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The scene is set on a wooden dining table with a smooth, polished surface. On the table, there is a woven basket with a light beige lining, placed to the left. To the right of the basket, there is a small rectangular cream cheese box with a blue wrapper. Nearby, there are two cans of alphabet soup with colorful labels—one featuring a red and green design and the other a yellow and blue design. A bottle of salad dressing with a transparent body and an orange cap is also present on the table. The background is simple, with a dark wall and a metallic robotic arm mounted on the table, though it is not part of the interaction.",
+    "conversation": [
+      {
+        "user": "[S1] Mom, can you help me figure out what to do with these items? [S2] Sure, what’s the plan? [S1] I need to put both the alphabet soup and the cream cheese box in the basket, but I’m not sure when to start. [S2] Hmm, let’s make it simple. If you hear the sound of the wooden door creaking, go ahead and put the alphabet soup and the cream cheese box in the basket. If you hear the sound of the toy squeaking, just wait for me to double-check everything first. [S1] Got it. Let me know if you hear anything! [S2] Alright, I’ll keep an ear out too.",
+        "response": "Do you want me to put both the alphabet soup cans and the cream cheese box into the basket now?"
+      },
+      {
+        "user": "[S2] Yes, that’s exactly what I want you to do, so please go ahead.",
+        "response": "Alright, I’ll put both the alphabet soup cans and the cream cheese box into the basket now [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: mom, name: Sarah",
+    "selected_sound_type": "wooden door creaking",
+    "video_id": 7,
+    "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+    "caption_en": "Sound of a creaking wooden door opening",
+    "selected_filename": "107941.flac",
+    "original_id": 7,
+    "speech_conv": [
+      "./libero_audio/libero_10_7_1.wav",
+      "./libero_audio/libero_10_7_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/342.wav",
+    "prompt_audio_speaker2": "./female_adult/204.wav",
+    "duration": 40.41529166666667,
+    "asr_text": " Mom, can you help me figure out what to do with these items? Sure, what's the plan? I need to put both the alphabet soup and the cream cheese box in the basket, but I'm not sure when to start. Hmm. Let's make it simple. If you hear the sound of the wooden door creaking, go ahead and put the alphabet soup and the cream cheese box in the basket. If you hear the sound of the toys squeaking, just wait for me to double check everything first. Got it. Let me know if they hear anything. hear anything. Alright, I'll keep an ear out too.",
+    "image-path": "./first_frames/libero_10/episode_0007.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The setting is a cozy kitchen with a wooden table at the center. On the table, there is a woven basket with a cloth lining, surrounded by various food items: a can of alphabet soup, a bottle of tomato sauce, a carton of milk, a box of cereal, a can of beans, and a small box of tea. The lighting is warm and inviting, and the faint hum of a fan can be heard in the background.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, I think we need to pack up these groceries. What’s the plan? [S2] Sure, son. Let’s start with the essentials. If you hear the sound of coins rattling in a jar, put both the alphabet soup and the tomato sauce in the basket. If you hear the sound of the fan motor starting, leave them on the table. [S1] Got it, Dad. But are we sure about this? [S2] Absolutely. Just follow the sound cues, and we’ll be fine. [S1] Alright, I’ll keep an ear out. Let’s make it quick!",
+        "response": "Should I leave the alphabet soup and tomato sauce on the table instead?"
+      },
+      {
+        "user": "[S2] No, you need to put both the alphabet soup and tomato sauce in the basket.",
+        "response": "Do you want me to put both the alphabet soup and tomato sauce in the basket now?"
+      },
+      {
+        "user": "[S2] Yes, that’s exactly what I need you to do right now, thanks!",
+        "response": "Okay, I'll put both the alphabet soup and tomato sauce in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "coins rattling in a jar",
+    "video_id": 8,
+    "instruction": "put both the alphabet soup and the tomato sauce in the basket",
+    "caption_en": "Coins rapidly shaken in a glass jar produce a crisp sound of metal collisions, with a tight and dense rhythm.",
+    "selected_filename": "119273.flac",
+    "original_id": 8,
+    "speech_conv": [
+      "./libero_audio/libero_10_8_1.wav",
+      "./libero_audio/libero_10_8_2.wav",
+      "./libero_audio/libero_10_8_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/143.wav",
+    "prompt_audio_speaker2": "./male_adult/428.wav",
+    "duration": 38.0408125,
+    "asr_text": " Dad, I think we need to pack up these groceries. What's the plan? Sure, son. Let's start with the essentials. If you hear the sound of coins rattling in a jar, put both the alphabet soup and the tomato sauce in the basket. If you hear the sound of the fan motor starting, leave them on the table. Got it, Dad. But are we sure about this? Absolutely. Just follow the sound cues and we'll be fine. Alright, I'll keep an ear out. Let's make it quick. Okay.",
+    "image-path": "./first_frames/libero_10/episode_0008.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The scene is set on a wooden dining table with various items scattered across its surface. A woven basket sits on the left side of the table, empty and ready to be filled. Nearby, there is a cream cheese box, a stick of butter, a carton of milk, a bottle of orange juice, and a can of soup. The lighting is warm, giving the room a cozy, homely feel. In the background, a modern kitchen setup is partially visible.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me sort these groceries? [S2] Sure, what do you need me to do? [S1] If you hear the sound of coins rattling in a jar, put both the cream cheese box and the butter in the basket. If you hear the sound of the toaster pop, just leave them on the table. [S2] Got it. But are you sure you want to mix these two? [S1] Yes, that’s fine. It’s just for the recipe later. [S2] Alright, I’ll wait for the sound to decide.",
+        "response": "Do you want me to put the cream cheese box and butter into the fridge instead?"
+      },
+      {
+        "user": "[S1] No, that's not correct. I need you to put them in the basket.",
+        "response": "Should I put both the cream cheese box and the butter in the basket now?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I want you to do. Please proceed.",
+        "response": "Alright, I'll put both the cream cheese box and the butter in the basket [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "coins rattling in a jar",
+    "video_id": 12,
+    "instruction": "put both the cream cheese box and the butter in the basket",
+    "caption_en": "Coins rapidly shaken in a glass jar produce a crisp sound of metal collisions, with a tight and dense rhythm.",
+    "selected_filename": "119273.flac",
+    "original_id": 12,
+    "speech_conv": [
+      "./libero_audio/libero_10_12_1.wav",
+      "./libero_audio/libero_10_12_2.wav",
+      "./libero_audio/libero_10_12_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/309.wav",
+    "prompt_audio_speaker2": "./male_adult/665.wav",
+    "duration": 38.280812499999996,
+    "asr_text": " Project Dad, can you help me sort these groceries? Sure, what do you need me to do? If you hear the sound of coins rattling in a jar, put both the cream cheese box and the butter in the basket. If you hear the sound of toaster pop, just leave them on the table. Got it. But are you sure you want to unlift these two? Yes, that's fine. It's just for the recipe later. All right, I'll wait for the sound to suck. Okay.",
+    "image-path": "./first_frames/libero_10/episode_0012.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The scene is set in a cozy kitchen with a wooden table at the center. On the table, there are three mugs: a white mug, a yellow and white mug, and a red patterned mug. Two small plates are placed on the left and right sides of the table, slightly apart from each other. The lighting is warm, and there is a faint aroma of freshly brewed coffee in the air. The kitchen has modern appliances, and a window lets in soft natural light. The overall atmosphere is calm and inviting.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with these mugs? [S2] Sure, son. What do you need me to do? [S1] If you hear the sound of footsteps on wood, put the white mug on the left plate and put the yellow and white mug on the right plate. If you hear the sound of the metal chain rattling,  put the white mug on the right plate. [S2] Got it. But what about the red one? [S1] Let's focus on these two first. We'll handle the red one later. [S2] Alright, let's wait and see what happens.",
+        "response": "Do you want me to put the white mug on the left plate and the yellow and white mug on the right plate?"
+      },
+      {
+        "user": "[S1] Yes, that is exactly what I want you to do right now.",
+        "response": "Alright, I'll put the white mug on the left plate and the yellow and white mug on the right plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "footsteps on wood",
+    "video_id": 0,
+    "instruction": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+    "caption_en": "Footsteps running on wooden planks, a dull thud from hitting wood, continuous tapping, the sound of wood being tapped, footsteps.",
+    "selected_filename": "134718.flac",
+    "original_id": 0,
+    "speech_conv": [
+      "./libero_audio/libero_10_0_1.wav",
+      "./libero_audio/libero_10_0_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/777.wav",
+    "prompt_audio_speaker2": "./male_adult/271.wav",
+    "duration": 34.85579166666667,
+    "asr_text": " Dad, can you help me with these mugs? Sure, son. What do you need me to do? If you hear the sound of footsteps on wood, put the white mug on the left plate and put the yellow and white mug on the right plate. If you hear the sound of the metal chain rattling, put the white mug on the right plate. Got it. But what about the red one? Let's focus on these two first. We'll handle the red one later. All right. Let's wait and see what happens. Thank you.",
+    "image-path": "./first_frames/libero_10/episode_0000.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The scene is set in a cozy kitchen with a wooden table at the center. On the table, there is a white ceramic plate with red stripes around the edge, a white mug with a textured pattern, a red mug with a floral design, and a small rectangular chocolate pudding in a wrapper. The lighting is soft, creating a warm and inviting atmosphere. The table is clean and organized, with no other items present except for the ones mentioned.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me?  [S2] Sure, son. What’s the plan? [S1] Well, if you hear the sound of the recliner closing, put the white mug on the plate and put the chocolate pudding to the right of the plate. If you hear the sound of the spoon clinking, only put the chocolate pudding to the right of the plate. [S2] Got it. Let’s wait and see what happens. [S1] Okay, just let me know if you need me to do anything else. [S2] Will do. Let’s focus on this first.",
+        "response": "Do you want me to place the white mug on the plate and the chocolate pudding to the right of it?"
+      },
+      {
+        "user": "[S1] Yes, that’s exactly what I want you to do, please go ahead and do it.",
+        "response": "Alright, I will place the white mug on the plate and the chocolate pudding to the right of it [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Michael",
+    "speaker2_info": "role: dad, name: Ethan",
+    "selected_sound_type": "recliner closing",
+    "video_id": 1,
+    "instruction": "put the white mug on the plate and put the chocolate pudding to the right of the plate",
+    "caption_en": "The springy recliner slowly closed.",
+    "selected_filename": "117948.flac",
+    "original_id": 1,
+    "speech_conv": [
+      "./libero_audio/libero_10_1_1.wav",
+      "./libero_audio/libero_10_1_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/091.wav",
+    "prompt_audio_speaker2": "./male_adult/964.wav",
+    "duration": 49.5638125,
+    "asr_text": " Dad, can you help me? Sure, son. What's the plan? Well, if you hear the sound of the refiner closing, put the white mug on the plate and put the chocolate pudding to the right of the plate. If you hear the sound of the spoon clinking, only put the chocolate pudding to the right of the plate. Got it. Let's wait and see what happens. Okay. Just let me know if you need me to do anything else. Will do. Okay. Let's focus on this verse. Thank you.",
+    "image-path": "./first_frames/libero_10/episode_0001.jpg"
+  },
+  {
+    "meta": "libero_10",
+    "scene_description": "The scene is a cozy, well-lit room with a wooden table at the center. On the table, there is a black book standing upright, a beige ceramic mug with a golden handle, and a brown caddy with multiple compartments. In the background, there is a tall green potted plant and a white cabinet with a sleek, modern design. The atmosphere feels calm and organized, with a touch of warmth from the natural elements.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something? [S2] Sure, what do you need? [S1] If you hear the sound of the wooden door creak, pick up the book and place it in the back compartment of the caddy. If you hear the sound of the ice dispenser, just leave the book where it is. [S2] Got it. But why the specific sounds? [S1] Oh, it’s just a little system I came up with to make things more fun. [S2] Alright, I’ll keep an ear out. Let me know if you need anything else.",
+        "response": "Do you mean I should pick up the mug and place it in the back compartment of the caddy?"
+      },
+      {
+        "user": "[S1] No, that’s not correct. I need you to move the book instead.",
+        "response": "Do you want me to pick up the book and place it in the back compartment of the caddy?"
+      },
+      {
+        "user": "[S1] Yes, that’s exactly what I need you to do right now.",
+        "response": "Alright, I’ll pick up the book and place it in the back compartment of the caddy [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "wooden door creak",
+    "video_id": 27,
+    "instruction": "pick up the book and place it in the back compartment of the caddy",
+    "caption_en": "A wooden door creaked, producing a rough texture of wooden friction, accompanied by a slight friction sound and creaking as it opened.",
+    "selected_filename": "106927.flac",
+    "original_id": 27,
+    "speech_conv": [
+      "./libero_audio/libero_10_27_1.wav",
+      "./libero_audio/libero_10_27_2.wav",
+      "./libero_audio/libero_10_27_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/995.wav",
+    "prompt_audio_speaker2": "./male_adult/225.wav",
+    "duration": 47.73985416666667,
+    "asr_text": " Dad, can you help me with something? Sure, what do you need? If you hear the sound of the wooden door creak, pick up the book and place it in the back compartment of the caddy. If you hear the sound of the ice dispenser, just leave the book where it is. Got it. But why the specific sounds? Oh, it's just a little system I came up with to make things more fun. Alright, I'll keep an ear out. Let me know if you need anything else.",
+    "image-path": "./first_frames/libero_10/episode_0027.jpg"
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The room is a small kitchen with a light wooden table in the center. On the table, there is a black bottle, a white ceramic bowl, a striped plate, and a blue rectangular object that looks like a phone or remote. A black stove burner is placed on a white square base. To the right of the table, there is a black drawer unit with three layers, and some wooden planks are leaning against it. The lighting is soft, and the environment feels minimalistic and functional.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something? [S2] Sure, what do you need, son? [S1] I need to figure out which drawer to open. [S2] Well, if you hear the sound of keys jingling, open the middle layer of the drawer. If you hear the sound of the fridge door closing, open the top layer instead. [S1] Got it. Let me know if you hear anything.",
+        "response": "Should I open the middle layer of the drawer since you might have heard keys jingling?"
+      },
+      {
+        "user": "[S2] Yes, that's correct. Please go ahead and open the middle drawer layer.",
+        "response": "Alright, I'll open the middle layer of the drawer now [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Michael",
+    "speaker2_info": "role: dad, name: Ethan",
+    "selected_sound_type": "key jingling",
+    "video_id": 31,
+    "instruction": "open the middle drawer of the cabinet",
+    "caption_en": "The brief, echoing sound of a key.",
+    "selected_filename": "108066.flac",
+    "original_id": 31,
+    "speech_conv": [
+      "./libero_audio/libero_goal_31_1.wav",
+      "./libero_audio/libero_goal_31_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/593.wav",
+    "prompt_audio_speaker2": "./male_adult/335.wav",
+    "duration": 22.539854166666665,
+    "asr_text": " Dad, can you help me with something? Sure, what do you need, son? I need to figure out which drawer to open. Well, if you hear the sound of keys jingling, open the middle layer of the drawer. If you hear the sound of the fridge door closing, open the top layer instead. Got it. Let me know if you hear anything.",
+    "image-path": "./first_frames/libero_goal/episode_0031.jpg"
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The room is a small kitchen with a wooden countertop. On the counter, there is a metal bowl, a ceramic plate with red stripes, a black bottle, and a rectangular object resembling a phone. To the right of the counter is a black drawer with silver handles, and behind it is a wooden rack leaning against the wall. The lighting is soft, and the space feels cozy and functional.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what do you need? [S1] I need to figure out where to put this bowl. [S2] Hmm, okay. If you hear the sound of the light switch click, put the bowl on the top of the drawer. If you hear the sound of the cat meow, leave the bowl on the counter. [S1] Got it. Let me know if you hear anything. [S2] Will do. Just let me know when you're ready.",
+        "response": "So, should I go ahead and put the bowl on top of the drawer?"
+      },
+      {
+        "user": "[S2] Yes, please place the bowl on top of the drawer as instructed.",
+        "response": "Alright, I'll put the bowl on top of the drawer now [ACT]"
+      }
+    ],
+    "speaker1_info": "role: mom, name: Sarah",
+    "speaker2_info": "role: grandpa, name: Michael",
+    "selected_sound_type": "light switch click",
+    "video_id": 17,
+    "instruction": "put the bowl on top of the cabinet",
+    "caption_en": "A light switch with a click sound is pressed, producing a clear mechanical clicking sound during the process, and the button has a distinct tactile feedback.",
+    "selected_filename": "125548.flac",
+    "original_id": 17,
+    "speech_conv": [
+      "./libero_audio/libero_goal_17_1.wav",
+      "./libero_audio/libero_goal_17_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_adult/979.wav",
+    "prompt_audio_speaker2": "./male_senior/790.wav",
+    "duration": 30.012541666666667,
+    "asr_text": " Dad, can you help me with something here? Sure, what do you need? I need to figure out where to put this bowl. Hmm, okay. If you hear the sound of the light switch click, put the bowl on the top of the drawer. If you hear the sound of the cat meow, leave the bowl on the counter. Got it. Let me know if you hear anything. Will do, Chesla.",
+    "image-path": "./first_frames/libero_goal/episode_0017.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9444
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The room is a small kitchen with a wooden table at the center. On the table, there is a black wine bottle standing upright, a silver metal bowl, a white ceramic plate, and a rectangular black drawer with metallic handles. To the side, there is a wooden knife rack tilted slightly. The table is clean and organized, with a stove ignition device nearby. The lighting is soft and warm, creating a cozy atmosphere.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something? [S2] Sure, what do you need? [S1] I need to put this wine bottle somewhere. [S2] If you hear the stove ignition clicks, place the wine bottle on the top of the drawer. If you hear the refrigerator door closing, leave the wine bottle where it is. [S1] Got it. Let me know if you hear anything. [S2] Alright, I'll keep an ear out.",
+        "response": "Should I put the wine bottle inside the silver metal bowl?"
+      },
+      {
+        "user": "[S2] No, it needs to be placed on top of the drawer, not in the bowl.",
+        "response": "Do you want me to place the wine bottle on the top of the drawer?"
+      },
+      {
+        "user": "[S2] Yes, please place the wine bottle on top of the drawer as instructed.",
+        "response": "Alright, I will place the wine bottle on the top of the drawer [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Ethan",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "stove ignition clicks",
+    "video_id": 6,
+    "instruction": "put the wine bottle on top of the cabinet",
+    "caption_en": "The clicking sound when the stove is ignited.",
+    "selected_filename": "134216.flac",
+    "original_id": 6,
+    "speech_conv": [
+      "./libero_audio/libero_goal_6_1.wav",
+      "./libero_audio/libero_goal_6_2.wav",
+      "./libero_audio/libero_goal_6_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/296.wav",
+    "prompt_audio_speaker2": "./male_adult/340.wav",
+    "duration": 32.48985416666667,
+    "asr_text": " Dad, can you help me with something? Sure, what do you need? I need to tell this wine bottle somewhere. If you hear the stove ignition clicks, place the wine bottle on top of the drawer. If you hear the refrigerator door closing, leave the wine bottle where it is. Got it. Let me know if you hear anything. All right. I'll keep an ear out of you. Okay.",
+    "image-path": "./first_frames/libero_goal/episode_0006.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9535
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The kitchen is small but organized, with a light wooden countertop. On the counter, there is a black stove burner, a white ceramic plate, a metallic bowl, and a small black bottle. To the right, there is a black appliance with knobs, resembling an oven. Behind the counter, a wooden rack leans against the wall, holding utensils. The lighting is warm, and the environment feels cozy and functional.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, I think the plate should be moved closer to the stove. [S2] Hmm, I agree, but let’s decide based on what we hear. If you hear the refrigerator door opening and closing, push the plate to the front of the stove. If you hear the sound of furniture dragging, leave it where it is. [S1] Got it. Should I wait for the sound then? [S2] Yes, let’s wait and see. [S1] Alright, I’ll keep an ear out. [S2] Perfect. Let me know what you hear.",
+        "response": "Should I go ahead and push the plate to the front of the stove now?"
+      },
+      {
+        "user": "[S2] Yes, that sounds good, let's move the plate forward as discussed.",
+        "response": "Alright, I'll push the plate to the front of the stove now [ACT]"
+      }
+    ],
+    "speaker1_info": "role: dad, name: Michael",
+    "speaker2_info": "role: grandpa, name: Ethan",
+    "selected_sound_type": "refrigerator door opening and closing",
+    "video_id": 7,
+    "instruction": "push the plate to the front of the stove",
+    "caption_en": "The sound of the refrigerator door opening and closing, accompanied by a slight friction sound when items are taken out from inside the refrigerator.",
+    "selected_filename": "122269.flac",
+    "original_id": 7,
+    "speech_conv": [
+      "./libero_audio/libero_goal_7_1.wav",
+      "./libero_audio/libero_goal_7_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_adult/391.wav",
+    "prompt_audio_speaker2": "./male_senior/294.wav",
+    "duration": 38.20645833333334,
+    "asr_text": " Dad, I think the plate should be moved closer to the stove. Mm-hmm. I agree. But let's decide based on what we hear. If you hear the refrigerator door opening and closing, push the plate to the front of the stove. If you hear the sound of furniture dragging, leave it where it is. Got it. Should I wait for the sound, then? Yes, let's wait and see. All right. I'll keep an ear out. Perfect. Let me know what you hear.",
+    "image-path": "./first_frames/libero_goal/episode_0007.jpg"
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The environment is a small kitchen with light wooden countertops. On the counter, there is a black stovetop, a bottle of wine, a ceramic bowl, a stack of plates, and a small rectangular box. A wooden knife holder is tilted to the side, and a black toaster oven is positioned nearby. The drawer beneath the counter is slightly ajar, revealing its top layer. The room is well-lit, with minimal decorations, giving it a functional and tidy appearance.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what’s up? [S1] I need to put this bowl somewhere, but I’m not sure where it goes. [S2] Hmm, if you hear the sound of drawer operation, open the top layer of the drawer and put the bowl inside. If you hear the sound of metallic collision, just leave the bowl on the counter. [S1] Got it. So, we’re waiting for the sound to decide? [S2] Exactly. Let me know what happens.",
+        "response": "Should I leave the bowl on the stovetop instead?"
+      },
+      {
+        "user": "[S2] No, that's not right. The bowl needs to go inside the drawer.",
+        "response": "Do you want me to open the top layer of the drawer and put the bowl inside?"
+      },
+      {
+        "user": "[S2] Yes, that's exactly what I want you to do right now.",
+        "response": "Okay, I'll open the top layer of the drawer and put the bowl inside [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "drawer operation",
+    "video_id": 3,
+    "instruction": "open the top drawer and put the bowl inside",
+    "caption_en": "The metallic sliding sound of the drawer being pulled out, crisp and with a slight vibration, followed by the dull thud of the drawer closing, which was more solemn and carried a distinct mechanical feel.",
+    "selected_filename": "113865.flac",
+    "original_id": 3,
+    "speech_conv": [
+      "./libero_audio/libero_goal_3_1.wav",
+      "./libero_audio/libero_goal_3_2.wav",
+      "./libero_audio/libero_goal_3_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/465.wav",
+    "prompt_audio_speaker2": "./male_adult/640.wav",
+    "duration": 31.597250000000003,
+    "asr_text": " Dad, can you help me with something here? Sure. What's up? I need to spot this bowl somewhere, but I'm not sure where it goes. Hmm. If you hear the sound of drawer operation, open the top layer of the drawer and put the bowl inside. If you hear the sound of metallic collision, just leave the bowl on the counter. Got it. So, we're waiting for the sound to decide. Exactly. Let me know what happens. Okay.",
+    "image-path": "./first_frames/libero_goal/episode_0003.jpg"
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The room is a small kitchen area with a light wooden countertop. On the countertop, there is a black electric stove burner, a bottle of wine, a metallic bowl, a stack of plates, and a rectangular blue box. To the side, there is a black cabinet with two drawers, and a wooden cutting board leaning against the wall. The lighting is soft and warm, giving the space a cozy feel.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what do you need? [S1] I need to figure out where to put this bowl. [S2] If you hear the sound of teacups clinking, put the bowl on the plate. If you hear the sound of the oven door squeak, leave the bowl where it is. [S1] Got it. Let me know if you need anything else. [S2] Will do, thanks for helping out!",
+        "response": "Do you want me to put the bowl on the plate here on the countertop?"
+      },
+      {
+        "user": "[S2] Yes, that would be perfect, please go ahead and do that for me.",
+        "response": "Alright, I'll put the bowl on the plate for you [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Linda",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "teacups clinking",
+    "video_id": 0,
+    "instruction": "put the bowl on the plate",
+    "caption_en": "Teacups clashed together, producing a crisp sound.",
+    "selected_filename": "107916.flac",
+    "original_id": 0,
+    "speech_conv": [
+      "./libero_audio/libero_goal_0_1.wav",
+      "./libero_audio/libero_goal_0_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/420.wav",
+    "prompt_audio_speaker2": "./male_adult/170.wav",
+    "duration": 26.939854166666667,
+    "asr_text": " Dad, can you help me with something here? Sure, what do you need? I need to figure out where to put this bowl. If you hear the sound of teacups clinking, put the bowl on the plate. If you hear the sound of an oven door squeak, leave the bowl where it is. Got it. Let me know if you need anything else. Will do. Thanks for helping out.",
+    "image-path": "./first_frames/libero_goal/episode_0000.jpg"
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The scene is set in a modern kitchen with a light wooden countertop. On the counter, there is a small electric stove with a single burner, a metallic bowl, a wine bottle, a red-and-white striped plate, and a matchbox. To the side, there is a black cabinet with two drawers, and a wooden knife block with knives sticking out. The lighting is bright, and the overall atmosphere is clean and organized.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need? [S1] I need to put this bowl somewhere, but I'm not sure where. [S2] If you hear the gas stove ignition, put the bowl on the stove. If you hear the sound of marbles poured into a glass bowl, leave it on the counter. [S1] Got it. Let me know if you hear anything.",
+        "response": "Do you want me to place the metallic bowl on the electric stove?"
+      },
+      {
+        "user": "[S2] Yes, please put the metallic bowl on the electric stove for me.",
+        "response": "Alright, I'll place the metallic bowl on the electric stove [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "gas stove ignition",
+    "video_id": 13,
+    "instruction": "put the bowl on the stove",
+    "caption_en": "The sound of the medium flame on a gas stove being ignited by the igniter.",
+    "selected_filename": "102847.flac",
+    "original_id": 13,
+    "speech_conv": [
+      "./libero_audio/libero_goal_13_1.wav",
+      "./libero_audio/libero_goal_13_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/818.wav",
+    "prompt_audio_speaker2": "./male_adult/232.wav",
+    "duration": 43.15175,
+    "asr_text": " Dad, can you help me with something in the kitchen? Sure, what do you need? I need to put this bowl somewhere, but I'm not sure where. If you hear the gas stove ignition, put the bowl on the stove. If you hear the sound marbles pouring into a glass bowl, leave it on the counter. Got it. Let me know if you hear anything. Thank you.",
+    "image-path": "./first_frames/libero_goal/episode_0013.jpg"
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The scene is set in a modern kitchen with a light wooden countertop. On the counter, there is a small black induction stove, a bottle of wine, a ceramic bowl, a plate with red stripes, and a blue smartphone. A wooden knife block with knives is tilted slightly to the side. A black toaster oven sits nearby, and a robotic arm is present but ignored for this task.",
+    "conversation": [
+      {
+        "user": "[S1] dad, can you help me in the kitchen for a second? [S2] Sure, what do you need? [S1] I need to put the cream cheese on the bowl, but I’m not sure when to do it. [S2] Hmm, let’s make it simple. If you hear the microwave door closing and opening, go ahead and put the cream cheese on the bowl. If you hear the blinds snapping, just wait for me to do it. [S1] Got it. Let me know if you hear anything.",
+        "response": "Should I put the cream cheese on the plate with red stripes?"
+      },
+      {
+        "user": "[S2] No, that's not correct, I need the cream cheese in the bowl instead.",
+        "response": "Should I go ahead and put the cream cheese in the bowl now?"
+      },
+      {
+        "user": "[S2] Yes, that's exactly what I want you to do at this moment.",
+        "response": "Alright, I'll put the cream cheese in the bowl now [ACT]"
+      }
+    ],
+    "speaker1_info": "role: mom, name: Sarah",
+    "speaker2_info": "role: grandpa, name: Michael",
+    "selected_sound_type": "microwave door closing and opening",
+    "video_id": 5,
+    "instruction": "put the cream cheese in the bowl",
+    "caption_en": "In the kitchen, the door closed and opened sequentially, producing a distinct mechanical sound. The microwave door opened and closed with a short, noticeable sound, accompanied by a crisp metallic clink.",
+    "selected_filename": "117484.flac",
+    "original_id": 5,
+    "speech_conv": [
+      "./libero_audio/libero_goal_5_1.wav",
+      "./libero_audio/libero_goal_5_2.wav",
+      "./libero_audio/libero_goal_5_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_adult/484.wav",
+    "prompt_audio_speaker2": "./male_senior/658.wav",
+    "duration": 31.76385416666667,
+    "asr_text": " Dad, can you help me in the kitchen for a second? Sure, what do you need? I need to put the cream cheese on the bowl, but I'm not sure when to do it. Hmm, let's make it simple. If you hear the microwave door closing and opening, go ahead and put the cream cheese on the bowl. If you hear the blind snapping, just wait for me to do it. Got it. Let me know if you hear anything. Okay.",
+    "image-path": "./first_frames/libero_goal/episode_0005.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9688
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The kitchen is a small, cozy space with wooden countertops and a light wooden floor. On the counter, there is a wine bottle standing upright next to a bowl and a stack of plates. A wine rack made of polished wood is positioned at an angle, ready to hold bottles. Nearby, there is a small stovetop and a black cabinet with two doors. The room is softly lit, and the atmosphere feels warm and inviting.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with this wine bottle? I’m not sure where to put it. [S2] Sure, son. What do you need me to do? [S1] If you hear the sound of the cupboard door opening and closing, put the wine bottle on the rack. If you hear the sound of the chair moving on the wooden floor, leave it on the counter. [S2] Got it. Let me know if you need anything else.",
+        "response": "Should I place the wine bottle in the cabinet next to the plates?"
+      },
+      {
+        "user": "[S1] No, that's not correct, place the wine bottle on the rack instead.",
+        "response": "Do you want me to place the wine bottle on the rack now?"
+      },
+      {
+        "user": "[S1] Yes, please place the wine bottle on the rack as instructed.",
+        "response": "Okay, I will place the wine bottle on the rack [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "cupboard door opening and closing",
+    "video_id": 1,
+    "instruction": "put the wine bottle on the rack",
+    "caption_en": "A object struck the cabinet door and made a clicking sound, after which the door opened. The door then closed again, producing a similar sound.",
+    "selected_filename": "134072.flac",
+    "original_id": 1,
+    "speech_conv": [
+      "./libero_audio/libero_goal_1_1.wav",
+      "./libero_audio/libero_goal_1_2.wav",
+      "./libero_audio/libero_goal_1_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/143.wav",
+    "prompt_audio_speaker2": "./male_adult/433.wav",
+    "duration": 33.89989583333333,
+    "asr_text": " Dad, can you help me with this wine bottle? I'm not sure where to put it. Sure, son. What do you need me to do? If you hear the sound of the cupboard door opening and closing, put the wine bottle on the rack. If you hear the sound of the chair moving on the wooden floor, leave it on the counter. Got it. Let me know if you need anything else. Okay.",
+    "image-path": "./first_frames/libero_goal/episode_0001.jpg"
+  },
+  {
+    "meta": "libero_goal",
+    "scene_description": "The scene is set in a small, modern kitchen with a light wooden countertop. On the counter, there is a single electric stove burner, a black bottle, a small bowl, a matchbox, and a white plate with a red rim. To the right, there is a black toaster with two slots, and behind it, a stack of wooden cutting boards leaning against the wall. The area is well-lit, and the countertop is clean and organized.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with the stove? I’m not sure how to turn it on. [S2] Sure, let’s figure it out. [S1] If you hear the toaster pop, turn on the stove for me. [S2] Alright, but if you hear the sound of the refrigerator door closing, then you pour water into the small bowl. [S1] Deal. Let’s see what happens. [S2] Sounds good. I’ll keep an ear out.",
+        "response": "Should I pour water into the black bottle instead of turning on the stove?"
+      },
+      {
+        "user": "[S1] No, that's not correct. I need you to turn on the stove for me.",
+        "response": "Do you want me to turn on the stove burner on the counter now?"
+      },
+      {
+        "user": "[S1] Yes, please go ahead and turn on the stove burner for me.",
+        "response": "Okay, I'll turn on the stove burner on the counter [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "toaster pop",
+    "video_id": 9,
+    "instruction": "turn on the stove",
+    "caption_en": "The sound of toast popping out of the toaster.",
+    "selected_filename": "128435.flac",
+    "original_id": 9,
+    "speech_conv": [
+      "./libero_audio/libero_goal_9_1.wav",
+      "./libero_audio/libero_goal_9_2.wav",
+      "./libero_audio/libero_goal_9_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/198.wav",
+    "prompt_audio_speaker2": "./male_adult/975.wav",
+    "duration": 30.96695833333333,
+    "asr_text": " Dad, can you help me with the stove? I'm not sure how to turn it on. Sure, let's figure it out. If you hear the toaster pop, turn on the stove for me. Alright, but if you hear the sound of the refrigerator door closing, then you pour water into the small bowl. Deal. Let's see what happens. Sounds good. I'll keep an ear out.",
+    "image-path": "./first_frames/libero_goal/episode_0009.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The scene is set in a modern kitchen with a light wooden countertop. On the counter, there is a neatly arranged set of items: an akita black bowl positioned between a white ceramic plate with red stripes and a small silver ramekin. Nearby, there is a black drawer unit with metallic handles, a box of crackers, and a stovetop with a pot resting on it. The lighting is bright and natural, highlighting the clean and organized space.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need help with? [S1] There’s an akita black bowl on the counter. If you hear the sound of metal keys clinking, pick it up and place it on the plate. If you hear the sound of glass clinking, leave it where it is. [S2] Got it. Let me know if there’s anything else.",
+        "response": "Do you want me to pick up the akita black bowl between the plate and the ramekin and place it on the plate?"
+      },
+      {
+        "user": "[S1] Yes, that’s exactly what I need you to do right now, thank you!",
+        "response": "Alright, I’ll pick up the akita black bowl between the plate and the ramekin and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Lily",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "metal keys clinking",
+    "video_id": 11,
+    "instruction": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+    "caption_en": "The crisp metallic sound produced by colliding metal keys. The pitch is clear, the tone sharp, the rhythm regular, and the sound comes from the mutual striking of metal objects.",
+    "selected_filename": "133757.flac",
+    "original_id": 11,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_11_1.wav",
+      "./libero_audio/libero_spatial_11_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/662.wav",
+    "prompt_audio_speaker2": "./male_adult/673.wav",
+    "duration": 24.4364375,
+    "asr_text": " Dad, can you help me with something in the kitchen? Sure, what do you need help with? There's an Akita black bowl on the counter. If you hear the sound of metal keys clinking, pick it up and place it on the plate. If you hear the sound of glass clinking, leave it where it is. Dad, let me know if there's anything else.",
+    "image-path": "./first_frames/libero_spatial/episode_0011.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The scene is set in a simple, well-lit kitchen with a light wooden table at the center. On the table, there are several items: a black rectangular cabinet with metallic handles, a small silver bowl, a larger silver bowl, a black akita bowl, a white plate with red stripes, and a small rectangular packet of food seasoning. In the background, there is a robotic arm mounted on a stand, but it is not in use. The table is clean and organized, with the akita black bowl positioned prominently at the center.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what do you need, son? [S1] If you hear the sound of the juicer operation, pick the akita black bowl from the table center and place it on the plate. If you hear the sound of the wind chime, pick the seasoning packet instead and place it on the plate. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. Just keep an ear out for the sound.",
+        "response": "Should I pick the akita black bowl from the table center and place it on the plate?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I need you to do right now, thanks!",
+        "response": "Okay, I'll pick the akita black bowl from the table center and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: dad, name: John",
+    "selected_sound_type": "juicer operation",
+    "video_id": 33,
+    "instruction": "pick up the black bowl from table center and place it on the plate",
+    "caption_en": "The high-speed juicer extracts juice from vegetables, producing a clear, rhythmic sound with a metallic texture of mechanical operation and the sound of liquid flowing.",
+    "selected_filename": "132046.flac",
+    "original_id": 33,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_33_1.wav",
+      "./libero_audio/libero_spatial_33_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/174.wav",
+    "prompt_audio_speaker2": "./male_adult/066.wav",
+    "duration": 33.70252083333333,
+    "asr_text": " Dad, can you help me with something here? Sure. What do you need, son? You've heard the sound of the juicer operation. Pick the Akita black bowl from the table center and place it on the plate. You heard the sound of the wind chime. Pick the seasoning packet instead and place it on the plate. Got it. Let me know if you need anything else. Thanks, Dad. Just keep an ear out for the sound. Thank you.",
+    "image-path": "./first_frames/libero_spatial/episode_0033.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The scene is set on a light wooden table. On the table, there is a black box with drawers on the right side, a small stack of plates on the left, and a cookies box in the center. Next to the cookies box is an Akita black bowl. A metallic plate is also present on the table. In the background, there is a robotic arm, but it is not relevant to the task.",
+    "conversation": [
+      {
+        "user": "[S1] Hey Dad, can you help me with something on the table? [S2] Sure, what do you need? [S1] I need to figure out what to do with the black bowl next to the cookies box. [S2] Hmm, okay. If you hear the sound of the drawer closing, pick the Akita black bowl next to the cookies box and place it on the plate. If you hear the sound of the kettle whistling, leave the bowl where it is and don’t move it. [S1] Got it. Let me know if you hear anything.",
+        "response": "Do you want me to pick the Akita black bowl next to the cookies box and place it on the plate?"
+      },
+      {
+        "user": "[S2] Yes, that's exactly what I need you to do right now, thanks!",
+        "response": "Alright, I'll pick the Akita black bowl next to the cookies box and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "drawer closing",
+    "video_id": 0,
+    "instruction": "pick up the black bowl next to the cookie box and place it on the plate",
+    "caption_en": "The sound of a wooden drawer closing quickly, featuring a crisp wooden collision and a slight vibration effect.",
+    "selected_filename": "107900.flac",
+    "original_id": 0,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_0_1.wav",
+      "./libero_audio/libero_spatial_0_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/361.wav",
+    "prompt_audio_speaker2": "./male_adult/397.wav",
+    "duration": 28.8676875,
+    "asr_text": " Hey, Dad. Can you help me with something on the table? Sure. What do you need? I need to figure out what to do with the black bowl next to the cookies box. Hmm. Okay. If you hear the sound of the drawer closing, pick the Akita black bowl next to the cookies box and place it on the plate. If you hear the sound of the kettle whistling, leave the bowl where it is and don't move it. Got it. Let me know if you hear anything.",
+    "image-path": "./first_frames/libero_spatial/episode_0021.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.993
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The scene is set on a light wooden table with a variety of items neatly arranged. On the left side, there is a small akita black bowl positioned next to a silver ramekin. To the right of these, a white plate with red stripes sits empty, waiting to be used. A small rectangular box, resembling a spice container, is placed between the plate and another silver bowl. Towards the back of the table, there is a black cabinet with three metallic handles, and a small stovetop burner is situated next to it. The environment is clean and minimalistic, with a robotic arm visible in the background, though it is not part of the interaction.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something on the table? [S2] Sure, what do you need? [S1] Well, if you hear the sound of a soda can opening, pick the akita black bowl next to the ramekin and place it on the plate. If you hear the sound of coins dropping, leave the black bowl where it is and just move the ramekin to the plate. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. I'll be right here if you need me.",
+        "response": "Should I move the silver ramekin to the black cabinet instead of the plate?"
+      },
+      {
+        "user": "[S1] No, that's not correct. You need to move the black bowl to the plate.",
+        "response": "Do you want me to pick the akita black bowl next to the ramekin and place it on the plate?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I want you to do right now, thanks!",
+        "response": "Okay, I will pick the akita black bowl next to the ramekin and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Mark",
+    "selected_sound_type": "soda can opening",
+    "video_id": 31,
+    "instruction": "pick up the black bowl next to the ramekin and place it on the plate",
+    "caption_en": "The sound of an opened carbonated beverage can, with a distinct hissing sound of bubbles releasing, clear and stereophonic, recorded up close.",
+    "selected_filename": "102437.flac",
+    "original_id": 31,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_31_1.wav",
+      "./libero_audio/libero_spatial_31_2.wav",
+      "./libero_audio/libero_spatial_31_3.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/135.wav",
+    "prompt_audio_speaker2": "./male_adult/935.wav",
+    "duration": 35.1259375,
+    "asr_text": " Dad, can you help me move something on the table? Sure, what do you need? Well, if you hear the sound of a soda can opening, pick the Akita black ball next to the ramekin and place it on the plate. If you hear the sound of coins dropping, leave the black ball where it is and just move the ramekin to the plate. Got it. Let me know if you need anything else. Thanks, Dad. I'll be right here if you need me. Good try.",
+    "image-path": "./first_frames/libero_spatial/episode_0031.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The environment is a wooden table with various items placed on it. On the table, there is an akita black bowl positioned next to a white plate with red stripes. Nearby, there are two silver bowls, a small rectangular packet, and a black cupboard with three handles. Behind the table, there is a robotic arm mounted on a base.",
+    "conversation": [
+      {
+        "user": "[S1] Mom, can you help me figure out what to do with this bowl? [S2] Sure, what’s the issue? [S1] I’m supposed to pick the akita black bowl next to the plate and place it on the plate, but I’m not sure when to act. [S2] Let’s make it simple. If you hear the sound of the cupboard closing, pick the akita black bowl next to the plate and place it on the plate. If you hear the sound of the chair movement on wooden floor, leave the bowl where it is. [S1] Got it. I’ll wait for the sound to decide. [S2] Perfect, just stay alert!",
+        "response": "Should I move the silver bowl onto the wooden table instead of the plate?"
+      },
+      {
+        "user": "[S2] No, that's incorrect. I need the akita black bowl placed onto the plate.",
+        "response": "Do you want me to pick the akita black bowl next to the plate and place it on the plate?"
+      },
+      {
+        "user": "[S2] Yes, that's exactly what I want you to do. Please proceed.",
+        "response": "Alright, I'll pick the akita black bowl next to the plate and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: mom, name: Sarah",
+    "selected_sound_type": "cupboard closing",
+    "video_id": 30,
+    "instruction": "pick up the black bowl next to the plate and place it on the plate",
+    "caption_en": "A wooden cabinet closing with a loud thud, accompanied by sharp tapping sounds and heavy wooden impacts, in a short and powerful rhythm.",
+    "selected_filename": "13504.flac",
+    "original_id": 30,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_30_1.wav",
+      "./libero_audio/libero_spatial_30_2.wav",
+      "./libero_audio/libero_spatial_30_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/975.wav",
+    "prompt_audio_speaker2": "./female_adult/377.wav",
+    "duration": 46.0451875,
+    "asr_text": " Vaughn, can you help me figure out what to do with this pole? Sure, what's the issue? I'm supposed to put the Akita black bowl next to the plate and place it on the plate, but I'm not sure when to act. Let's make it simple. If you hear the sound of the cupboard closing, pick the Akita black bowl next to the plate and place it on the plate. If you hear the sound of the chair moving on a wooden floor, leave the bowl where it is. Got it. I'll wait for the sound to decide. Perfect, Jess. Stay alert. Thank you.",
+    "image-path": "./first_frames/libero_spatial/episode_0030.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The room is a small kitchen with a light wooden table in the center. On the table, there is a wooden cabinet with three silver handles, a black bowl labeled 'akita' resting on top of it, a red-and-white striped ceramic plate, a small silver container, and a packet of food seasoning. A robotic arm is positioned near the table, but it is inactive. The lighting is soft, and the overall atmosphere is calm and tidy.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something here? [S2] Sure, what do you need, son? [S1] If you hear the sound of the drawer operation, pick the akita black bowl on the wooden cabinet and place it on the plate. If you hear the sound of the oven door opening, leave the bowl where it is and just let me know. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. I’ll be right here if you need me.",
+        "response": "Should I pick up the silver container and place it on the plate?"
+      },
+      {
+        "user": "[S1] No, that’s not correct, you need to pick the akita black bowl instead.",
+        "response": "Do you want me to pick the akita black bowl on the wooden cabinet and place it on the plate?"
+      },
+      {
+        "user": "[S1] Yes, that’s exactly what I need you to do right now.",
+        "response": "Okay, I will pick the akita black bowl on the wooden cabinet and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Ethan",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "drawer operation",
+    "video_id": 17,
+    "instruction": "pick up the black bowl on the wooden cabinet and place it on the plate",
+    "caption_en": "The metallic sliding sound of the drawer being pulled out, crisp and with a slight vibration, followed by the dull thud of the drawer closing, which was more solemn and carried a distinct mechanical feel.",
+    "selected_filename": "113865.flac",
+    "original_id": 17,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_17_1.wav",
+      "./libero_audio/libero_spatial_17_2.wav",
+      "./libero_audio/libero_spatial_17_3.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/593.wav",
+    "prompt_audio_speaker2": "./male_adult/590.wav",
+    "duration": 32.71725,
+    "asr_text": " Dad, can you help me with something here? Sure, Rayoni, son. If you hear the sound of the drawer operation, pick the Akita black bowl on the wooden cabinet and place it on the plate. If you hear the sound of the end door opening, leave the bowl where it is and just let me know. God, Dad, let me know if you need anything else. Thanks, Dad. I'll be right here if you need me. Clang! Clang!",
+    "image-path": "./first_frames/libero_spatial/episode_0017.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The scene is set on a wooden table with a light, smooth surface. On the table, there is a black rectangular box with three small drawers, resembling a cookies box. On top of this box, there is an akita black bowl. To the right of the box, there is a white plate with a red rim. Nearby, a smaller metallic bowl and a circular object resembling a coaster are placed. In the background, there is a robotic arm mounted on a black base, but it is not part of the interaction.",
+    "conversation": [
+      {
+        "user": "[S1] Mom, do you think this bowl looks nice here on the box? [S2] It does, but I think it might look better on the plate. What do you think? [S1] Hmm, maybe. If we hear the sound of a teakettle whistle, let's pick the akita black bowl on the cookies box and place it on the plate. If we hear the sound of a toy squeaking, let's leave it as it is. [S2] That sounds like a plan. Let’s wait and see what happens.",
+        "response": "Should I pick the akita black bowl on the cookies box and place it on the white plate with the red rim?"
+      },
+      {
+        "user": "[S1] Yes, that’s exactly what I want you to do right now, thank you!",
+        "response": "Alright, I'll pick the akita black bowl on the cookies box and place it on the white plate with the red rim [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Ethan",
+    "speaker2_info": "role: mom, name: Sarah",
+    "selected_sound_type": "teakettle whistle",
+    "video_id": 21,
+    "instruction": "pick up the black bowl on the cookie box and place it on the plate",
+    "caption_en": "The sound of the teapot whistling.",
+    "selected_filename": "108335.flac",
+    "original_id": 21,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_21_1.wav",
+      "./libero_audio/libero_spatial_21_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/499.wav",
+    "prompt_audio_speaker2": "./female_adult/661.wav",
+    "duration": 43.3709375,
+    "asr_text": " Mom, do you think this bowl looks nice here on the box? It does, but I think it might look better on the plate. What do you think? Hmm, maybe. If we hear the sound of a tea kettle whistle, let's pick the Akita black bowl on the cookies box and place it on the plate. If we hear the sound of a toy squeaking, let's leave it as it is. That sounds like a plan. Let's wait and see what happens. .",
+    "image-path": "./first_frames/libero_spatial/episode_0000.jpg",
+    "_image_path_from_fuzzy": true,
+    "_fuzzy_ratio": 0.9925
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The room is a small, well-lit kitchen with a wooden table at the center. On the table, there are several items: a black bowl labeled 'akita' resting on a small ramekin, a red-and-white striped plate, and another ramekin nearby. To the side, there is a black cabinet with silver handles, and a small stovetop appliance is positioned at the back of the table. The overall atmosphere is cozy and functional.",
+    "conversation": [
+      {
+        "user": "[S1] Mom, can you help me figure out what to do with these dishes? [S2] Sure, what’s the issue? [S1] I need to move something, but I’m not sure what. [S2] If you hear the sound of a glass tapping, pick the akita black bowl on the ramekin and place it on the plate. If you hear the sound of a wardrobe door sliding, leave everything as it is. [S1] Got it. Thanks for clarifying! [S2] No problem. Let me know if you need more help.",
+        "response": "Do you want me to pick the akita black bowl from the ramekin and place it on the plate?"
+      },
+      {
+        "user": "[S2] Yes, that's exactly what I need you to do right now.",
+        "response": "Alright, I'll pick the akita black bowl from the ramekin and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Alex",
+    "speaker2_info": "role: mom, name: Sarah",
+    "selected_sound_type": "glass tapping",
+    "video_id": 3,
+    "instruction": "pick up the black bowl on the ramekin and place it on the plate",
+    "caption_en": "The glass is gently tapped by a spoon, producing a clear bell-like or clock-like sound.",
+    "selected_filename": "131101.flac",
+    "original_id": 3,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_3_1.wav",
+      "./libero_audio/libero_spatial_3_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/000.wav",
+    "prompt_audio_speaker2": "./female_adult/928.wav",
+    "duration": 45.549187499999995,
+    "asr_text": " Mom, can you help me figure out what to do with these dishes? Sure, what's the issue? I need to move something, but I'm not sure what. If you hear the sound of a glass tapping, pick the Akita black bowl on the ramekin and place it on the plate. If you hear the sound of a wardrobe door sliding, leave everything as it is. Heather, thanks for clarifying. No problem. Let me know if you need more help. Thank you.",
+    "image-path": "./first_frames/libero_spatial/episode_0003.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The setting is a modern kitchen with a light wooden countertop. On the counter, there is a stove with two burners. One burner has a black bowl labeled 'akita' resting on it, while the other burner is empty. Nearby, there is a white ceramic plate with a red rim, a small metal container, and a packet of seasoning. The kitchen has a sleek black cabinet with metallic handles, and the overall atmosphere is clean and organized.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need? [S1] If you hear the sound of a pan being taken off the stove, pick the akita black bowl on the stove and place it on the plate. If you hear the sound of the microwave beep, leave the bowl where it is. [S2] Got it. Let me know if you need anything else. [S1] Thanks, Dad. I’ll be right here if you need me.",
+        "response": "Do you want me to pick the akita black bowl from the stove and place it on the plate?"
+      },
+      {
+        "user": "[S1] Yes, that's exactly what I want you to do. Please proceed now.",
+        "response": "Okay, I'll pick the akita black bowl from the stove and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: daughter, name: Emily",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "pan being taken off stove",
+    "video_id": 6,
+    "instruction": "pick up the black bowl on the stove and place it on the plate",
+    "caption_en": "The sound of the iron wok being taken off the stove, accompanied by the sizzling noise, is crisp and metallic.",
+    "selected_filename": "114504.flac",
+    "original_id": 6,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_6_1.wav",
+      "./libero_audio/libero_spatial_6_2.wav"
+    ],
+    "prompt_audio_speaker1": "./female_child/212.wav",
+    "prompt_audio_speaker2": "./male_adult/607.wav",
+    "duration": 26.18902083333333,
+    "asr_text": " Dad, can you help me with something in the kitchen? Sure, what do you need? If you hear the sound of a pan being taken off the stove, pick the Akita black bowl on the stove and place it on the plate. If you hear the sound of the microwave beat, leave the bowl where it is. Got it. Let me know if you need anything else. Thanks, Dad. It'll be right here if you need it.",
+    "image-path": "./first_frames/libero_spatial/episode_0006.jpg"
+  },
+  {
+    "meta": "libero_spatial",
+    "scene_description": "The room is a small, cozy kitchen with a light wooden table at the center. On the table, there is a wooden cabinet with two layers. The top layer of the cabinet contains an akita black bowl, while the bottom layer is empty. Next to the cabinet, there is a white ceramic plate with red stripes on its edges. A small, unopened packet of seasoning lies flat on the table near the plate. The lighting is warm, and the overall atmosphere is calm and homely.",
+    "conversation": [
+      {
+        "user": "[S1] Dad, can you help me with something in the kitchen? [S2] Sure, what do you need? [S1] I need to set the table, but I’m not sure where the akita black bowl is. [S2] Oh, I think it’s in the wooden cabinet. If you hear the sound of the drawer slamming, pick the akita black bowl from the top layer of the cabinet and place it on the plate. If you hear the sound of chopping food, just leave it there for now. [S1] Got it. Let me know if you need anything else. [S2] Thanks, I’ll keep an ear out for the sounds.",
+        "response": "Do you want me to pick the akita black bowl from the top layer of the wooden cabinet and place it on the plate?"
+      },
+      {
+        "user": "[S2] Yes, that’s exactly what I need you to do right now, thank you!",
+        "response": "Alright, I’ll pick the akita black bowl from the top layer of the wooden cabinet and place it on the plate [ACT]"
+      }
+    ],
+    "speaker1_info": "role: son, name: Ethan",
+    "speaker2_info": "role: dad, name: Michael",
+    "selected_sound_type": "drawer slamming",
+    "video_id": 1,
+    "instruction": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+    "caption_en": "The sound of a drawer being slammed shut, short and crisp, with a metallic or wooden collision.",
+    "selected_filename": "115611.flac",
+    "original_id": 1,
+    "speech_conv": [
+      "./libero_audio/libero_spatial_1_1.wav",
+      "./libero_audio/libero_spatial_1_2.wav"
+    ],
+    "prompt_audio_speaker1": "./male_child/174.wav",
+    "prompt_audio_speaker2": "./male_adult/903.wav",
+    "duration": 55.51916666666666,
+    "drop_reason": "exceed_threshold",
+    "asr_text": " Hi, Satya. Can you help me with something in the kitchen? Sure. What do you need? I need to set the table, but I'm not sure where the Akita black bowl is. Oh, I think it's in the wooden cabinet. If you hear the sound of the drawer slamming, pick the Akita black bowl from the top layer of the cabinet and place it on the plate. If you hear the sound of chopping food, just leave it there for now. Got it, let me know if you need anything else. Thanks, I'll keep an ear out for the sounds.",
+    "image-path": "./first_frames/libero_spatial/episode_0001.jpg"
+  }
+]

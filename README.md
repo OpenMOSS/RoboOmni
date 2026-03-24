@@ -141,6 +141,21 @@ pip install -r experiments/robot/libero/libero_requirements.txt # From RoboOmni 
 ```
 
 #### Evaluation
+
+Before running evaluation:
+
+1. Download the LIBERO evaluation audio data from Hugging Face [🤗 OpenMOSS-Team/OmniAction-LIBERO-eval](https://huggingface.co/OpenMOSS-Team/OmniAction-LIBERO-eval):
+   ```
+   hf download OpenMOSS-Team/OmniAction-LIBERO-eval \
+     --repo-type dataset \
+     --local-dir ./data/libero_audio
+   ```
+2. Set `AUDIO_ROOT_DIR` in `./experiments/libero/roboomni_utils.py` (line 260) to your project path:
+   ```python
+   AUDIO_ROOT_DIR = "./data/libero_audio"
+   ```
+
+
 ```
 python experiments/libero/run_libero_eval.py \
   --pretrained_checkpoint MODEL_PATH \
