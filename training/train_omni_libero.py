@@ -338,10 +338,10 @@ def collate_fn(examples,processor,fast_tokenizer):
 # --- 3. Model Initialization ---
 def load_model_and_processor(config: TrainingConfig, accelerator: Accelerator) -> tuple[Qwen2_5OmniThinkerForConditionalGeneration, AutoProcessor]:
     """Loads the model and processor."""
-    processor = AutoProcessor.from_pretrained("Pretrained Model Path", trust_remote_code=True)
+    processor = AutoProcessor.from_pretrained("OpenMOSS-Team/RoboOmni", trust_remote_code=True)
     processor.tokenizer.padding_side = 'left'
     model = Qwen2_5OmniThinkerForConditionalGeneration.from_pretrained(
-        "Pretrained Model Path",
+        "OpenMOSS-Team/RoboOmni",
         torch_dtype=torch.bfloat16,
         attn_implementation="flash_attention_2"
     )

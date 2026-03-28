@@ -152,7 +152,7 @@ Before running evaluation:
    ```
 2. Set `AUDIO_ROOT_DIR` in `./experiments/libero/roboomni_utils.py` (line 260) to your project path:
    ```python
-   AUDIO_ROOT_DIR = "./data/libero_audio"
+   AUDIO_ROOT_DIR = "./data"
    ```
 
 
