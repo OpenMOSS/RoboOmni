@@ -137,7 +137,7 @@ Clone and install the [LIBERO repo](https://github.com/Lifelong-Robot-Learning/L
 ```
 git clone https://github.com/Lifelong-Robot-Learning/LIBERO.git
 pip install -e LIBERO
-pip install -r experiments/robot/libero/libero_requirements.txt # From RoboOmni base dir
+pip install -r experiments/libero/libero_requirements.txt # From RoboOmni base dir
 ```
 
 #### Evaluation

@@ -62,7 +62,8 @@ def get_args():
     p.add_argument("--logging_frequency", type=int, default=100)
     p.add_argument("--gradient_clipping", type=float, default=None)
     p.add_argument("--future_action_window_size", type=int, default=5)
-
+    p.add_argument("--max_input_tokens", type=int, default=16384,
+               help="The maximum length of input_ids after processor packaging (including multimodal placeholders/special tokens)")
     return p.parse_args()
 
 
@@ -90,7 +91,7 @@ class TrainingConfig:
         gradient_clipping: Optional[float] = None, # Add gradient clipping option
         future_action_window_size: int=5,
         max_input_tokens: int = 16384,
-        length_scan_cache: Optional[str] = None,
+        # length_scan_cache: Optional[str] = None,
     ):
         self.per_device_batch_size = per_device_batch_size
         self.learning_rate = learning_rate
@@ -117,7 +118,7 @@ class TrainingConfig:
         self.future_action_window_size = future_action_window_size
         
         self.max_input_tokens = max_input_tokens
-        self.length_scan_cache = length_scan_cache
+        # self.length_scan_cache = length_scan_cache
 
         os.makedirs(output_dir, exist_ok=True)
 
